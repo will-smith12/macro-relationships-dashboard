@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual environments / package managers
+.venv/
+.venv-*/
+venv/
+env/
+.micromamba/
+.conda/
+
+# Secrets / local config
+.env
+*.local
+
+# Raw proprietary source data (derived CSVs are committed instead)
+*.xlsx
+*.xls
+
+# Logs / scratch
+*.log
+/tmp/

@@ -1,0 +1,376 @@
+relationship,country,lag,r,n,sig,band
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,-12,0.0175,90,False,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,-11,0.0114,91,False,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,-10,0.0345,92,False,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,-9,0.0338,93,False,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,-8,0.0135,94,False,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,-7,0.0239,95,False,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,-6,0.0098,96,False,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,-5,-0.032,97,False,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,-4,-0.0516,98,False,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,-3,0.0327,99,False,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,-2,0.0761,100,False,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,-1,-0.0907,101,False,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,0,-0.8469,102,True,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,1,0.4617,101,True,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,2,-0.0093,100,False,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,3,0.0094,99,False,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,4,0.0592,98,False,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,5,-0.0259,97,False,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,6,0.1109,96,False,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,7,-0.0343,95,False,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,8,-0.0412,94,False,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,9,0.0056,93,False,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,10,0.001,92,False,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,11,0.004,91,False,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,12,-0.0002,90,False,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,-12,0.0762,228,False,0.1265
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,-11,0.0053,229,False,0.1265
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,-10,-0.0102,230,False,0.1265
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,-9,0.0599,231,False,0.1265
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,-8,0.0923,232,False,0.1265
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,-7,0.0203,233,False,0.1265
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,-6,0.0723,234,False,0.1265
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,-5,0.0129,235,False,0.1265
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,-4,-0.0048,236,False,0.1265
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,-3,-0.0362,237,False,0.1265
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,-2,-0.0006,238,False,0.1265
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,-1,-0.1001,239,False,0.1265
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,0,-0.8149,240,True,0.1265
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,1,0.131,239,True,0.1265
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,2,0.0213,238,False,0.1265
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,3,0.0553,237,False,0.1265
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,4,-0.0078,236,False,0.1265
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,5,0.0645,235,False,0.1265
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,6,0.1007,234,False,0.1265
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,7,0.0385,233,False,0.1265
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,8,0.0623,232,False,0.1265
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,9,0.0439,231,False,0.1265
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,10,0.0124,230,False,0.1265
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,11,0.081,229,False,0.1265
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,12,0.0459,228,False,0.1265
+2 · Phillips Curve — Unemployment vs CPI inflation,US,-12,-0.0113,92,False,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,US,-11,-0.0368,93,False,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,US,-10,-0.0749,94,False,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,US,-9,-0.1009,95,False,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,US,-8,-0.1337,96,False,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,US,-7,-0.1867,97,False,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,US,-6,-0.2348,98,True,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,US,-5,-0.2843,99,True,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,US,-4,-0.3319,100,True,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,US,-3,-0.3667,101,True,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,US,-2,-0.3929,102,True,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,US,-1,-0.4202,103,True,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,US,0,-0.4061,104,True,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,US,1,-0.3283,103,True,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,US,2,-0.2389,102,True,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,US,3,-0.1163,101,False,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,US,4,-0.0038,100,False,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,US,5,0.0319,99,False,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,US,6,0.0765,98,False,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,US,7,0.0836,97,False,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,US,8,0.0377,96,False,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,US,9,-0.0567,95,False,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,US,10,-0.1656,94,False,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,US,11,-0.2581,93,True,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,US,12,-0.3392,92,True,0.1922
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,-12,0.4354,230,True,0.126
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,-11,0.4189,231,True,0.126
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,-10,0.3943,232,True,0.126
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,-9,0.367,233,True,0.126
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,-8,0.3314,234,True,0.126
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,-7,0.2902,235,True,0.126
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,-6,0.2433,236,True,0.126
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,-5,0.1924,237,True,0.126
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,-4,0.1396,238,True,0.126
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,-3,0.0843,239,False,0.126
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,-2,0.0314,240,False,0.126
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,-1,-0.0225,241,False,0.126
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,0,-0.0591,242,False,0.126
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1,-0.0854,241,False,0.126
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2,-0.1026,240,False,0.126
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,3,-0.1036,239,False,0.126
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,4,-0.1059,238,False,0.126
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,5,-0.1062,237,False,0.126
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,6,-0.1055,236,False,0.126
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,7,-0.1002,235,False,0.126
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,8,-0.1005,234,False,0.126
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,9,-0.115,233,False,0.126
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,10,-0.1339,232,True,0.126
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,11,-0.1562,231,True,0.126
+2 · Phillips Curve — Unemployment vs CPI inflation,Canada,12,-0.1728,230,True,0.126
+3 · Output gap vs CPI inflation,US,-12,-0.3345,290,True,0.1128
+3 · Output gap vs CPI inflation,US,-11,-0.3533,291,True,0.1128
+3 · Output gap vs CPI inflation,US,-10,-0.3492,292,True,0.1128
+3 · Output gap vs CPI inflation,US,-9,-0.3366,293,True,0.1128
+3 · Output gap vs CPI inflation,US,-8,-0.3266,294,True,0.1128
+3 · Output gap vs CPI inflation,US,-7,-0.3188,295,True,0.1128
+3 · Output gap vs CPI inflation,US,-6,-0.3157,296,True,0.1128
+3 · Output gap vs CPI inflation,US,-5,-0.3037,297,True,0.1128
+3 · Output gap vs CPI inflation,US,-4,-0.2759,298,True,0.1128
+3 · Output gap vs CPI inflation,US,-3,-0.2231,299,True,0.1128
+3 · Output gap vs CPI inflation,US,-2,-0.1581,300,True,0.1128
+3 · Output gap vs CPI inflation,US,-1,-0.0806,301,False,0.1128
+3 · Output gap vs CPI inflation,US,0,-0.0011,302,False,0.1128
+3 · Output gap vs CPI inflation,US,1,0.0474,301,False,0.1128
+3 · Output gap vs CPI inflation,US,2,0.0842,300,False,0.1128
+3 · Output gap vs CPI inflation,US,3,0.1046,299,False,0.1128
+3 · Output gap vs CPI inflation,US,4,0.098,298,False,0.1128
+3 · Output gap vs CPI inflation,US,5,0.0961,297,False,0.1128
+3 · Output gap vs CPI inflation,US,6,0.0805,296,False,0.1128
+3 · Output gap vs CPI inflation,US,7,0.0548,295,False,0.1128
+3 · Output gap vs CPI inflation,US,8,0.0341,294,False,0.1128
+3 · Output gap vs CPI inflation,US,9,0.0246,293,False,0.1128
+3 · Output gap vs CPI inflation,US,10,0.0183,292,False,0.1128
+3 · Output gap vs CPI inflation,US,11,0.0068,291,False,0.1128
+3 · Output gap vs CPI inflation,US,12,-0.0013,290,False,0.1128
+3 · Output gap vs CPI inflation,Canada,-12,-0.079,168,False,0.1461
+3 · Output gap vs CPI inflation,Canada,-11,-0.1444,169,False,0.1461
+3 · Output gap vs CPI inflation,Canada,-10,-0.2111,170,True,0.1461
+3 · Output gap vs CPI inflation,Canada,-9,-0.2741,171,True,0.1461
+3 · Output gap vs CPI inflation,Canada,-8,-0.3322,172,True,0.1461
+3 · Output gap vs CPI inflation,Canada,-7,-0.3732,173,True,0.1461
+3 · Output gap vs CPI inflation,Canada,-6,-0.3868,174,True,0.1461
+3 · Output gap vs CPI inflation,Canada,-5,-0.3685,175,True,0.1461
+3 · Output gap vs CPI inflation,Canada,-4,-0.3187,176,True,0.1461
+3 · Output gap vs CPI inflation,Canada,-3,-0.2324,177,True,0.1461
+3 · Output gap vs CPI inflation,Canada,-2,-0.1238,178,False,0.1461
+3 · Output gap vs CPI inflation,Canada,-1,0.0058,179,False,0.1461
+3 · Output gap vs CPI inflation,Canada,0,0.1094,180,False,0.1461
+3 · Output gap vs CPI inflation,Canada,1,0.154,179,True,0.1461
+3 · Output gap vs CPI inflation,Canada,2,0.1757,178,True,0.1461
+3 · Output gap vs CPI inflation,Canada,3,0.1668,177,True,0.1461
+3 · Output gap vs CPI inflation,Canada,4,0.1536,176,True,0.1461
+3 · Output gap vs CPI inflation,Canada,5,0.1212,175,False,0.1461
+3 · Output gap vs CPI inflation,Canada,6,0.0814,174,False,0.1461
+3 · Output gap vs CPI inflation,Canada,7,0.0416,173,False,0.1461
+3 · Output gap vs CPI inflation,Canada,8,0.0077,172,False,0.1461
+3 · Output gap vs CPI inflation,Canada,9,0.0175,171,False,0.1461
+3 · Output gap vs CPI inflation,Canada,10,0.0434,170,False,0.1461
+3 · Output gap vs CPI inflation,Canada,11,0.0591,169,False,0.1461
+3 · Output gap vs CPI inflation,Canada,12,0.065,168,False,0.1461
+4 · CPI inflation vs short-term policy rate,US,-12,0.0465,92,False,0.1922
+4 · CPI inflation vs short-term policy rate,US,-11,0.0173,93,False,0.1922
+4 · CPI inflation vs short-term policy rate,US,-10,0.0034,94,False,0.1922
+4 · CPI inflation vs short-term policy rate,US,-9,-0.0172,95,False,0.1922
+4 · CPI inflation vs short-term policy rate,US,-8,-0.0502,96,False,0.1922
+4 · CPI inflation vs short-term policy rate,US,-7,-0.0781,97,False,0.1922
+4 · CPI inflation vs short-term policy rate,US,-6,-0.0741,98,False,0.1922
+4 · CPI inflation vs short-term policy rate,US,-5,-0.0462,99,False,0.1922
+4 · CPI inflation vs short-term policy rate,US,-4,0.0038,100,False,0.1922
+4 · CPI inflation vs short-term policy rate,US,-3,0.0802,101,False,0.1922
+4 · CPI inflation vs short-term policy rate,US,-2,0.1479,102,False,0.1922
+4 · CPI inflation vs short-term policy rate,US,-1,0.2117,103,True,0.1922
+4 · CPI inflation vs short-term policy rate,US,0,0.2912,104,True,0.1922
+4 · CPI inflation vs short-term policy rate,US,1,0.3593,103,True,0.1922
+4 · CPI inflation vs short-term policy rate,US,2,0.4303,102,True,0.1922
+4 · CPI inflation vs short-term policy rate,US,3,0.5054,101,True,0.1922
+4 · CPI inflation vs short-term policy rate,US,4,0.5612,100,True,0.1922
+4 · CPI inflation vs short-term policy rate,US,5,0.601,99,True,0.1922
+4 · CPI inflation vs short-term policy rate,US,6,0.6199,98,True,0.1922
+4 · CPI inflation vs short-term policy rate,US,7,0.603,97,True,0.1922
+4 · CPI inflation vs short-term policy rate,US,8,0.558,96,True,0.1922
+4 · CPI inflation vs short-term policy rate,US,9,0.4978,95,True,0.1922
+4 · CPI inflation vs short-term policy rate,US,10,0.4184,94,True,0.1922
+4 · CPI inflation vs short-term policy rate,US,11,0.3439,93,True,0.1922
+4 · CPI inflation vs short-term policy rate,US,12,0.2773,92,True,0.1922
+4 · CPI inflation vs short-term policy rate,Canada,-12,-0.1943,134,True,0.1622
+4 · CPI inflation vs short-term policy rate,Canada,-11,-0.1785,135,True,0.1622
+4 · CPI inflation vs short-term policy rate,Canada,-10,-0.179,136,True,0.1622
+4 · CPI inflation vs short-term policy rate,Canada,-9,-0.1928,137,True,0.1622
+4 · CPI inflation vs short-term policy rate,Canada,-8,-0.2166,138,True,0.1622
+4 · CPI inflation vs short-term policy rate,Canada,-7,-0.1858,139,True,0.1622
+4 · CPI inflation vs short-term policy rate,Canada,-6,-0.1088,140,False,0.1622
+4 · CPI inflation vs short-term policy rate,Canada,-5,-0.0064,141,False,0.1622
+4 · CPI inflation vs short-term policy rate,Canada,-4,0.1002,142,False,0.1622
+4 · CPI inflation vs short-term policy rate,Canada,-3,0.1752,143,True,0.1622
+4 · CPI inflation vs short-term policy rate,Canada,-2,0.2317,144,True,0.1622
+4 · CPI inflation vs short-term policy rate,Canada,-1,0.2887,145,True,0.1622
+4 · CPI inflation vs short-term policy rate,Canada,0,0.3564,146,True,0.1622
+4 · CPI inflation vs short-term policy rate,Canada,1,0.3757,145,True,0.1622
+4 · CPI inflation vs short-term policy rate,Canada,2,0.3832,144,True,0.1622
+4 · CPI inflation vs short-term policy rate,Canada,3,0.3804,143,True,0.1622
+4 · CPI inflation vs short-term policy rate,Canada,4,0.3747,142,True,0.1622
+4 · CPI inflation vs short-term policy rate,Canada,5,0.368,141,True,0.1622
+4 · CPI inflation vs short-term policy rate,Canada,6,0.354,140,True,0.1622
+4 · CPI inflation vs short-term policy rate,Canada,7,0.3162,139,True,0.1622
+4 · CPI inflation vs short-term policy rate,Canada,8,0.261,138,True,0.1622
+4 · CPI inflation vs short-term policy rate,Canada,9,0.2084,137,True,0.1622
+4 · CPI inflation vs short-term policy rate,Canada,10,0.1767,136,True,0.1622
+4 · CPI inflation vs short-term policy rate,Canada,11,0.1672,135,True,0.1622
+4 · CPI inflation vs short-term policy rate,Canada,12,0.1481,134,False,0.1622
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,-12,-0.1098,93,False,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,-11,-0.1676,94,False,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,-10,-0.2018,95,True,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,-9,-0.2269,96,True,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,-8,-0.2422,97,True,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,-7,-0.1441,98,False,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,-6,-0.1381,99,False,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,-5,-0.1328,100,False,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,-4,-0.1221,101,False,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,-3,-0.0863,102,False,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,-2,-0.0505,103,False,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,-1,-0.0554,104,False,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,0,-0.0419,105,False,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,1,-0.0045,104,False,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,2,0.0205,103,False,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,3,0.0573,102,False,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,4,0.0411,101,False,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,5,0.0484,100,False,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,6,0.0565,99,False,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,7,0.074,98,False,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,8,0.0714,97,False,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,9,0.0633,96,False,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,10,0.0623,95,False,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,11,0.0164,94,False,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,12,0.0036,93,False,0.1913
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,-12,0.0108,89,False,0.195
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,-11,-0.031,90,False,0.195
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,-10,-0.0619,91,False,0.195
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,-9,-0.1183,92,False,0.195
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,-8,-0.1688,93,False,0.195
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,-7,-0.1503,94,False,0.195
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,-6,-0.1453,95,False,0.195
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,-5,-0.1457,96,False,0.195
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,-4,-0.1505,97,False,0.195
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,-3,-0.0651,98,False,0.195
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,-2,-0.0095,99,False,0.195
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,-1,-0.0052,100,False,0.195
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,0,0.0192,101,False,0.195
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,1,0.0814,100,False,0.195
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,2,0.0878,99,False,0.195
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,3,0.0761,98,False,0.195
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,4,0.0445,97,False,0.195
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,5,0.0595,96,False,0.195
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,6,0.0564,95,False,0.195
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,7,0.068,94,False,0.195
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,8,0.0493,93,False,0.195
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,9,0.0535,92,False,0.195
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,10,0.055,91,False,0.195
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,11,0.0388,90,False,0.195
+5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,12,0.0242,89,False,0.195
+6 · Energy prices vs CPI inflation,US,-12,0.0202,108,False,0.1789
+6 · Energy prices vs CPI inflation,US,-11,-0.0613,109,False,0.1789
+6 · Energy prices vs CPI inflation,US,-10,-0.1521,110,False,0.1789
+6 · Energy prices vs CPI inflation,US,-9,-0.1952,111,True,0.1789
+6 · Energy prices vs CPI inflation,US,-8,-0.2441,112,True,0.1789
+6 · Energy prices vs CPI inflation,US,-7,-0.2091,113,True,0.1789
+6 · Energy prices vs CPI inflation,US,-6,-0.1906,114,True,0.1789
+6 · Energy prices vs CPI inflation,US,-5,-0.2012,115,True,0.1789
+6 · Energy prices vs CPI inflation,US,-4,-0.0859,116,False,0.1789
+6 · Energy prices vs CPI inflation,US,-3,0.1308,117,False,0.1789
+6 · Energy prices vs CPI inflation,US,-2,0.404,118,True,0.1789
+6 · Energy prices vs CPI inflation,US,-1,0.7027,119,True,0.1789
+6 · Energy prices vs CPI inflation,US,0,0.7958,120,True,0.1789
+6 · Energy prices vs CPI inflation,US,1,0.6446,119,True,0.1789
+6 · Energy prices vs CPI inflation,US,2,0.4922,118,True,0.1789
+6 · Energy prices vs CPI inflation,US,3,0.2972,117,True,0.1789
+6 · Energy prices vs CPI inflation,US,4,0.1494,116,False,0.1789
+6 · Energy prices vs CPI inflation,US,5,0.1129,115,False,0.1789
+6 · Energy prices vs CPI inflation,US,6,-0.0084,114,False,0.1789
+6 · Energy prices vs CPI inflation,US,7,-0.0882,113,False,0.1789
+6 · Energy prices vs CPI inflation,US,8,-0.1104,112,False,0.1789
+6 · Energy prices vs CPI inflation,US,9,-0.1355,111,False,0.1789
+6 · Energy prices vs CPI inflation,US,10,-0.0993,110,False,0.1789
+6 · Energy prices vs CPI inflation,US,11,-0.0758,109,False,0.1789
+6 · Energy prices vs CPI inflation,US,12,-0.0807,108,False,0.1789
+6 · Energy prices vs CPI inflation,Canada,-12,0.3127,246,True,0.122
+6 · Energy prices vs CPI inflation,Canada,-11,0.3285,247,True,0.122
+6 · Energy prices vs CPI inflation,Canada,-10,0.3306,248,True,0.122
+6 · Energy prices vs CPI inflation,Canada,-9,0.335,249,True,0.122
+6 · Energy prices vs CPI inflation,Canada,-8,0.3451,250,True,0.122
+6 · Energy prices vs CPI inflation,Canada,-7,0.3632,251,True,0.122
+6 · Energy prices vs CPI inflation,Canada,-6,0.3902,252,True,0.122
+6 · Energy prices vs CPI inflation,Canada,-5,0.4031,253,True,0.122
+6 · Energy prices vs CPI inflation,Canada,-4,0.4303,254,True,0.122
+6 · Energy prices vs CPI inflation,Canada,-3,0.4884,255,True,0.122
+6 · Energy prices vs CPI inflation,Canada,-2,0.5529,256,True,0.122
+6 · Energy prices vs CPI inflation,Canada,-1,0.6308,257,True,0.122
+6 · Energy prices vs CPI inflation,Canada,0,0.6665,258,True,0.122
+6 · Energy prices vs CPI inflation,Canada,1,0.6418,257,True,0.122
+6 · Energy prices vs CPI inflation,Canada,2,0.5943,256,True,0.122
+6 · Energy prices vs CPI inflation,Canada,3,0.5311,255,True,0.122
+6 · Energy prices vs CPI inflation,Canada,4,0.4643,254,True,0.122
+6 · Energy prices vs CPI inflation,Canada,5,0.4156,253,True,0.122
+6 · Energy prices vs CPI inflation,Canada,6,0.3515,252,True,0.122
+6 · Energy prices vs CPI inflation,Canada,7,0.2884,251,True,0.122
+6 · Energy prices vs CPI inflation,Canada,8,0.2503,250,True,0.122
+6 · Energy prices vs CPI inflation,Canada,9,0.2258,249,True,0.122
+6 · Energy prices vs CPI inflation,Canada,10,0.2129,248,True,0.122
+6 · Energy prices vs CPI inflation,Canada,11,0.2077,247,True,0.122
+6 · Energy prices vs CPI inflation,Canada,12,0.1952,246,True,0.122
+7 · Interest-rate differential vs exchange rate,Cross-border,-12,0.2941,25,False,0.3222
+7 · Interest-rate differential vs exchange rate,Cross-border,-11,0.0781,26,False,0.3222
+7 · Interest-rate differential vs exchange rate,Cross-border,-10,0.157,27,False,0.3222
+7 · Interest-rate differential vs exchange rate,Cross-border,-9,0.2412,28,False,0.3222
+7 · Interest-rate differential vs exchange rate,Cross-border,-8,-0.0738,29,False,0.3222
+7 · Interest-rate differential vs exchange rate,Cross-border,-7,0.0757,30,False,0.3222
+7 · Interest-rate differential vs exchange rate,Cross-border,-6,-0.1086,31,False,0.3222
+7 · Interest-rate differential vs exchange rate,Cross-border,-5,-0.0725,32,False,0.3222
+7 · Interest-rate differential vs exchange rate,Cross-border,-4,-0.0223,33,False,0.3222
+7 · Interest-rate differential vs exchange rate,Cross-border,-3,-0.0299,34,False,0.3222
+7 · Interest-rate differential vs exchange rate,Cross-border,-2,0.1578,35,False,0.3222
+7 · Interest-rate differential vs exchange rate,Cross-border,-1,0.3488,36,True,0.3222
+7 · Interest-rate differential vs exchange rate,Cross-border,0,0.1812,37,False,0.3222
+7 · Interest-rate differential vs exchange rate,Cross-border,1,-0.3045,36,False,0.3222
+7 · Interest-rate differential vs exchange rate,Cross-border,2,-0.0853,35,False,0.3222
+7 · Interest-rate differential vs exchange rate,Cross-border,3,-0.0631,34,False,0.3222
+7 · Interest-rate differential vs exchange rate,Cross-border,4,0.2252,33,False,0.3222
+7 · Interest-rate differential vs exchange rate,Cross-border,5,0.2383,32,False,0.3222
+7 · Interest-rate differential vs exchange rate,Cross-border,6,0.1346,31,False,0.3222
+7 · Interest-rate differential vs exchange rate,Cross-border,7,0.106,30,False,0.3222
+7 · Interest-rate differential vs exchange rate,Cross-border,8,0.0166,29,False,0.3222
+7 · Interest-rate differential vs exchange rate,Cross-border,9,-0.2671,28,False,0.3222
+7 · Interest-rate differential vs exchange rate,Cross-border,10,-0.283,27,False,0.3222
+7 · Interest-rate differential vs exchange rate,Cross-border,11,-0.2508,26,False,0.3222
+7 · Interest-rate differential vs exchange rate,Cross-border,12,-0.1561,25,False,0.3222
+8 · VIX vs GDP growth,US,-12,-0.053,93,False,0.1913
+8 · VIX vs GDP growth,US,-11,-0.0793,94,False,0.1913
+8 · VIX vs GDP growth,US,-10,-0.0946,95,False,0.1913
+8 · VIX vs GDP growth,US,-9,-0.0477,96,False,0.1913
+8 · VIX vs GDP growth,US,-8,-0.0623,97,False,0.1913
+8 · VIX vs GDP growth,US,-7,-0.0298,98,False,0.1913
+8 · VIX vs GDP growth,US,-6,0.0019,99,False,0.1913
+8 · VIX vs GDP growth,US,-5,-0.0348,100,False,0.1913
+8 · VIX vs GDP growth,US,-4,-0.062,101,False,0.1913
+8 · VIX vs GDP growth,US,-3,-0.1556,102,False,0.1913
+8 · VIX vs GDP growth,US,-2,-0.1347,103,False,0.1913
+8 · VIX vs GDP growth,US,-1,-0.2327,104,True,0.1913
+8 · VIX vs GDP growth,US,0,-0.3188,105,True,0.1913
+8 · VIX vs GDP growth,US,1,-0.0668,104,False,0.1913
+8 · VIX vs GDP growth,US,2,0.1091,103,False,0.1913
+8 · VIX vs GDP growth,US,3,-0.0036,102,False,0.1913
+8 · VIX vs GDP growth,US,4,0.0504,101,False,0.1913
+8 · VIX vs GDP growth,US,5,0.0025,100,False,0.1913
+8 · VIX vs GDP growth,US,6,0.0333,99,False,0.1913
+8 · VIX vs GDP growth,US,7,0.1246,98,False,0.1913
+8 · VIX vs GDP growth,US,8,0.0113,97,False,0.1913
+8 · VIX vs GDP growth,US,9,0.0206,96,False,0.1913
+8 · VIX vs GDP growth,US,10,0.1297,95,False,0.1913
+8 · VIX vs GDP growth,US,11,0.0752,94,False,0.1913
+8 · VIX vs GDP growth,US,12,0.0904,93,False,0.1913
+8 · VIX vs GDP growth,Canada,-12,-0.0007,93,False,0.1913
+8 · VIX vs GDP growth,Canada,-11,-0.1054,94,False,0.1913
+8 · VIX vs GDP growth,Canada,-10,-0.1299,95,False,0.1913
+8 · VIX vs GDP growth,Canada,-9,-0.0366,96,False,0.1913
+8 · VIX vs GDP growth,Canada,-8,-0.0324,97,False,0.1913
+8 · VIX vs GDP growth,Canada,-7,0.0148,98,False,0.1913
+8 · VIX vs GDP growth,Canada,-6,0.0333,99,False,0.1913
+8 · VIX vs GDP growth,Canada,-5,-0.0288,100,False,0.1913
+8 · VIX vs GDP growth,Canada,-4,-0.0239,101,False,0.1913
+8 · VIX vs GDP growth,Canada,-3,-0.0546,102,False,0.1913
+8 · VIX vs GDP growth,Canada,-2,-0.067,103,False,0.1913
+8 · VIX vs GDP growth,Canada,-1,-0.1018,104,False,0.1913
+8 · VIX vs GDP growth,Canada,0,-0.2451,105,True,0.1913
+8 · VIX vs GDP growth,Canada,1,-0.1255,104,False,0.1913
+8 · VIX vs GDP growth,Canada,2,0.0908,103,False,0.1913
+8 · VIX vs GDP growth,Canada,3,0.0163,102,False,0.1913
+8 · VIX vs GDP growth,Canada,4,0.0669,101,False,0.1913
+8 · VIX vs GDP growth,Canada,5,0.0505,100,False,0.1913
+8 · VIX vs GDP growth,Canada,6,0.0492,99,False,0.1913
+8 · VIX vs GDP growth,Canada,7,0.178,98,False,0.1913
+8 · VIX vs GDP growth,Canada,8,0.1148,97,False,0.1913
+8 · VIX vs GDP growth,Canada,9,0.0893,96,False,0.1913
+8 · VIX vs GDP growth,Canada,10,0.1349,95,False,0.1913
+8 · VIX vs GDP growth,Canada,11,0.1124,94,False,0.1913
+8 · VIX vs GDP growth,Canada,12,0.0616,93,False,0.1913

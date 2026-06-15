@@ -7,7 +7,7 @@ the United States and Canada**. The headline deliverable is a shareable
 R analysis pipeline.
 
 <!-- After deploying on Streamlit Community Cloud, paste the live URL here: -->
-**▶️ Live demo:** _deploying — URL to be added_
+**▶️ Live demo:** <https://macro-relationships-dashboard-vfbp6xq4ygvxnapt77pm6j.streamlit.app>
 
 ---
 

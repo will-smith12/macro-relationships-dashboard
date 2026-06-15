@@ -25,6 +25,7 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 import plotly.graph_objects as go
+import streamlit.components.v1 as components
 
 # --------------------------------------------------------------------------- #
 # Configuration
@@ -236,10 +237,14 @@ with st.sidebar:
 # --------------------------------------------------------------------------- #
 # Tabs
 # --------------------------------------------------------------------------- #
+# External companion dashboard (separate JS/Chart.js project, deployed on GitHub
+# Pages) embedded as a live iframe in its own tab.
+INDICATORS_URL = "https://will-smith12.github.io/us-canada-macro-dashboard/"
+
 tab_labels = ["🏠 Overview"] + [
     "⚡ Energy & Inflation (TVECM)" if rel_number(n) == 6 else short_label(n)
     for n in REL_NAMES
-]
+] + ["🌐 US-Canada Indicators"]
 tabs = st.tabs(tab_labels)
 
 
@@ -978,3 +983,20 @@ def render_okun_tvp(box, country):
 # --------------------------------------------------------------------------- #
 for i, rel in enumerate(REL_NAMES, start=1):
     render_relationship(tabs[i], rel)
+
+
+# --------------------------------------------------------------------------- #
+# Companion "US & Canada Macro Indicators" dashboard (embedded live iframe)
+# --------------------------------------------------------------------------- #
+with tabs[-1]:
+    st.title("🌐 US & Canada Macro Indicators")
+    st.markdown(
+        "A companion interactive **Chart.js** dashboard of headline US and Canadian "
+        "macro indicators, embedded live from its GitHub Pages deployment. "
+        f"[↗ Open full-screen in a new tab]({INDICATORS_URL})"
+    )
+    st.caption(
+        "Source: a separate project (`will-smith12/us-canada-macro-dashboard`), "
+        "served here for convenience alongside the relationship analysis."
+    )
+    components.iframe(INDICATORS_URL, height=900, scrolling=True)

@@ -49,10 +49,15 @@ WHY = {
         "and inflation. It is notoriously **unstable / regime-dependent** — the "
         "relationship weakened after the 1990s, so Principle 3 (breaks & rolling "
         "correlation) and Principle 4 (common-driver) bite hardest here."),
-    3: ("The **output gap** (actual vs potential GDP) is a textbook driver of "
-        "inflation: an economy running hot pushes prices up, typically with a "
-        "**lag of a few quarters**. We expect a **positive** correlation with the "
-        "**gap leading** inflation — Principle 2 (lead/lag) is decisive."),
+    3: ("The **output gap** (actual vs potential GDP) drives inflation, but "
+        "against the *level* of inflation the demand signal is swamped by supply "
+        "shocks and the monetary regime (1970s stagflation, the Volcker "
+        "disinflation) and nets to ≈0. The textbook fix is the **accelerationist "
+        "/ expectations-augmented Phillips curve** (Gordon's triangle model; "
+        "Stock & Watson 1999): the gap drives the **change in inflation** "
+        "(inflation *acceleration*), not its level. We therefore expect a "
+        "**positive** correlation with the **gap leading or coincident** — "
+        "Principle 2 (lead/lag) is decisive."),
     4: ("Under a **Taylor rule**, the central bank raises the policy rate in "
         "response to inflation, so inflation should **lead** the rate with a "
         "**positive** sign. Principle 4 matters: energy shocks move both, so we "

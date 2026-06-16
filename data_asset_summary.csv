@@ -5,7 +5,7 @@ cpi_ca,Prices :: Consumer Price Index CPI,Trading Economics/StatCan (Canada),195
 energy_ppi,Prices :: Energy Inflation,Trading Economics — Energy Inflation (US),1996-09-30,2026-06-30,Q,120,I(1),0.0768
 energy_ppi_ca,Prices :: Energy Inflation,Trading Economics — Energy Inflation (Canada),1962-03-31,2026-06-30,Q,258,I(1),0.1328
 exchange_rate,Canada (BoC) :: USD/CAD FX,Bank of Canada — USD/CAD,2017-03-31,2026-06-30,Q,38,I(1),0.4131
-gdp_growth,GDP Growth Rate :: United States,Trading Economics (US),1947-06-30,2026-03-31,Q,316,I(0),0.0
+gdp_growth,FRED :: A191RL1Q225SBEA,"FRED — Real GDP growth, SAAR (A191RL1Q225SBEA, US, 1947+)",1947-06-30,2026-03-31,Q,316,I(0),0.0
 gdp_growth_ca,GDP Growth Rate :: Canada,Trading Economics (Canada),1961-06-30,2026-03-31,Q,260,I(0),0.0
 ir_differential,derived:ir_differential,Derived: US Eff. Fed Funds − BoC overnight,2009-06-30,2026-06-30,Q,69,I(1+),0.478
 output_gap,derived:output_gap,Derived: BEA real GDP / CBO potential (US),1949-03-31,2026-06-30,Q,310,I(0),0.0
@@ -17,6 +17,6 @@ prime_rate,Consumer :: Bank Lending Rate,Trading Economics — Bank Lending Rate
 spread_10y2y,US Financial Conditions :: 10Y-2Y Spread,FRED — Treasury (US),2000-03-31,2026-06-30,Q,106,I(0),0.0226
 spread_10y2y_ca,derived:spread_10y2y_ca,Derived: GoC 10Y − GoC 2Y yield (Canada),2001-03-31,2026-06-30,Q,102,I(0),0.0149
 spread_10y3m,US Financial Conditions :: 10Y-3M Spread,FRED — Treasury (US),2000-03-31,2026-06-30,Q,106,I(0),0.0423
-unemployment,Unemployment Rate :: United States,Trading Economics (US),2000-09-30,2026-06-30,Q,104,I(0),0.0455
+unemployment,FRED :: UNRATE,"FRED — Unemployment Rate (UNRATE, US, 1948+)",1948-03-31,2026-06-30,Q,314,I(0),0.0038
 unemployment_ca,Unemployment Rate :: Canada,Trading Economics (Canada),1966-03-31,2026-06-30,Q,242,I(0),0.0438
 vix,US Financial Conditions :: VIX,CBOE/FRED — VIX (US),2000-03-31,2026-06-30,Q,106,I(0),0.0005

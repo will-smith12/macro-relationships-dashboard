@@ -1,11 +1,11 @@
 relationship,country,metric_name,metric_value
-1 · Okun's Law — ΔUnemployment vs GDP growth,US,n_obs,102.0
-1 · Okun's Law — ΔUnemployment vs GDP growth,US,contemporaneous_r,-0.8469
-1 · Okun's Law — ΔUnemployment vs GDP growth,US,auto_peak_r,-0.8469
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,n_obs,312.0
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,contemporaneous_r,-0.7288
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,auto_peak_r,-0.7288
 1 · Okun's Law — ΔUnemployment vs GDP growth,US,auto_peak_lag,0.0
-1 · Okun's Law — ΔUnemployment vs GDP growth,US,theory_peak_r,-0.8469
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,theory_peak_r,-0.7288
 1 · Okun's Law — ΔUnemployment vs GDP growth,US,theory_peak_lag,0.0
-1 · Okun's Law — ΔUnemployment vs GDP growth,US,sig_band_95,0.1941
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,sig_band_95,0.111
 1 · Okun's Law — ΔUnemployment vs GDP growth,US,raw_partial_corr,
 1 · Okun's Law — ΔUnemployment vs GDP growth,US,partial_corr,
 1 · Okun's Law — ΔUnemployment vs GDP growth,US,sign_flip,0.0
@@ -21,17 +21,17 @@ relationship,country,metric_name,metric_value
 1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,partial_corr,
 1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,sign_flip,0.0
 1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,n_breaks,0.0
-2 · Phillips Curve — Unemployment vs CPI inflation,US,n_obs,104.0
-2 · Phillips Curve — Unemployment vs CPI inflation,US,contemporaneous_r,-0.4061
-2 · Phillips Curve — Unemployment vs CPI inflation,US,auto_peak_r,-0.4202
-2 · Phillips Curve — Unemployment vs CPI inflation,US,auto_peak_lag,-1.0
-2 · Phillips Curve — Unemployment vs CPI inflation,US,theory_peak_r,-0.4202
-2 · Phillips Curve — Unemployment vs CPI inflation,US,theory_peak_lag,-1.0
-2 · Phillips Curve — Unemployment vs CPI inflation,US,sig_band_95,0.1922
-2 · Phillips Curve — Unemployment vs CPI inflation,US,raw_partial_corr,-0.4061
-2 · Phillips Curve — Unemployment vs CPI inflation,US,partial_corr,-0.4038
-2 · Phillips Curve — Unemployment vs CPI inflation,US,sign_flip,0.0
-2 · Phillips Curve — Unemployment vs CPI inflation,US,n_breaks,0.0
+2 · Phillips Curve — Unemployment vs CPI inflation,US,n_obs,302.0
+2 · Phillips Curve — Unemployment vs CPI inflation,US,contemporaneous_r,0.0801
+2 · Phillips Curve — Unemployment vs CPI inflation,US,auto_peak_r,0.4494
+2 · Phillips Curve — Unemployment vs CPI inflation,US,auto_peak_lag,-12.0
+2 · Phillips Curve — Unemployment vs CPI inflation,US,theory_peak_r,
+2 · Phillips Curve — Unemployment vs CPI inflation,US,theory_peak_lag,
+2 · Phillips Curve — Unemployment vs CPI inflation,US,sig_band_95,0.1128
+2 · Phillips Curve — Unemployment vs CPI inflation,US,raw_partial_corr,-0.3819
+2 · Phillips Curve — Unemployment vs CPI inflation,US,partial_corr,-0.3911
+2 · Phillips Curve — Unemployment vs CPI inflation,US,sign_flip,1.0
+2 · Phillips Curve — Unemployment vs CPI inflation,US,n_breaks,2.0
 2 · Phillips Curve — Unemployment vs CPI inflation,Canada,n_obs,242.0
 2 · Phillips Curve — Unemployment vs CPI inflation,Canada,contemporaneous_r,-0.0591
 2 · Phillips Curve — Unemployment vs CPI inflation,Canada,auto_peak_r,0.4354
@@ -43,28 +43,28 @@ relationship,country,metric_name,metric_value
 2 · Phillips Curve — Unemployment vs CPI inflation,Canada,partial_corr,0.0
 2 · Phillips Curve — Unemployment vs CPI inflation,Canada,sign_flip,1.0
 2 · Phillips Curve — Unemployment vs CPI inflation,Canada,n_breaks,3.0
-3 · Output gap vs CPI inflation,US,n_obs,302.0
-3 · Output gap vs CPI inflation,US,contemporaneous_r,-0.0011
-3 · Output gap vs CPI inflation,US,auto_peak_r,-0.3533
-3 · Output gap vs CPI inflation,US,auto_peak_lag,-11.0
-3 · Output gap vs CPI inflation,US,theory_peak_r,0.1046
-3 · Output gap vs CPI inflation,US,theory_peak_lag,3.0
-3 · Output gap vs CPI inflation,US,sig_band_95,0.1128
+3 · Output gap vs CPI inflation,US,n_obs,301.0
+3 · Output gap vs CPI inflation,US,contemporaneous_r,0.2179
+3 · Output gap vs CPI inflation,US,auto_peak_r,0.2179
+3 · Output gap vs CPI inflation,US,auto_peak_lag,0.0
+3 · Output gap vs CPI inflation,US,theory_peak_r,0.2179
+3 · Output gap vs CPI inflation,US,theory_peak_lag,0.0
+3 · Output gap vs CPI inflation,US,sig_band_95,0.113
 3 · Output gap vs CPI inflation,US,raw_partial_corr,
 3 · Output gap vs CPI inflation,US,partial_corr,
-3 · Output gap vs CPI inflation,US,sign_flip,1.0
-3 · Output gap vs CPI inflation,US,n_breaks,2.0
+3 · Output gap vs CPI inflation,US,sign_flip,0.0
+3 · Output gap vs CPI inflation,US,n_breaks,0.0
 3 · Output gap vs CPI inflation,Canada,n_obs,180.0
-3 · Output gap vs CPI inflation,Canada,contemporaneous_r,0.1094
-3 · Output gap vs CPI inflation,Canada,auto_peak_r,-0.3868
-3 · Output gap vs CPI inflation,Canada,auto_peak_lag,-6.0
-3 · Output gap vs CPI inflation,Canada,theory_peak_r,0.1757
-3 · Output gap vs CPI inflation,Canada,theory_peak_lag,2.0
+3 · Output gap vs CPI inflation,Canada,contemporaneous_r,0.2177
+3 · Output gap vs CPI inflation,Canada,auto_peak_r,0.2826
+3 · Output gap vs CPI inflation,Canada,auto_peak_lag,-1.0
+3 · Output gap vs CPI inflation,Canada,theory_peak_r,0.2177
+3 · Output gap vs CPI inflation,Canada,theory_peak_lag,0.0
 3 · Output gap vs CPI inflation,Canada,sig_band_95,0.1461
 3 · Output gap vs CPI inflation,Canada,raw_partial_corr,
 3 · Output gap vs CPI inflation,Canada,partial_corr,
-3 · Output gap vs CPI inflation,Canada,sign_flip,1.0
-3 · Output gap vs CPI inflation,Canada,n_breaks,1.0
+3 · Output gap vs CPI inflation,Canada,sign_flip,0.0
+3 · Output gap vs CPI inflation,Canada,n_breaks,0.0
 4 · CPI inflation vs short-term policy rate,US,n_obs,104.0
 4 · CPI inflation vs short-term policy rate,US,contemporaneous_r,0.2912
 4 · CPI inflation vs short-term policy rate,US,auto_peak_r,0.6199

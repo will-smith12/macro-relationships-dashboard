@@ -209,7 +209,8 @@ WB_DERIVE_INPUTS = {
 
 # Source/provenance labels for the Data Asset catalogue (both layouts).
 SOURCES = {
-    "gdp_growth": "Trading Economics (US)", "unemployment": "Trading Economics (US)",
+    "gdp_growth": "FRED — Real GDP growth, SAAR (A191RL1Q225SBEA, US, 1947+)",
+    "unemployment": "FRED — Unemployment Rate (UNRATE, US, 1948+)",
     "cpi": "Trading Economics/FRED (US)", "core_cpi": "Trading Economics/FRED (US)",
     "ppi": "Trading Economics/FRED (US)",
     "output_gap": "Derived: BEA real GDP / CBO potential (US)",
@@ -333,6 +334,8 @@ def apply_transform(s, kind):
       "diff"  -> first difference
       "pct"   -> period-on-period % change
       "yoy"   -> year-on-year % change (the standard inflation measure)
+      "yoy_diff" -> change in YoY inflation (inflation acceleration; the
+                    accelerationist Phillips-curve dependent variable)
     """
     s = pd.Series(s).astype(float)
     if kind == "level":
@@ -343,6 +346,14 @@ def apply_transform(s, kind):
         return s.pct_change() * 100.0, "% change"
     if kind == "yoy":
         return s.pct_change(PERIODS_YR) * 100.0, f"YoY % ({PERIODS_YR}p)"
+    if kind == "yoy_diff":
+        # Change in YoY inflation (inflation ACCELERATION) — the dependent
+        # variable of the accelerationist / expectations-augmented Phillips curve
+        # (Gordon's triangle model; Stock & Watson 1999). Differencing the
+        # inflation level strips the regime/trend component that otherwise swamps
+        # the demand-pull signal, so the output gap enters with its correct sign.
+        return (s.pct_change(PERIODS_YR) * 100.0).diff(), \
+            f"Δ YoY % (inflation accel., {PERIODS_YR}p)"
     # auto
     rep = adf_report(s)
     # Treat I(1) AND I(1+) (still non-stationary after one diff) as needing a
@@ -911,6 +922,39 @@ def _to_freq(s, agg):
     r = s.resample(rule)
     return (r.last() if agg == "last" else r.mean()).dropna()
 
+# --- shared: full-history US series straight from FRED (stdlib-only) --------
+def _fetch_fred(series_id, start="1947-01-01"):
+    """Fetch a FRED series via the public REST API using only the standard
+    library. Returns a datetime-indexed float ``Series`` (oldest->newest) or
+    ``None`` if the key is missing / the request fails. Authenticated with the
+    ``FRED_API_KEY`` environment variable (free key from fredstlouisfed.org)."""
+    import os, json, ssl, urllib.parse, urllib.request
+    key = os.environ.get("FRED_API_KEY")
+    if not key:
+        print(f"   [FRED] {series_id}: FRED_API_KEY not set — skipping override")
+        return None
+    query = urllib.parse.urlencode({
+        "series_id": series_id, "api_key": key, "file_type": "json",
+        "observation_start": start,
+    })
+    url = f"https://api.stlouisfed.org/fred/series/observations?{query}"
+    try:                                          # prefer certifi's CA bundle
+        import certifi
+        ctx = ssl.create_default_context(cafile=certifi.where())
+    except Exception:                             # noqa: BLE001
+        ctx = ssl.create_default_context()
+    try:
+        with urllib.request.urlopen(url, timeout=30, context=ctx) as resp:
+            data = json.load(resp)
+    except Exception as exc:                       # noqa: BLE001
+        print(f"   [FRED] {series_id}: fetch failed ({exc}) — keeping workbook")
+        return None
+    obs = data.get("observations", [])
+    idx = pd.to_datetime([o["date"] for o in obs], errors="coerce")
+    val = pd.to_numeric(pd.Series([o.get("value") for o in obs]), errors="coerce")
+    s = pd.Series(val.values, index=idx).dropna().sort_index()
+    return s if not s.empty else None
+
 # ===========================  single_sheet  ================================
 def _load_single_sheet():
     global DF, AVAILABLE
@@ -1051,6 +1095,28 @@ def _load_master_workbook():
     # WTI is intentionally absent from this workbook.
     missing.append("wti (WTI crude PRICE not in workbook; energy proxy used instead)")
 
+    # 6) US Okun inputs from FRED (FULL history) -----------------------------
+    #    The workbook's Trading-Economics US "Unemployment Rate" and "GDP Growth
+    #    Rate" sheets only start ~2000, which silently truncates Okun's Law
+    #    (rel 1) to a 25-year sample and biases the time-varying slope toward
+    #    zero (the 2008/2020 shocks dominate a short window). FRED carries the
+    #    SAME definitions back to 1947-48: UNRATE (BLS unemployment rate) and
+    #    A191RL1Q225SBEA (BEA real-GDP growth, % change SAAR). We override the US
+    #    series with the full-history FRED data; on any failure (no key / no
+    #    network) we keep the workbook series so the run still completes.
+    _fred_us = {"unemployment": "UNRATE", "gdp_growth": "A191RL1Q225SBEA"}
+    for _logical, _sid in _fred_us.items():
+        _raw = _fetch_fred(_sid, start="1947-01-01")
+        if _raw is None or _raw.empty:
+            continue
+        _q = _to_freq(_raw, "mean")
+        _was = present.get(_logical)
+        _was_from = f"{_was.index.min():%Y-%m}" if _was is not None and len(_was) else "—"
+        present[_logical] = _q
+        print(f"   FRED override: {_logical} <- {_sid}  "
+              f"{_q.index.min():%Y-%m}..{_q.index.max():%Y-%m} "
+              f"({len(_q)} q; workbook started {_was_from})")
+
     DF = pd.DataFrame(present).sort_index()
     AVAILABLE = present
     if DF.empty:
@@ -1096,6 +1162,10 @@ code(r'''
 def _origin(logical):
     """Human-readable origin of a series for the catalogue, for either layout."""
     if LAYOUT == "master_workbook":
+        # US Okun inputs are overridden with full-history FRED data (see loader).
+        if logical in ("unemployment", "gdp_growth"):
+            return {"unemployment": "FRED :: UNRATE",
+                    "gdp_growth": "FRED :: A191RL1Q225SBEA"}[logical]
         spec = WB_SPEC.get(logical, {})
         if spec.get("derive"):
             return f"derived:{spec['derive']}"
@@ -1486,28 +1556,35 @@ if r: SUMMARY.append(r)
 
 # ---------- 3. Output gap vs inflation ----------
 md(r"""
-### 2.3 · Output gap vs CPI inflation  *(expect positive, inflation LAGS)*
+### 2.3 · Output gap vs CPI inflation  *(accelerationist: gap → Δinflation)*
 
-A positive output gap (demand above potential) builds price pressure with a
-delay. **Why these principles bite:** the output gap is already stationary
-(use as-is, Principle 1); the action is in the **lead/lag** (Principle 2) — we
-expect the peak correlation at a *positive* lag of several quarters, with the gap
-leading inflation. A static contemporaneous correlation understates the link.
+A positive output gap (demand above potential) builds price pressure. **Why we
+use the accelerationist form:** correlating the gap with the *level* of inflation
+is dominated by the supply-shock/monetary regime (the 1970s stagflation, the
+Volcker disinflation) — over the full sample the demand signal nets to ≈0 and
+even flips sign. The textbook fix (Gordon's *triangle* model; Stock & Watson
+1999) is the **expectations-augmented / accelerationist** Phillips curve: the gap
+drives the **change in inflation** (inflation *acceleration*), not its level.
+**Principles:** the gap is already stationary (use as-is, Principle 1); inflation
+is entered as **Δ(YoY %)** so both sides are stationary; the action is the
+**lead/lag** (Principle 2) — expect a *positive* peak with the gap leading or
+coincident. A static contemporaneous correlation on the inflation *level*
+understates (indeed hides) the link.
 """)
 code(r'''
 r = analyze_relationship(
     "rel3_gap_infl", "3 · Output gap vs CPI inflation",
     "output_gap", "cpi",
-    x_transform="level", y_transform="yoy",
+    x_transform="level", y_transform="yoy_diff",
     expected_lead="x", expected_sign="+", expected_leader="x", fig_n=3, country="US",
-    expect="positive; output gap LEADS inflation by several quarters")
+    expect="positive; output gap LEADS the CHANGE in inflation (accelerationist PC)")
 if r: SUMMARY.append(r)
 r = analyze_relationship(
     "rel3_gap_infl", "3 · Output gap vs CPI inflation",
     "output_gap_ca", "cpi_ca",
-    x_transform="level", y_transform="yoy",
+    x_transform="level", y_transform="yoy_diff",
     expected_lead="x", expected_sign="+", expected_leader="x", fig_n=3, country="Canada",
-    expect="positive; output gap LEADS inflation by several quarters")
+    expect="positive; output gap LEADS the CHANGE in inflation (accelerationist PC)")
 if r: SUMMARY.append(r)
 ''')
 

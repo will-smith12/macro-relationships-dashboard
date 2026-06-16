@@ -1,10 +1,10 @@
 Relationship,Country,Transform,Headline correlation,Contemporaneous r,Auto peak r,Auto peak lag,Theory peak r,Theory peak lag,Leading variable,Cointegrated?,Sign-flips across regimes?,Survives common-driver control?,Auto/Theory divergence
-1 · Okun's Law — ΔUnemployment vs GDP growth,US,unemployment:Δ | gdp_growth:levels,-0.847,-0.847,-0.847,0,-0.847,0,—,n/a,No,n/a,—
+1 · Okun's Law — ΔUnemployment vs GDP growth,US,unemployment:Δ | gdp_growth:levels,-0.729,-0.729,-0.729,0,-0.729,0,—,n/a,No,n/a,—
 1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,unemployment_ca:Δ | gdp_growth_ca:levels,-0.815,-0.815,-0.815,0,-0.815,0,—,n/a,No,n/a,—
-2 · Phillips Curve — Unemployment vs CPI inflation,US,unemployment:levels | cpi:YoY,-0.406,-0.406,-0.42,-1,-0.42,-1,cpi,n/a,No,Yes,—
+2 · Phillips Curve — Unemployment vs CPI inflation,US,unemployment:levels | cpi:YoY,0.08,0.08,0.449,-12,none,none,cpi,n/a,Yes,Yes,—
 2 · Phillips Curve — Unemployment vs CPI inflation,Canada,unemployment_ca:levels | cpi_ca:YoY,-0.059,-0.059,0.435,-12,-0.173,12,cpi_ca,n/a,Yes,No (flips/collapses),auto +0.44@-12 vs theory -0.17@+12
-3 · Output gap vs CPI inflation,US,output_gap:levels | cpi:YoY,-0.001,-0.001,-0.353,-11,0.105,3,cpi,n/a,Yes,n/a,auto -0.35@-11 vs theory +0.10@+3
-3 · Output gap vs CPI inflation,Canada,output_gap_ca:levels | cpi_ca:YoY,0.109,0.109,-0.387,-6,0.176,2,cpi_ca,n/a,Yes,n/a,auto -0.39@-6 vs theory +0.18@+2
+3 · Output gap vs CPI inflation,US,output_gap:levels | cpi:Δ,0.218,0.218,0.218,0,0.218,0,—,n/a,No,n/a,—
+3 · Output gap vs CPI inflation,Canada,output_gap_ca:levels | cpi_ca:Δ,0.218,0.218,0.283,-1,0.218,0,cpi_ca,n/a,No,n/a,—
 4 · CPI inflation vs short-term policy rate,US,cpi:YoY | policy_rate:levels,0.291,0.291,0.62,6,0.62,6,cpi,n/a,Yes,Yes,—
 4 · CPI inflation vs short-term policy rate,Canada,cpi_ca:YoY | policy_rate_ca:levels,0.356,0.356,0.383,2,0.383,2,cpi_ca,n/a,No,Yes,—
 5 · Yield-curve slope (10Y-3M) vs GDP growth,US,spread_10y3m:levels | gdp_growth:levels,-0.042,-0.042,-0.242,-8,0.074,7,gdp_growth,n/a,No,n/a,auto -0.24@-8 vs theory +0.07@+7

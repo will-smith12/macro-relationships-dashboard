@@ -46,9 +46,16 @@ WHY = {
         "We difference unemployment so both sides are flows — a dimensionally "
         "consistent comparison. Expect a clear **negative** contemporaneous link."),
     2: ("The **Phillips Curve** posits an inverse trade-off between unemployment "
-        "and inflation. It is notoriously **unstable / regime-dependent** — the "
-        "relationship weakened after the 1990s, so Principle 3 (breaks & rolling "
-        "correlation) and Principle 4 (common-driver) bite hardest here."),
+        "and inflation. It is notoriously **unstable / regime-dependent**: over "
+        "the full 1948+ sample the naive correlation is actually **flat / slightly "
+        "positive**, because the **1970s stagflation** (high unemployment *and* "
+        "high inflation) swamps the textbook inverse link — so *no* lead/lag "
+        "carries the expected negative sign. The trade-off only re-appears within "
+        "specific eras (it was clearest from the 1990s on), which is exactly why "
+        "**Principle 3 (breaks & rolling correlation)** and **Principle 4 "
+        "(common-driver)** bite hardest here. Treat the flat full-sample number "
+        "as the *breakdown finding*, and read the rolling correlation for the "
+        "era-by-era story."),
     3: ("The **output gap** (actual vs potential GDP) drives inflation, but "
         "against the *level* of inflation the demand signal is swamped by supply "
         "shocks and the monetary regime (1970s stagflation, the Volcker "
@@ -199,6 +206,19 @@ def fmt(v, nd=3, dash="—"):
         return f"{float(v):.{nd}f}"
     except (TypeError, ValueError):
         return str(v)
+
+
+def is_missing(v) -> bool:
+    """True for an absent / non-numeric metric (None, NaN, or the sentinel
+    strings the exporter writes when no value exists, e.g. a theory-peak that
+    has no theory-consistent lag)."""
+    if v is None:
+        return True
+    if isinstance(v, float) and np.isnan(v):
+        return True
+    if isinstance(v, str) and v.strip().lower() in ("none", "nan", "", "—"):
+        return True
+    return False
 
 
 # --------------------------------------------------------------------------- #
@@ -379,6 +399,9 @@ def render_panel(box, rel_name: str, country: str, compact: bool):
 
     # ---- DELIVERABLE 1: COEFFICIENT ------------------------------------- #
     box.markdown("**① Coefficient**")
+    theory_missing = is_missing(theory_r)
+    if theory_missing:
+        theory_lag = None          # keep CCF marker / lag-slider robust
     sig_contemp = (band is not None and contemp is not None
                    and not np.isnan(float(contemp))
                    and abs(float(contemp)) > float(band))
@@ -388,8 +411,10 @@ def render_panel(box, rel_name: str, country: str, compact: bool):
     k2.metric("Significant @95%?", "Yes ✓" if sig_contemp else "No",
               help=f"|r| vs ±{fmt(band)} band (±1.96/√n).")
     k3, k4 = box.columns(2)
-    k3.metric("Theory-peak r", fmt(theory_r),
-              help="Largest |r| consistent with the expected sign & direction.")
+    k3.metric("Theory-peak r", "— none" if theory_missing else fmt(theory_r),
+              help="Largest |r| consistent with the expected sign & direction. "
+                   "'— none' means NO lead/lag matches the theory-expected sign "
+                   "over this sample — the relationship has broken down here.")
     k4.metric("Observations (n)",
               fmt(n_obs, nd=0) if n_obs is not None else "—")
     box.caption(f"Transform used: **{row.get('Transform', '—')}**")
@@ -398,9 +423,25 @@ def render_panel(box, rel_name: str, country: str, compact: bool):
     box.markdown("**② Lead-lag**")
     l1, l2, l3 = box.columns(3)
     l1.metric("Theory peak lag (Q)",
-              fmt(theory_lag, nd=0) if theory_lag is not None else "—")
+              "— none" if theory_missing
+              else (fmt(theory_lag, nd=0) if theory_lag is not None else "—"))
     l2.metric("Leading variable", str(lead_var))
     l3.metric("Auto peak", f"{fmt(auto_r)} @ {fmt(auto_lag, nd=0)}Q")
+
+    # No theory-consistent peak anywhere in the window is itself the finding:
+    # the expected relationship has no stable sign on this sample — the
+    # regime-breakdown signature (corroborated by the sign-flip / rolling
+    # correlation under Principle 3 below).
+    if theory_missing:
+        box.warning(
+            "**No theory-consistent peak.** Across the full sample, *no* lead or "
+            "lag shows the theory-expected sign — so there is no stable "
+            "coefficient to report. This is the **regime-breakdown** signature, "
+            "not a missing number: the link holds in some eras and reverses in "
+            "others (the static full-sample correlation nets toward zero / the "
+            "'wrong' sign). See the **rolling correlation and sign-flips "
+            "(Principle 3)** below for the era-by-era picture."
+        )
 
     if str(divergence).strip() not in ("—", "", "nan"):
         box.warning(

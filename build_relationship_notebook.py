@@ -1930,6 +1930,27 @@ _out = str(Path(OUTPUT_DIR) / "okun_tvp_regimes.csv")
 okun_tvp_reg_df.to_csv(_out, index=False)
 print(f"Saved -> {_out}  ({len(okun_tvp_reg_df)} rows, long)")
 
+# (9) build_info.json — data-vintage stamp the dashboard surfaces so the live
+#     deployment is always verifiable (which data/commit is actually running).
+import json as _json
+from datetime import datetime as _dt, timezone as _tz
+try:
+    _dates = pd.to_datetime(series_df["date"], errors="coerce").dropna()
+    _dmin = _dates.min().date().isoformat() if len(_dates) else None
+    _dmax = _dates.max().date().isoformat() if len(_dates) else None
+except Exception:
+    _dmin = _dmax = None
+_build_info = {
+    "generated_utc": _dt.now(_tz.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+    "n_relationships": int(len(summary_df)),
+    "panel_start": _dmin,
+    "panel_end": _dmax,
+}
+_out = str(Path(OUTPUT_DIR) / "build_info.json")
+with open(_out, "w", encoding="utf-8") as _fh:
+    _json.dump(_build_info, _fh, indent=2)
+print(f"Saved -> {_out}  ({_build_info['generated_utc']})")
+
 print("\ndashboard_data.csv preview:")
 print(dashboard_df.head(8).to_string(index=False))
 ''')
@@ -1974,7 +1995,7 @@ for name in ["output_gap_diagnostic.png",
              "data_asset_summary.csv", "relationship_summary.csv",
              "dashboard_data.csv", "rolling_correlations.csv",
              "ccf_data.csv", "series_data.csv", "breaks_data.csv",
-             "okun_tvp.csv", "okun_tvp_regimes.csv"]:
+             "okun_tvp.csv", "okun_tvp_regimes.csv", "build_info.json"]:
     p = Path(OUTPUT_DIR) / name
     print(f"  {name}" + ("" if p.exists() else "   (not yet generated)"))
 ''')

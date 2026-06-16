@@ -107,6 +107,32 @@ def load_csv(name: str) -> pd.DataFrame:
 
 
 @st.cache_data(show_spinner=False)
+def load_build_info() -> dict:
+    """Data-vintage stamp written by the notebook (build_info.json), plus a
+    best-effort short commit SHA, so the live deployment is always verifiable."""
+    import json
+    import subprocess
+
+    info: dict = {}
+    path = DATA_DIR / "build_info.json"
+    if path.exists():
+        try:
+            info = json.loads(path.read_text())
+        except Exception:
+            info = {}
+    try:
+        sha = subprocess.run(
+            ["git", "rev-parse", "--short", "HEAD"],
+            cwd=str(DATA_DIR), capture_output=True, text=True, timeout=3,
+        )
+        if sha.returncode == 0 and sha.stdout.strip():
+            info["commit"] = sha.stdout.strip()
+    except Exception:
+        pass
+    return info
+
+
+@st.cache_data(show_spinner=False)
 def load_all():
     summary = load_csv("relationship_summary.csv")
     dash = load_csv("dashboard_data.csv")
@@ -260,6 +286,17 @@ with st.sidebar:
                 mime="text/csv", use_container_width=True, key=f"dl_{fname}",
             )
     st.caption(f"Data folder: `{DATA_DIR}`")
+
+    _bi = load_build_info()
+    if _bi:
+        _stamp = []
+        if _bi.get("generated_utc"):
+            _stamp.append(f"🛈 Data vintage: **{_bi['generated_utc']}**")
+        if _bi.get("commit"):
+            _stamp.append(f"commit `{_bi['commit']}`")
+        if _bi.get("panel_start") and _bi.get("panel_end"):
+            _stamp.append(f"panel {_bi['panel_start']} → {_bi['panel_end']}")
+        st.caption(" · ".join(_stamp))
 
 
 # --------------------------------------------------------------------------- #

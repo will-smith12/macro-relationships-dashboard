@@ -215,7 +215,8 @@ SOURCES = {
     "ppi": "Trading Economics/FRED (US)",
     "output_gap": "Derived: BEA real GDP / CBO potential (US)",
     "policy_rate": "FRED — Eff. Fed Funds (US)", "prime_rate": "Trading Economics — Bank Lending Rate (US)",
-    "spread_10y3m": "FRED — Treasury (US)", "spread_10y2y": "FRED — Treasury (US)",
+    "spread_10y3m": "FRED — Treasury (US)",
+    "spread_10y2y": "FRED — 10Y−2Y Treasury slope (T10Y2Y, US, 1976+)",
     "wti": "N/A — not in workbook", "energy_ppi": "Trading Economics — Energy Inflation (US)",
     "exchange_rate": "Bank of Canada — USD/CAD",
     "vix": "CBOE/FRED — VIX (US)",
@@ -1095,16 +1096,19 @@ def _load_master_workbook():
     # WTI is intentionally absent from this workbook.
     missing.append("wti (WTI crude PRICE not in workbook; energy proxy used instead)")
 
-    # 6) US Okun inputs from FRED (FULL history) -----------------------------
-    #    The workbook's Trading-Economics US "Unemployment Rate" and "GDP Growth
-    #    Rate" sheets only start ~2000, which silently truncates Okun's Law
-    #    (rel 1) to a 25-year sample and biases the time-varying slope toward
-    #    zero (the 2008/2020 shocks dominate a short window). FRED carries the
-    #    SAME definitions back to 1947-48: UNRATE (BLS unemployment rate) and
-    #    A191RL1Q225SBEA (BEA real-GDP growth, % change SAAR). We override the US
-    #    series with the full-history FRED data; on any failure (no key / no
+    # 6) US series from FRED (FULL history) ----------------------------------
+    #    The workbook's Trading-Economics US sheets only start ~2000, which
+    #    silently truncates several relationships to a 25-year sample. FRED
+    #    carries the SAME definitions much further back, so we override the US
+    #    series with full-history FRED data; on any failure (no key / no
     #    network) we keep the workbook series so the run still completes.
-    _fred_us = {"unemployment": "UNRATE", "gdp_growth": "A191RL1Q225SBEA"}
+    #      * unemployment   <- UNRATE          (BLS unemployment rate, 1948+)
+    #      * gdp_growth      <- A191RL1Q225SBEA (BEA real-GDP growth, SAAR, 1947+)
+    #      * spread_10y2y    <- T10Y2Y          (10Y minus 2Y Treasury, 1976+)
+    #    The 10Y-2Y override aligns the US yield-slope panel (rel 5) with the
+    #    Canadian 10Y-2Y proxy AND roughly doubles its sample (1976 vs 2000).
+    _fred_us = {"unemployment": "UNRATE", "gdp_growth": "A191RL1Q225SBEA",
+                "spread_10y2y": "T10Y2Y"}
     for _logical, _sid in _fred_us.items():
         _raw = _fetch_fred(_sid, start="1947-01-01")
         if _raw is None or _raw.empty:
@@ -1163,9 +1167,10 @@ def _origin(logical):
     """Human-readable origin of a series for the catalogue, for either layout."""
     if LAYOUT == "master_workbook":
         # US Okun inputs are overridden with full-history FRED data (see loader).
-        if logical in ("unemployment", "gdp_growth"):
+        if logical in ("unemployment", "gdp_growth", "spread_10y2y"):
             return {"unemployment": "FRED :: UNRATE",
-                    "gdp_growth": "FRED :: A191RL1Q225SBEA"}[logical]
+                    "gdp_growth": "FRED :: A191RL1Q225SBEA",
+                    "spread_10y2y": "FRED :: T10Y2Y"}[logical]
         spec = WB_SPEC.get(logical, {})
         if spec.get("derive"):
             return f"derived:{spec['derive']}"
@@ -1624,31 +1629,33 @@ if r: SUMMARY.append(r)
 
 # ---------- 5. Yield-curve slope vs GDP growth ----------
 md(r"""
-### 2.5 · Yield-curve slope (10Y–3M) vs GDP growth  *(slope LEADS growth)*
+### 2.5 · Yield-curve slope (10Y–2Y) vs GDP growth  *(slope LEADS growth)*
 
 The term spread is the classic recession predictor: a flat/inverted curve today
 foreshadows weak growth in 6–18 months. **Why these principles bite:** the spread
 is already stationary (use as-is, Principle 1); everything is in the **lead/lag**
 (Principle 2) — we expect the peak correlation at a *positive* lag with the slope
 leading growth. The rolling correlation (Principle 3) shows how reliable the
-signal has been across cycles. **Canada note:** the workbook has no 3-month GoC
-yield, so the Canadian panel uses the **10Y–2Y** slope (GoC 10Y − GoC 2Y) as the
-closest available proxy, while the US panel keeps the canonical **10Y–3M**.
+signal has been across cycles. **Apples-to-apples:** both countries now use the
+**10Y–2Y** slope so the panels are directly comparable. The US slope comes from
+FRED (`T10Y2Y`, back to **1976**); Canada is built from the workbook's GoC 10Y −
+GoC 2Y yields (from **2001** — FRED has no Government-of-Canada 2-year benchmark,
+so the Canadian leg cannot be extended further back).
 """)
 code(r'''
 r = analyze_relationship(
-    "rel5_slope_gdp", "5 · Yield-curve slope (10Y-3M) vs GDP growth",
-    pick("spread_10y3m", "spread_10y2y"), "gdp_growth",
+    "rel5_slope_gdp", "5 · Yield-curve slope (10Y-2Y) vs GDP growth",
+    "spread_10y2y", "gdp_growth",
     x_transform="level", y_transform="auto",
     expected_lead="x", expected_sign="+", expected_leader="x", fig_n=5, country="US",
-    expect="positive; curve slope LEADS GDP growth by ~6-18 months")
+    expect="positive; 10Y-2Y curve slope LEADS GDP growth by ~6-18 months")
 if r: SUMMARY.append(r)
 r = analyze_relationship(
-    "rel5_slope_gdp", "5 · Yield-curve slope (10Y-3M) vs GDP growth",
+    "rel5_slope_gdp", "5 · Yield-curve slope (10Y-2Y) vs GDP growth",
     "spread_10y2y_ca", "gdp_growth_ca",
     x_transform="level", y_transform="auto",
     expected_lead="x", expected_sign="+", expected_leader="x", fig_n=5, country="Canada",
-    expect="positive; curve slope LEADS GDP growth (Canada uses 10Y-2Y proxy)")
+    expect="positive; 10Y-2Y curve slope LEADS GDP growth (Canada GoC 10Y-2Y, 2001+)")
 if r: SUMMARY.append(r)
 ''')
 

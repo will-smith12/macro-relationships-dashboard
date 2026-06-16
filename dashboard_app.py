@@ -69,7 +69,7 @@ WHY = {
         "response to inflation, so inflation should **lead** the rate with a "
         "**positive** sign. Principle 4 matters: energy shocks move both, so we "
         "check the link survives controlling for energy."),
-    5: ("The **yield-curve slope** (10Y-3M) is a classic recession predictor: an "
+    5: ("The **yield-curve slope** (10Y-2Y) is a classic recession predictor: an "
         "inversion today signals weak growth 6–18 months out. We therefore expect "
         "the **slope to lead** GDP growth at a **positive** lag — a pure Principle 2 "
         "story a static correlation matrix would miss."),
@@ -388,8 +388,9 @@ def render_panel(box, rel_name: str, country: str, compact: bool):
     # by a shared relationship label).
     if n == 5 and country == "Canada":
         box.caption(
-            "⚠️ Canada uses a **10Y-2Y** slope proxy (GoC 10Y − GoC 2Y); no GoC 3M "
-            "series exists. The US panel uses the canonical 10Y-3M."
+            "⚠️ Both panels use the **10Y–2Y** slope. Canada is GoC 10Y − GoC 2Y "
+            "from **2001+** (FRED has no Government-of-Canada 2-year benchmark to "
+            "extend it); the US slope (FRED `T10Y2Y`) runs from **1976**."
         )
     if n == 8 and country == "Canada":
         box.caption(

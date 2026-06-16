@@ -355,6 +355,17 @@ def apply_transform(s, kind):
         # the demand-pull signal, so the output gap enters with its correct sign.
         return (s.pct_change(PERIODS_YR) * 100.0).diff(), \
             f"Δ YoY % (inflation accel., {PERIODS_YR}p)"
+    if kind == "fwd_avg":
+        # Forward-looking average of the next PERIODS_YR periods (the dependent
+        # variable in the term-structure forecasting literature: Estrella &
+        # Hardouvelis / Estrella & Mishkin regress the yield-curve slope on the
+        # AVERAGE real-GDP growth over the following year, not a single noisy
+        # annualised quarter). For a series g, value at t = mean(g_{t+1..t+P}),
+        # so the *contemporaneous* correlation with the slope IS the forecast.
+        # Averaging over the horizon also damps one-off outliers (the 2020-21
+        # COVID swings) without discretionary sample deletion.
+        fwd = s.rolling(PERIODS_YR).mean().shift(-PERIODS_YR)
+        return fwd, f"avg next {PERIODS_YR}q (forecast)"
     # auto
     rep = adf_report(s)
     # Treat I(1) AND I(1+) (still non-stationary after one diff) as needing a
@@ -556,7 +567,7 @@ def analyze_relationship(rid, title, xkey, ykey, *,
                          partial_driver_key=None, driver_transform=None,
                          graph_only=False, expect="", expected_lead=None,
                          expected_sign=None, expected_leader=None, fig_n=None,
-                         country="US"):
+                         country="US", exclude_periods=None):
     """Full single-relationship analysis: prints the report, draws + saves the
     two-panel figure, and returns one master-summary row (or None if skipped).
 
@@ -588,6 +599,25 @@ def analyze_relationship(rid, title, xkey, ykey, *,
           f"(p_lvl={adf_x['p_level']:.3f}) -> transform: {xlab}")
     print(f"     {yname:<16} ADF order={adf_y['order']:<5} "
           f"(p_lvl={adf_y['p_level']:.3f}) -> transform: {ylab}")
+
+    # --- optional sample exclusion (e.g. COVID outliers) -------------------
+    # Drop user-specified date ranges from BOTH transformed series BEFORE any
+    # correlation / CCF / regime / rolling computation. This keeps extreme
+    # structural outliers — chiefly the 2020-21 COVID GDP swings (-28%/+35%
+    # annualised), which are bivariate outliers that dominate a Pearson r — from
+    # masking the underlying relationship. Masked as NaN (not dropped) so the
+    # time index stays continuous: rolling windows simply span the gap and every
+    # downstream step already dropna()s. Scoped per relationship via the
+    # exclude_periods=[(lo, hi), ...] argument so other panels are untouched.
+    if exclude_periods:
+        xtr, ytr = xtr.copy(), ytr.copy()
+        for _lo, _hi in exclude_periods:
+            xtr[(xtr.index >= pd.Timestamp(_lo)) & (xtr.index <= pd.Timestamp(_hi))] = np.nan
+            ytr[(ytr.index >= pd.Timestamp(_lo)) & (ytr.index <= pd.Timestamp(_hi))] = np.nan
+        _excl = ", ".join(f"{a}..{b}" for a, b in exclude_periods)
+        _nmask = int((pd.concat([xtr, ytr], axis=1).isna().any(axis=1)).sum())
+        print(f"     [P1b] Sample exclusion: dropped {_excl}  "
+              f"({_nmask} quarters masked from x/y before analysis)")
 
     # --- PRINCIPLE 1b: cointegration eligibility -----------------------------
     # Cointegration (Johansen on the RAW LEVELS) is only valid when BOTH series
@@ -1681,34 +1711,44 @@ if r: SUMMARY.append(r)
 
 # ---------- 5. Yield-curve slope vs GDP growth ----------
 md(r"""
-### 2.5 · Yield-curve slope (10Y–2Y) vs GDP growth  *(slope LEADS growth)*
+### 2.5 · Yield-curve slope (10Y–2Y) vs GDP growth  *(slope FORECASTS growth)*
 
 The term spread is the classic recession predictor: a flat/inverted curve today
-foreshadows weak growth in 6–18 months. **Why these principles bite:** the spread
-is already stationary (use as-is, Principle 1); everything is in the **lead/lag**
-(Principle 2) — we expect the peak correlation at a *positive* lag with the slope
-leading growth. The rolling correlation (Principle 3) shows how reliable the
-signal has been across cycles. **Apples-to-apples:** both countries now use the
-**10Y–2Y** slope so the panels are directly comparable. The US slope comes from
-FRED (`T10Y2Y`, back to **1976**); Canada is built from Statistics Canada's GoC
-benchmark 2Y/10Y bond yields (`v122538`/`v122543`, back to **1982** — a clean
-benchmark spread that matches the workbook-derived series at r≈0.998 over the
-2001+ overlap, with the workbook GoC yields kept as a fallback).
+foreshadows weak growth over the year ahead. **Why these principles bite:** the
+spread is already stationary (use as-is, Principle 1); the relationship is
+inherently **forward-looking** (Principle 2). Rather than chase a noisy
+single-quarter annualised GDP print, we follow the term-structure literature
+(Estrella–Hardouvelis; Estrella–Mishkin) and target the **average real-GDP
+growth over the next four quarters** — so the *contemporaneous* correlation with
+the slope **is** the one-year-ahead forecast. Averaging over the horizon also
+damps one-off outliers (the 2020-21 COVID swings) without deleting any data, so
+the full continuous sample is retained. The rolling correlation (Principle 3)
+shows how reliable the signal has been across cycles. **Apples-to-apples:** both
+countries use the **10Y–2Y** slope. The US slope comes from FRED (`T10Y2Y`, back
+to **1976**); Canada from Statistics Canada's GoC benchmark 2Y/10Y yields
+(`v122538`/`v122543`, back to **1982**; matches the workbook spread at r≈0.998
+over the 2001+ overlap, with the workbook GoC yields kept as a fallback).
+
+> **Note on the negative auto-peak.** A separate *negative* correlation at short
+> lags (growth leading the slope) is the **monetary-policy reaction**: strong
+> growth → the central bank hikes short rates → the curve flattens a few quarters
+> later. That channel is real but is *not* the forecasting relationship, so the
+> theory-peak (slope → future growth, positive) is the headline here.
 """)
 code(r'''
 r = analyze_relationship(
     "rel5_slope_gdp", "5 · Yield-curve slope (10Y-2Y) vs GDP growth",
     "spread_10y2y", "gdp_growth",
-    x_transform="level", y_transform="auto",
+    x_transform="level", y_transform="fwd_avg",
     expected_lead="x", expected_sign="+", expected_leader="x", fig_n=5, country="US",
-    expect="positive; 10Y-2Y curve slope LEADS GDP growth by ~6-18 months")
+    expect="positive; 10Y-2Y slope FORECASTS avg GDP growth over the next year")
 if r: SUMMARY.append(r)
 r = analyze_relationship(
     "rel5_slope_gdp", "5 · Yield-curve slope (10Y-2Y) vs GDP growth",
     "spread_10y2y_ca", "gdp_growth_ca",
-    x_transform="level", y_transform="auto",
+    x_transform="level", y_transform="fwd_avg",
     expected_lead="x", expected_sign="+", expected_leader="x", fig_n=5, country="Canada",
-    expect="positive; 10Y-2Y curve slope LEADS GDP growth (Canada GoC 10Y-2Y, 1982+)")
+    expect="positive; 10Y-2Y slope FORECASTS avg GDP growth over the next year (Canada GoC 10Y-2Y, 1982+)")
 if r: SUMMARY.append(r)
 ''')
 

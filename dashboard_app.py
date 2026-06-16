@@ -70,9 +70,12 @@ WHY = {
         "**positive** sign. Principle 4 matters: energy shocks move both, so we "
         "check the link survives controlling for energy."),
     5: ("The **yield-curve slope** (10Y-2Y) is a classic recession predictor: an "
-        "inversion today signals weak growth 6–18 months out. We therefore expect "
-        "the **slope to lead** GDP growth at a **positive** lag — a pure Principle 2 "
-        "story a static correlation matrix would miss."),
+        "inversion today signals weak growth over the year ahead. We target the "
+        "**average GDP growth over the next 4 quarters** (the term-structure "
+        "forecasting literature's dependent variable), so the contemporaneous "
+        "correlation is the one-year-ahead forecast — a Principle 2 story a static "
+        "matrix would miss. A separate *negative* short-lag peak is the monetary-"
+        "policy reaction (growth → rate hikes → flatter curve), not the forecast."),
     6: ("**Energy prices** pass through to headline inflation fast and strongly, but the "
         "raw correlation hides the real structure. Both series are **I(1) and "
         "cointegrated**, so the honest model is a **threshold vector error-correction "
@@ -386,6 +389,13 @@ def render_panel(box, rel_name: str, country: str, compact: bool):
     box.markdown(f"### {CC_LABEL.get(country, country)}")
     # Country-specific methodology caveats (kept visible so the team isn't misled
     # by a shared relationship label).
+    if n == 5:
+        box.caption(
+            "📈 Target is the **average GDP growth over the next 4 quarters** "
+            "(one-year-ahead forecast, per Estrella–Mishkin), not a single noisy "
+            "quarter — so the contemporaneous correlation *is* the forecast, and "
+            "the 2020–21 COVID swings are damped without deleting any data."
+        )
     if n == 5 and country == "Canada":
         box.caption(
             "⚠️ Both panels use the **10Y–2Y** slope. Canada is the GoC benchmark "

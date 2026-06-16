@@ -388,9 +388,9 @@ def render_panel(box, rel_name: str, country: str, compact: bool):
     # by a shared relationship label).
     if n == 5 and country == "Canada":
         box.caption(
-            "⚠️ Both panels use the **10Y–2Y** slope. Canada is GoC 10Y − GoC 2Y "
-            "from **2001+** (FRED has no Government-of-Canada 2-year benchmark to "
-            "extend it); the US slope (FRED `T10Y2Y`) runs from **1976**."
+            "⚠️ Both panels use the **10Y–2Y** slope. Canada is the GoC benchmark "
+            "10Y − 2Y from StatCan (`v122543`/`v122538`), back to **1982**; the US "
+            "slope (FRED `T10Y2Y`) runs from **1976** — directly comparable samples."
         )
     if n == 8 and country == "Canada":
         box.caption(

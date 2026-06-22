@@ -217,11 +217,11 @@ SOURCES = {
     "policy_rate": "FRED — Eff. Fed Funds (US)", "prime_rate": "Trading Economics — Bank Lending Rate (US)",
     "spread_10y3m": "FRED — Treasury (US)",
     "spread_10y2y": "FRED — 10Y−2Y Treasury slope (T10Y2Y, US, 1976+)",
-    "wti": "N/A — not in workbook", "energy_ppi": "Trading Economics — Energy Inflation (US)",
+    "wti": "N/A — not in workbook", "energy_ppi": "Trading Economics (US); FRED fallback — CPIENGSL energy-CPI YoY",
     "exchange_rate": "Bank of Canada — USD/CAD",
     "vix": "CBOE/FRED — VIX (US)",
     # REV 10 Canadian counterparts:
-    "gdp_growth_ca": "Trading Economics (Canada)", "unemployment_ca": "Trading Economics (Canada)",
+    "gdp_growth_ca": "Trading Economics (Canada); FRED fallback — NGDPRSAXDCCAQ real-GDP QoQ %", "unemployment_ca": "Trading Economics (Canada)",
     "cpi_ca": "Trading Economics/StatCan (Canada)", "energy_ppi_ca": "Trading Economics — Energy Inflation (Canada)",
     "policy_rate_ca": "Bank of Canada — policy rate (Canada)",
     "output_gap_ca": "Bank of Canada — MPR output gap % (Canada)",
@@ -956,6 +956,7 @@ series only disables the relationships that need it; everything else still runs.
 code(r'''
 DF = None
 AVAILABLE = {}
+ORIGIN_OVERRIDE = {}   # logical -> human origin, set when a FRED fallback fires
 
 def _excel_path():
     """Resolve EXCEL_PATH, expanding a leading '~' to the home directory."""
@@ -1110,7 +1111,7 @@ def _wb_extract(xl_cache, spec):
     return _to_freq(s, spec.get("agg", "mean")), None
 
 def _load_master_workbook():
-    global DF, AVAILABLE
+    global DF, AVAILABLE, ORIGIN_OVERRIDE
     path = _excel_path()
     if not path.exists():
         print(f"*** Workbook not found: {path.resolve()} — edit EXCEL_PATH. ***")
@@ -1217,6 +1218,53 @@ def _load_master_workbook():
               f"{_q.index.min():%Y-%m}..{_q.index.max():%Y-%m} "
               f"({len(_q)} q; workbook started {_was_from})")
 
+    # 7) Self-healing fallbacks for workbook columns that ship BLANK in some
+    #    vintages. The Trading-Economics workbook intermittently delivers an
+    #    empty "Canada" column on the GDP-Growth-Rate sheet and an empty "United
+    #    States" column on the Prices/Energy-Inflation sheet. When that happens
+    #    those series are absent from `present`, silently dropping rels 1-CA /
+    #    5-CA / 8-CA (Canada GDP growth) and rel 6-US (US energy). Backfill from
+    #    FRED in the SAME definition/scale the workbook used, so the panel is
+    #    reproducible regardless of workbook gaps. These are FALLBACKS: a
+    #    populated workbook column is always preferred over the FRED fill.
+    def _drop_missing(logical):
+        # remove any "<logical> (...)" entry from the missing-series warnings
+        missing[:] = [m for m in missing if not m.startswith(logical + " ")]
+
+    # 7a) Canada real-GDP growth, QoQ % (NOT annualised) — matches the
+    #     Trading-Economics workbook convention (committed CA values ≈0.8 == QoQ
+    #     of a ~3.3% SAAR quarter). Source: OECD-via-FRED real GDP level
+    #     NGDPRSAXDCCAQ (SA, 1961+); growth = quarterly pct_change × 100.
+    #     Validated vs the last good workbook vintage at r≈1.0.
+    if present.get("gdp_growth_ca") is None or present["gdp_growth_ca"].dropna().empty:
+        _ca_lvl = _fetch_fred("NGDPRSAXDCCAQ", start="1947-01-01")
+        if _ca_lvl is not None and not _ca_lvl.empty:
+            _ca_g = (_to_freq(_ca_lvl, "last").pct_change() * 100.0).dropna()
+            if not _ca_g.empty:
+                present["gdp_growth_ca"] = _ca_g
+                _drop_missing("gdp_growth_ca")
+                ORIGIN_OVERRIDE["gdp_growth_ca"] = "FRED :: NGDPRSAXDCCAQ (QoQ %)"
+                print(f"   FRED fallback: gdp_growth_ca <- NGDPRSAXDCCAQ (QoQ %)  "
+                      f"{_ca_g.index.min():%Y-%m}..{_ca_g.index.max():%Y-%m} "
+                      f"({len(_ca_g)} q; workbook column was blank)")
+
+    # 7b) US energy CPI inflation, YoY % — matches the workbook "Energy
+    #     Inflation" series and its Canadian counterpart energy_ppi_ca
+    #     (committed US vs FRED corr 0.997). Source: FRED CPIENGSL (US energy
+    #     CPI index, monthly 1957+); inflation = YoY pct_change × 100, then
+    #     quarterly mean.
+    if present.get("energy_ppi") is None or present["energy_ppi"].dropna().empty:
+        _us_eng = _fetch_fred("CPIENGSL", start="1947-01-01")
+        if _us_eng is not None and not _us_eng.empty:
+            _us_ey = _to_freq((_us_eng.pct_change(12) * 100.0).dropna(), "mean")
+            if _us_ey is not None and not _us_ey.empty:
+                present["energy_ppi"] = _us_ey
+                _drop_missing("energy_ppi")
+                ORIGIN_OVERRIDE["energy_ppi"] = "FRED :: CPIENGSL (YoY %)"
+                print(f"   FRED fallback: energy_ppi <- CPIENGSL (YoY %)  "
+                      f"{_us_ey.index.min():%Y-%m}..{_us_ey.index.max():%Y-%m} "
+                      f"({len(_us_ey)} q; workbook column was blank)")
+
     DF = pd.DataFrame(present).sort_index()
     AVAILABLE = present
     if DF.empty:
@@ -1268,6 +1316,9 @@ def _origin(logical):
                     "gdp_growth": "FRED :: A191RL1Q225SBEA",
                     "spread_10y2y": "FRED :: T10Y2Y",
                     "spread_10y2y_ca": "StatCan :: v122543 - v122538"}[logical]
+        # Series filled from a FRED fallback when the workbook column was blank.
+        if logical in ORIGIN_OVERRIDE:
+            return ORIGIN_OVERRIDE[logical]
         spec = WB_SPEC.get(logical, {})
         if spec.get("derive"):
             return f"derived:{spec['derive']}"

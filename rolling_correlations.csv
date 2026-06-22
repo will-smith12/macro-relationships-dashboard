@@ -529,528 +529,527 @@ date,country,relationship,rolling_corr
 2025-09-30,Canada,1 · Okun's Law — ΔUnemployment vs GDP growth,-0.0577
 2025-12-31,Canada,1 · Okun's Law — ΔUnemployment vs GDP growth,0.224
 2026-03-31,Canada,1 · Okun's Law — ΔUnemployment vs GDP growth,0.38
-1953-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.4514
-1954-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0407
-1954-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.1894
-1954-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3508
-1954-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6491
-1955-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6351
-1955-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5873
-1955-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5888
-1955-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5702
-1956-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4985
-1956-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3566
-1956-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3778
-1956-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4271
-1957-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5428
-1957-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6002
-1957-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6283
-1957-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2457
-1958-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.2945
-1958-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.3215
-1958-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.1786
-1958-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.0218
-1959-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2532
-1959-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2543
-1959-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2975
-1959-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.263
-1960-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0919
-1960-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.093
-1960-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.3801
-1960-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.5476
-1961-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.568
-1961-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.1352
-1961-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.1321
-1961-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2481
-1962-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2885
-1962-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5094
-1962-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5084
-1962-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4939
-1963-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.396
-1963-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.264
-1963-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2458
-1963-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3498
-1964-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5037
-1964-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2168
-1964-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5068
-1964-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.2816
-1965-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.3563
-1965-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2278
-1965-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3521
-1965-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5494
-1966-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7306
-1966-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.813
-1966-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7985
-1966-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8772
-1967-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.9051
-1967-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.9148
-1967-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.9099
-1967-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8686
-1968-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7855
-1968-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8892
-1968-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.9209
-1968-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.9238
-1969-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.9414
-1969-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.9446
-1969-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.886
-1969-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8218
-1970-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3145
-1970-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.1446
-1970-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.2881
-1970-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.3787
-1971-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.1392
-1971-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.1421
-1971-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4683
-1971-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6468
-1972-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7026
-1972-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6915
-1972-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6725
-1972-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5563
-1973-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4269
-1973-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3939
-1973-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5527
-1973-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7255
-1974-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6767
-1974-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6323
-1974-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3972
-1974-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.1476
-1975-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.317
-1975-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.3456
-1975-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.2794
-1975-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.1224
-1976-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.1232
-1976-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3357
-1976-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4916
-1976-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5624
-1977-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5263
-1977-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4107
-1977-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0218
-1977-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.5419
-1978-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.454
-1978-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.136
-1978-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6589
-1978-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8673
-1979-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8628
-1979-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8631
-1979-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8096
-1979-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7032
-1980-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5284
-1980-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.0108
-1980-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.2862
-1980-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.4326
-1981-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.4044
-1981-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.232
-1981-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.1059
-1981-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2629
-1982-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6109
-1982-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.801
-1982-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8936
-1982-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.9303
-1983-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.9309
-1983-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.945
-1983-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.923
-1983-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8517
-1984-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7371
-1984-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5407
-1984-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2812
-1984-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.1231
-1985-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0739
-1985-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2942
-1985-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4304
-1985-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5356
-1986-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3595
-1986-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.0579
-1986-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.5092
-1986-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.8185
-1987-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.6203
-1987-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.2406
-1987-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.1987
-1987-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.46
-1988-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5725
-1988-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7037
-1988-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7718
-1988-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8939
-1989-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.9071
-1989-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.9003
-1989-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8522
-1989-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8114
-1990-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6631
-1990-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5162
-1990-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.062
-1990-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.4357
-1991-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.3717
-1991-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.203
-1991-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2122
-1991-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.48
-1992-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5953
-1992-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6562
-1992-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7629
-1992-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8142
-1993-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8194
-1993-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.9185
-1993-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7854
-1993-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4153
-1994-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.0092
-1994-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.6465
-1994-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.6347
-1994-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.6451
-1995-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.5058
-1995-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.2432
-1995-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.2464
-1995-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.2774
-1996-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.0203
-1996-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2756
-1996-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4059
-1996-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5641
-1997-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4125
-1997-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.223
-1997-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.4452
-1997-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.7038
-1998-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.7893
-1998-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.8047
-1998-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.8726
-1998-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.9163
-1999-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.9045
-1999-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.8685
-1999-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.6376
-1999-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.1441
-2000-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4736
-2000-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7436
-2000-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.903
-2000-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.9342
-2001-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.9211
-2001-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.786
-2001-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5366
-2001-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6674
-2002-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8263
-2002-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.9362
-2002-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.9554
-2002-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.9273
-2003-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8018
-2003-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7459
-2003-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6554
-2003-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5553
-2004-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4703
-2004-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.1456
-2004-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.0105
-2004-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2956
-2005-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.46
-2005-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4116
-2005-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6538
-2005-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.664
-2006-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6994
-2006-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7404
-2006-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4999
-2006-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2359
-2007-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.0526
-2007-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.0901
-2007-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.251
-2007-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.2676
-2008-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.4205
-2008-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.7765
-2008-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.7711
-2008-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2408
-2009-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5905
-2009-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7423
-2009-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.826
-2009-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6951
-2010-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6366
-2010-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6554
-2010-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6728
-2010-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6211
-2011-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5306
-2011-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2702
-2011-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.2148
-2011-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0456
-2012-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3756
-2012-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3356
-2012-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.1469
-2012-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.1042
-2013-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0013
-2013-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.2542
-2013-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.6026
-2013-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.8817
-2014-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.8726
-2014-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.6754
-2014-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.5018
-2014-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.525
-2015-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.5949
-2015-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.6928
-2015-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.7299
-2015-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.6997
-2016-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.6798
-2016-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.5857
-2016-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.5137
-2016-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.2474
-2017-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0796
-2017-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4295
-2017-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7987
-2017-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8756
-2018-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8563
-2018-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.853
-2018-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8127
-2018-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.705
-2019-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5761
-2019-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.1954
-2019-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.2178
-2019-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.2005
-2020-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,0.1134
-2020-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7217
-2020-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7507
-2020-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.756
-2021-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.655
-2021-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2649
-2021-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2421
-2021-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3102
-2022-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3946
-2022-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5043
-2022-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6219
-2022-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7181
-2023-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8238
-2023-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7327
-2023-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5772
-2023-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3209
-2024-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0358
-2024-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0267
-2024-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2123
-2024-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4661
-2025-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6413
-2025-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6987
-2025-09-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6796
-2025-12-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6989
-2026-03-31,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5355
-2026-06-30,US,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3976
-1968-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.2198
-1969-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.3259
-1969-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.3594
-1969-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.4946
-1969-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.5161
-1970-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.4075
-1970-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3245
-1970-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6856
-1970-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8136
-1971-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8519
-1971-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8779
-1971-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8504
-1971-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6952
-1972-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6318
-1972-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5206
-1972-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.302
-1972-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0987
-1973-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.0154
-1973-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5009
-1973-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6397
-1973-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7579
-1974-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8386
-1974-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8655
-1974-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8862
-1974-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7748
-1975-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4529
-1975-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2755
-1975-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0899
-1975-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.0409
-1976-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0415
-1976-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3063
-1976-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5904
-1976-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7089
-1977-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7697
-1977-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7636
-1977-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7024
-1977-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3157
-1978-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.1231
-1978-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.1003
-1978-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.3176
-1978-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.4737
-1979-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.7228
-1979-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.8031
-1979-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.3181
-1979-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.1972
-1980-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4109
-1980-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6173
-1980-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6134
-1980-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7021
-1981-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5844
-1981-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6486
-1981-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5408
-1981-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0574
-1982-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.1444
-1982-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.1385
-1982-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.1486
-1982-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4696
-1983-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7378
-1983-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7905
-1983-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7879
-1983-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7671
-1984-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7145
-1984-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6474
-1984-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5185
-1984-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2922
-1985-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.2216
-1985-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.7833
-1985-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.8556
-1985-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.7441
-1986-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.491
-1986-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.2881
-1986-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.0647
-1986-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.1345
-1987-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3239
-1987-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6875
-1987-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7125
-1987-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5375
-1988-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.375
-1988-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0369
-1988-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.1014
-1988-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.1344
-1989-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0912
-1989-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.1438
-1989-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2617
-1989-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3185
-1990-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2144
-1990-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3915
-1990-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5894
-1990-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0628
-1991-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.4994
-1991-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.6595
-1991-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.6459
-1991-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.2726
-1992-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.195
-1992-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3822
-1992-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4877
-1992-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.519
-1993-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5121
-1993-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5975
-1993-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7335
-1993-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7783
-1994-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6602
-1994-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3678
-1994-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.1405
-1994-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.7393
-1995-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.4267
-1995-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.1023
-1995-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0186
-1995-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.1728
-1996-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2375
-1996-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3396
-1996-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5101
-1996-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7304
-1997-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7266
-1997-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5611
-1997-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.1393
-1997-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.5703
-1998-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.6492
-1998-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.7473
-1998-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.8325
-1998-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.8219
-1999-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.8207
-1999-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.6736
-1999-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.2003
-1999-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3297
-2000-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.655
-2000-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8285
-2000-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.9246
-2000-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.9272
-2001-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.932
-2001-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.9016
-2001-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8661
-2001-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7976
-2002-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7278
-2002-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7398
-2002-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7645
-2002-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5418
-2003-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.37
-2003-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3791
-2003-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4199
-2003-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.363
-2004-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.2555
-2004-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.1465
-2004-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0247
-2004-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.0571
-2005-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.1374
-2005-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.3708
-2005-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.1895
-2005-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.103
-2006-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.1089
-2006-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.302
-2006-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.1234
-2006-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0944
-2007-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.1753
-2007-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.0382
-2007-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0192
-2007-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0737
-2008-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0168
-2008-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0175
-2008-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3644
-2008-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5112
-2009-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4835
-2009-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7237
-2009-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8601
-2009-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8086
-2010-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7725
-2010-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7708
-2010-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7067
-2010-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6412
-2011-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6705
-2011-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5899
-2011-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5165
-2011-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8456
-2012-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8232
-2012-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.695
-2012-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3498
-2012-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0622
-2013-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.22
-2013-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.533
-2013-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.7455
-2013-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.8221
-2014-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.7393
-2014-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.4361
-2014-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.1669
-2014-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0565
-2015-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.1781
-2015-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.1555
-2015-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0999
-2015-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.08
-2016-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.097
-2016-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.1312
-2016-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.2451
-2016-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.3254
-2017-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.2606
-2017-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,0.236
-2017-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.0906
-2017-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3899
-2018-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6485
-2018-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7443
-2018-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7645
-2018-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7827
-2019-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7404
-2019-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.75
-2019-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6823
-2019-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6863
-2020-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8032
-2020-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7333
-2020-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7962
-2020-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8001
-2021-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.73
-2021-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5623
-2021-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4203
-2021-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4512
-2022-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5094
-2022-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.607
-2022-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7125
-2022-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7944
-2023-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8584
-2023-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.823
-2023-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7268
-2023-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.5763
-2024-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.4206
-2024-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.3823
-2024-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.6107
-2024-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.711
-2025-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7823
-2025-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8282
-2025-09-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8082
-2025-12-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8356
-2026-03-31,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.7761
-2026-06-30,Canada,2 · Phillips Curve — Unemployment vs CPI inflation,-0.8595
+1954-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.2015
+1954-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1369
+1954-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0712
+1954-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0758
+1955-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1791
+1955-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1107
+1955-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1364
+1955-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4525
+1956-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3973
+1956-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4673
+1956-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.6051
+1956-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.6771
+1957-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.7578
+1957-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.545
+1957-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3002
+1957-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1204
+1958-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1188
+1958-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2777
+1958-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4367
+1958-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4672
+1959-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4288
+1959-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4389
+1959-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4644
+1959-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4259
+1960-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.35
+1960-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4184
+1960-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3593
+1960-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3643
+1961-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.479
+1961-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4524
+1961-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1829
+1961-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1778
+1962-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1971
+1962-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1716
+1962-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0671
+1962-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0327
+1963-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0245
+1963-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0193
+1963-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.223
+1963-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2086
+1964-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2283
+1964-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.122
+1964-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3926
+1964-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2575
+1965-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0818
+1965-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0527
+1965-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1998
+1965-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0211
+1966-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2879
+1966-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1945
+1966-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3255
+1966-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4346
+1967-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2354
+1967-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2196
+1967-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2056
+1967-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0528
+1968-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1249
+1968-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3617
+1968-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2667
+1968-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2225
+1969-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2612
+1969-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2343
+1969-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2615
+1969-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3262
+1970-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2548
+1970-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1881
+1970-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4308
+1970-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4934
+1971-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.767
+1971-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.732
+1971-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.7592
+1971-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.7463
+1972-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.6567
+1972-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.5578
+1972-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.5267
+1972-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4313
+1973-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.7514
+1973-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.8323
+1973-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.8704
+1973-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.9114
+1974-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.9052
+1974-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.8774
+1974-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.861
+1974-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.8015
+1975-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.9254
+1975-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.8959
+1975-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.9199
+1975-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.9298
+1976-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.9278
+1976-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.9221
+1976-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.9122
+1976-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.8945
+1977-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.7455
+1977-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.786
+1977-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.6916
+1977-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.6601
+1978-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.5562
+1978-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.6262
+1978-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.5785
+1978-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.5146
+1979-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.5024
+1979-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4956
+1979-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4524
+1979-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2533
+1980-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.7502
+1980-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.8799
+1980-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.8924
+1980-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.902
+1981-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.8485
+1981-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.8488
+1981-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.7814
+1981-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.822
+1982-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.8393
+1982-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.5776
+1982-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.572
+1982-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4297
+1983-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1468
+1983-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1172
+1983-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1223
+1983-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1214
+1984-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3612
+1984-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3917
+1984-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.283
+1984-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3979
+1985-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4688
+1985-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.5213
+1985-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4046
+1985-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2213
+1986-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1315
+1986-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.2201
+1986-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1702
+1986-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1793
+1987-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0747
+1987-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0172
+1987-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0771
+1987-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1452
+1988-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0904
+1988-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0789
+1988-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0945
+1988-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1171
+1989-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0844
+1989-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0824
+1989-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.2882
+1989-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.6793
+1990-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.2311
+1990-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.164
+1990-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.2192
+1990-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0785
+1991-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3859
+1991-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3648
+1991-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.5175
+1991-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4817
+1992-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3279
+1992-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2514
+1992-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3501
+1992-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2955
+1993-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.15
+1993-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3378
+1993-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.3341
+1993-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.4214
+1994-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.2634
+1994-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1415
+1994-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3265
+1994-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0435
+1995-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2322
+1995-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2654
+1995-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1112
+1995-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0972
+1996-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2468
+1996-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2548
+1996-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1083
+1996-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0417
+1997-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0714
+1997-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1043
+1997-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0822
+1997-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1362
+1998-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1518
+1998-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0417
+1998-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0397
+1998-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0898
+1999-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2353
+1999-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3353
+1999-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.5137
+1999-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.7278
+2000-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.7804
+2000-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.502
+2000-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2678
+2000-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0569
+2001-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1214
+2001-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1135
+2001-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.103
+2001-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.5478
+2002-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4357
+2002-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4594
+2002-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2922
+2002-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0719
+2003-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1981
+2003-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0538
+2003-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.068
+2003-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0802
+2004-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0327
+2004-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0415
+2004-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0801
+2004-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2367
+2005-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1322
+2005-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.123
+2005-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2778
+2005-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0865
+2006-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1095
+2006-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0994
+2006-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1988
+2006-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1715
+2007-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1679
+2007-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0112
+2007-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0865
+2007-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1412
+2008-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1122
+2008-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0703
+2008-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.49
+2008-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.6825
+2009-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4226
+2009-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.38
+2009-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2868
+2009-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1273
+2010-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1071
+2010-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0595
+2010-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0797
+2010-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.2076
+2011-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.2403
+2011-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.4331
+2011-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.5807
+2011-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.2279
+2012-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.2376
+2012-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.4227
+2012-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.4385
+2012-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0406
+2013-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0686
+2013-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.4494
+2013-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.5643
+2013-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.5264
+2014-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.3151
+2014-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.275
+2014-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.495
+2014-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0303
+2015-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.2036
+2015-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.321
+2015-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.2198
+2015-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0803
+2016-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1295
+2016-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0269
+2016-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.3494
+2016-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.3827
+2017-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.4787
+2017-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.5521
+2017-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.5265
+2017-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.4768
+2018-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.3613
+2018-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.166
+2018-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.4181
+2018-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.5111
+2019-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.505
+2019-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.5279
+2019-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.3914
+2019-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0155
+2020-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.022
+2020-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4762
+2020-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2164
+2020-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2121
+2021-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1045
+2021-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0136
+2021-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0568
+2021-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1502
+2022-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2258
+2022-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2799
+2022-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2159
+2022-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0798
+2023-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0506
+2023-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.379
+2023-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.4258
+2023-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.5752
+2024-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.5797
+2024-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1798
+2024-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1121
+2024-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.2047
+2025-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.3457
+2025-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.597
+2025-09-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.6483
+2025-12-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.4938
+2026-03-31,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.4121
+2026-06-30,US,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0326
+1968-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0962
+1969-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.091
+1969-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2925
+1969-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1318
+1969-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1252
+1970-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0698
+1970-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3963
+1970-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3838
+1970-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4987
+1971-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3973
+1971-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2311
+1971-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1625
+1971-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0709
+1972-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1487
+1972-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0438
+1972-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0151
+1972-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.068
+1973-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1572
+1973-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4845
+1973-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3054
+1973-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2571
+1974-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2812
+1974-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3351
+1974-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1958
+1974-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3565
+1975-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.445
+1975-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4365
+1975-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.6123
+1975-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.6428
+1976-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.659
+1976-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.69
+1976-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.7008
+1976-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.7053
+1977-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3454
+1977-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.102
+1977-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0115
+1977-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.7326
+1978-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.6425
+1978-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.6451
+1978-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.6161
+1978-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.6135
+1979-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.5221
+1979-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.3532
+1979-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0069
+1979-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0667
+1980-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1451
+1980-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0075
+1980-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1766
+1980-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4329
+1981-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4789
+1981-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4577
+1981-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1327
+1981-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0647
+1982-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3008
+1982-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.273
+1982-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.5316
+1982-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.6177
+1983-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.7348
+1983-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.7809
+1983-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.7589
+1983-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.7299
+1984-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.6988
+1984-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.6186
+1984-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.5736
+1984-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.6335
+1985-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.8272
+1985-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.8391
+1985-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.8485
+1985-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.9615
+1986-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.8789
+1986-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3531
+1986-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3437
+1986-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3114
+1987-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2892
+1987-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3727
+1987-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0702
+1987-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.3675
+1988-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.3105
+1988-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.3707
+1988-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.2804
+1988-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.2329
+1989-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0138
+1989-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0221
+1989-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.073
+1989-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0461
+1990-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1651
+1990-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0009
+1990-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0937
+1990-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.5193
+1991-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.7127
+1991-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.5268
+1991-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1857
+1991-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0937
+1992-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2231
+1992-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1778
+1992-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0441
+1992-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1285
+1993-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.2015
+1993-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.097
+1993-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1867
+1993-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.6044
+1994-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.8161
+1994-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.6956
+1994-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.3581
+1994-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1535
+1995-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2893
+1995-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3193
+1995-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2476
+1995-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3731
+1996-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3471
+1996-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3557
+1996-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.4556
+1996-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3491
+1997-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1043
+1997-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1042
+1997-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1085
+1997-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1585
+1998-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.22
+1998-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.5313
+1998-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.4889
+1998-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.289
+1999-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.2355
+1999-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1502
+1999-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.134
+1999-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3292
+2000-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.346
+2000-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.102
+2000-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.052
+2000-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1628
+2001-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1317
+2001-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.221
+2001-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1576
+2001-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3764
+2002-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0203
+2002-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1484
+2002-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0025
+2002-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1263
+2003-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1974
+2003-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0042
+2003-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0605
+2003-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0329
+2004-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0789
+2004-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.007
+2004-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0537
+2004-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1053
+2005-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2801
+2005-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1298
+2005-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3257
+2005-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1979
+2006-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2378
+2006-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1033
+2006-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1406
+2006-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0124
+2007-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1238
+2007-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0745
+2007-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0511
+2007-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0774
+2008-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0423
+2008-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0902
+2008-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3474
+2008-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2599
+2009-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1233
+2009-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3401
+2009-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3609
+2009-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0325
+2010-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0021
+2010-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0182
+2010-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.048
+2010-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0476
+2011-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.082
+2011-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1679
+2011-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.2493
+2011-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0169
+2012-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.026
+2012-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.3837
+2012-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.6885
+2012-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.4356
+2013-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.4261
+2013-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.6137
+2013-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.3785
+2013-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.2345
+2014-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2322
+2014-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0515
+2014-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.097
+2014-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.3769
+2015-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.5043
+2015-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.5551
+2015-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.4822
+2015-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.6177
+2016-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.3271
+2016-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.4071
+2016-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.3615
+2016-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.379
+2017-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.3989
+2017-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.6212
+2017-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.1346
+2017-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1818
+2018-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3728
+2018-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3409
+2018-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1593
+2018-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1528
+2019-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0526
+2019-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0708
+2019-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.095
+2019-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0618
+2020-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.3901
+2020-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1604
+2020-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1611
+2020-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0928
+2021-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0772
+2021-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.118
+2021-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0634
+2021-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0083
+2022-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1408
+2022-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.2533
+2022-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1231
+2022-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.0478
+2023-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0485
+2023-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.3073
+2023-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.4136
+2023-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.5021
+2024-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.4065
+2024-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.3467
+2024-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0238
+2024-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.0596
+2025-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.2038
+2025-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.4628
+2025-09-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.4708
+2025-12-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.5132
+2026-03-31,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,0.2926
+2026-06-30,Canada,2 · Phillips Curve — Unemployment gap vs inflation accel.,-0.1202
 1954-03-31,US,3 · Output gap vs CPI inflation,-0.3921
 1954-06-30,US,3 · Output gap vs CPI inflation,-0.3338
 1954-09-30,US,3 · Output gap vs CPI inflation,-0.2168

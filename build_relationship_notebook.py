@@ -255,6 +255,7 @@ import matplotlib.pyplot as plt
 import statsmodels.api as sm
 from statsmodels.tsa.stattools import adfuller
 from statsmodels.tsa.vector_ar.vecm import coint_johansen
+from statsmodels.tsa.filters.hp_filter import hpfilter
 import ruptures as rpt
 
 # Self-contained time-varying Okun (Beaton/SW/LP) helper module sits next to
@@ -337,10 +338,24 @@ def apply_transform(s, kind):
       "yoy"   -> year-on-year % change (the standard inflation measure)
       "yoy_diff" -> change in YoY inflation (inflation acceleration; the
                     accelerationist Phillips-curve dependent variable)
+      "hp_cycle" -> cyclical GAP = series minus its HP-filter trend (λ=1600,
+                    quarterly). Used for the unemployment GAP (u - u*) on the
+                    x-side of the expectations-augmented Phillips curve.
     """
     s = pd.Series(s).astype(float)
     if kind == "level":
         return s, "levels"
+    if kind == "hp_cycle":
+        # Cyclical component (series - HP trend); the HP trend approximates the
+        # slow-moving equilibrium (natural rate u*), so the cycle is the GAP.
+        # NaN-robust: filter the contiguous non-NaN span, reindex back.
+        d = s.dropna()
+        if len(d) < 8:
+            return pd.Series(np.nan, index=s.index), "cyclical gap (HP λ=1600)"
+        cyc, _trend = hpfilter(d, lamb=1600)
+        out = pd.Series(np.nan, index=s.index)
+        out.loc[d.index] = cyc.values
+        return out, "cyclical gap (HP λ=1600)"
     if kind == "diff":
         return s.diff(), "Δ first-difference"
     if kind == "pct":
@@ -1611,33 +1626,40 @@ _okun_tvp_one("Canada", "unemployment_ca", "gdp_growth_ca")
 
 # ---------- 2. Phillips Curve ----------
 md(r"""
-### 2.2 · Phillips Curve — Unemployment vs CPI inflation  *(expect inverse, UNSTABLE)*
+### 2.2 · Phillips Curve — Unemployment gap vs inflation  *(expectations-augmented)*
 
-Tight labour markets are supposed to push wages and prices up. **Why these
-principles bite hardest here:** this is the *prime instability suspect*
-(Principle 3) — the relationship flattened after the 1990s and the rolling
-correlation famously flips sign. Inflation is measured as **YoY % of CPI**
-(Principle 1). And because oil shocks move both inflation and the labour market,
-we control for **energy** (Principle 4 — *US Energy Inflation*, since WTI price
-is unavailable) to see whether any link survives.
+Tight labour markets are supposed to push wages and prices up. **Why we use the
+expectations-augmented / accelerationist form:** correlating the *level* of
+unemployment with the *level* of YoY inflation is dominated by two slow-moving
+trends — the drift in the natural rate $u^\*$ and the great-inflation/disinflation
+path of expected inflation. Over the full sample these net the demand signal to
+≈0 and even **flip its sign** (a naive US level-level fit comes out *positive*).
+The textbook fix (Friedman–Phelps; Gordon's *triangle*; Stock & Watson 1999) is
+to enter the **unemployment GAP** $u-u^\*$ (HP-filter cycle, λ=1600) against the
+**change in inflation** $\Delta\pi$ (adaptive expectations $\pi^e=\pi_{t-1}$, so
+$\Delta\pi=-\kappa\,(u-u^\*)$). The slope $-\kappa$ is the Phillips **slope**; the
+literature puts it near **−0.1 to −0.2** for both the US and Canada (flat curve;
+Hazell–Herreño–Nakamura–Steinsson 2022). This is still the *prime instability
+suspect* (Principle 3): the rolling correlation flips sign across regimes. We
+control for **energy** (Principle 4) to see whether the link survives.
 """)
 code(r'''
 _edrv, _edt = energy_driver()
 r = analyze_relationship(
-    "rel2_phillips", "2 · Phillips Curve — Unemployment vs CPI inflation",
+    "rel2_phillips", "2 · Phillips Curve — Unemployment gap vs inflation accel.",
     "unemployment", "cpi",
-    x_transform="auto", y_transform="yoy",
+    x_transform="hp_cycle", y_transform="yoy_diff",
     partial_driver_key=_edrv, driver_transform=_edt,
     expected_sign="-", expected_leader=None, fig_n=2, country="US",
-    expect="inverse but unstable / regime-dependent (flattens post-1990s)")
+    expect="negative slope ~-0.1..-0.2 (expectations-augmented); unstable across regimes")
 if r: SUMMARY.append(r)
 r = analyze_relationship(
-    "rel2_phillips", "2 · Phillips Curve — Unemployment vs CPI inflation",
+    "rel2_phillips", "2 · Phillips Curve — Unemployment gap vs inflation accel.",
     "unemployment_ca", "cpi_ca",
-    x_transform="auto", y_transform="yoy",
+    x_transform="hp_cycle", y_transform="yoy_diff",
     partial_driver_key="energy_ppi_ca", driver_transform="level",
     expected_sign="-", expected_leader=None, fig_n=2, country="Canada",
-    expect="inverse but unstable / regime-dependent (flattens post-1990s)")
+    expect="negative slope ~-0.1..-0.2 (expectations-augmented); unstable across regimes")
 if r: SUMMARY.append(r)
 ''')
 

@@ -49,56 +49,56 @@ relationship,country,lag,r,n,sig,band
 1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,10,0.0124,230,False,0.1265
 1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,11,0.081,229,False,0.1265
 1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,12,0.0459,228,False,0.1265
-2 · Phillips Curve — Unemployment vs CPI inflation,US,-12,0.4494,290,True,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,US,-11,0.448,291,True,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,US,-10,0.4315,292,True,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,US,-9,0.4166,293,True,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,US,-8,0.4004,294,True,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,US,-7,0.3779,295,True,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,US,-6,0.3528,296,True,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,US,-5,0.3178,297,True,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,US,-4,0.2755,298,True,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,US,-3,0.2293,299,True,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,US,-2,0.1798,300,True,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,US,-1,0.1251,301,True,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,US,0,0.0801,302,False,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1,0.0651,301,False,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2,0.0643,300,False,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,US,3,0.081,299,False,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,US,4,0.1059,298,False,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,US,5,0.1179,297,True,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,US,6,0.1356,296,True,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,US,7,0.1493,295,True,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,US,8,0.1509,294,True,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,US,9,0.139,293,True,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,US,10,0.1216,292,True,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,US,11,0.104,291,False,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,US,12,0.0884,290,False,0.1128
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,-12,0.4354,230,True,0.126
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,-11,0.4189,231,True,0.126
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,-10,0.3943,232,True,0.126
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,-9,0.367,233,True,0.126
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,-8,0.3314,234,True,0.126
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,-7,0.2902,235,True,0.126
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,-6,0.2433,236,True,0.126
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,-5,0.1924,237,True,0.126
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,-4,0.1396,238,True,0.126
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,-3,0.0843,239,False,0.126
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,-2,0.0314,240,False,0.126
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,-1,-0.0225,241,False,0.126
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,0,-0.0591,242,False,0.126
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1,-0.0854,241,False,0.126
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2,-0.1026,240,False,0.126
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,3,-0.1036,239,False,0.126
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,4,-0.1059,238,False,0.126
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,5,-0.1062,237,False,0.126
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,6,-0.1055,236,False,0.126
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,7,-0.1002,235,False,0.126
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,8,-0.1005,234,False,0.126
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,9,-0.115,233,False,0.126
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,10,-0.1339,232,True,0.126
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,11,-0.1562,231,True,0.126
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,12,-0.1728,230,True,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,-12,0.0313,289,False,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,-11,0.0402,290,False,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,-10,-0.0088,291,False,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,-9,0.0147,292,False,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,-8,0.0067,293,False,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,-7,-0.0299,294,False,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,-6,-0.0483,295,False,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,-5,-0.0953,296,False,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,-4,-0.1349,297,True,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,-3,-0.1622,298,True,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,-2,-0.1769,299,True,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,-1,-0.2034,300,True,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,0,-0.1543,301,True,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1,-0.0404,300,False,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2,0.0398,299,False,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,3,0.1534,298,True,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,4,0.2028,297,True,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,5,0.1586,296,True,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,6,0.1847,295,True,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,7,0.1534,294,True,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,8,0.0916,293,False,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,9,0.0041,292,False,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,10,-0.0323,291,False,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,11,-0.0324,290,False,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,12,-0.0209,289,False,0.113
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,-12,0.033,230,False,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,-11,0.0415,231,False,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,-10,-0.0097,232,False,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,-9,-0.0216,233,False,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,-8,-0.0763,234,False,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,-7,-0.1153,235,False,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,-6,-0.1537,236,True,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,-5,-0.1833,237,True,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,-4,-0.2047,238,True,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,-3,-0.2292,239,True,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,-2,-0.2193,240,True,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,-1,-0.2419,241,True,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,0,-0.1137,242,False,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1,-0.0351,241,False,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2,0.0499,240,False,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,3,0.1582,239,True,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,4,0.1521,238,True,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,5,0.1779,237,True,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,6,0.167,236,True,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,7,0.1837,235,True,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,8,0.1339,234,True,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,9,-0.0006,233,False,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,10,-0.0053,232,False,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,11,-0.0474,231,False,0.126
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,12,-0.0109,230,False,0.126
 3 · Output gap vs CPI inflation,US,-12,-0.0714,289,False,0.113
 3 · Output gap vs CPI inflation,US,-11,-0.063,290,False,0.113
 3 · Output gap vs CPI inflation,US,-10,-0.016,291,False,0.113

@@ -1,8 +1,8 @@
 Relationship,Country,Transform,Headline correlation,Contemporaneous r,Auto peak r,Auto peak lag,Theory peak r,Theory peak lag,Leading variable,Cointegrated?,Sign-flips across regimes?,Survives common-driver control?,Auto/Theory divergence
 1 · Okun's Law — ΔUnemployment vs GDP growth,US,unemployment:Δ | gdp_growth:levels,-0.729,-0.729,-0.729,0,-0.729,0,—,n/a,No,n/a,—
 1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,unemployment_ca:Δ | gdp_growth_ca:levels,-0.815,-0.815,-0.815,0,-0.815,0,—,n/a,No,n/a,—
-2 · Phillips Curve — Unemployment vs CPI inflation,US,unemployment:levels | cpi:YoY,0.08,0.08,0.449,-12,none,none,cpi,n/a,Yes,Yes,—
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,unemployment_ca:levels | cpi_ca:YoY,-0.059,-0.059,0.435,-12,-0.173,12,cpi_ca,n/a,Yes,No (flips/collapses),auto +0.44@-12 vs theory -0.17@+12
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,unemployment:cyclical | cpi:Δ,-0.154,-0.154,-0.203,-1,-0.203,-1,cpi,,No,,—
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,unemployment_ca:cyclical | cpi_ca:Δ,-0.114,-0.114,-0.242,-1,-0.242,-1,cpi_ca,,No,Weakened,—
 3 · Output gap vs CPI inflation,US,output_gap:levels | cpi:Δ,0.218,0.218,0.218,0,0.218,0,—,n/a,No,n/a,—
 3 · Output gap vs CPI inflation,Canada,output_gap_ca:levels | cpi_ca:Δ,0.218,0.218,0.283,-1,0.218,0,cpi_ca,n/a,No,n/a,—
 4 · CPI inflation vs short-term policy rate,US,cpi:YoY | policy_rate:levels,0.291,0.291,0.62,6,0.62,6,cpi,n/a,Yes,Yes,—

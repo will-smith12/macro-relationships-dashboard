@@ -551,550 +551,549 @@ relationship,country,date,x,y,x_label,y_label
 1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,2025-09-30,0.1,0.5,unemployment_ca [Δ first-difference],gdp_growth_ca [levels (auto: I(0))]
 1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,2025-12-31,-0.266667,-0.2,unemployment_ca [Δ first-difference],gdp_growth_ca [levels (auto: I(0))]
 1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,2026-03-31,-0.133333,0.0,unemployment_ca [Δ first-difference],gdp_growth_ca [levels (auto: I(0))]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1951-03-31,3.5,9.322034,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1951-06-30,3.1,8.823529,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1951-09-30,3.166667,6.967213,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1951-12-31,3.366667,6.0,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1952-03-31,3.066667,1.937984,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1952-06-30,2.966667,2.316602,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1952-09-30,3.233333,2.298851,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1952-12-31,2.833333,0.754717,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1953-03-31,2.7,1.140684,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1953-06-30,2.566667,1.132075,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1953-09-30,2.733333,0.749064,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1953-12-31,3.7,0.749064,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1954-03-31,5.266667,1.12782,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1954-06-30,5.8,0.373134,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1954-09-30,5.966667,-0.371747,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1954-12-31,5.333333,-0.743494,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1955-03-31,4.733333,-0.743494,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1955-06-30,4.4,-0.743494,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1955-09-30,4.1,0.373134,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1955-12-31,4.233333,0.374532,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1956-03-31,4.033333,0.374532,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1956-06-30,4.2,1.872659,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1956-09-30,4.133333,1.858736,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1956-12-31,4.133333,2.985075,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1957-03-31,3.933333,3.731343,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1957-06-30,4.1,3.308824,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1957-09-30,4.233333,3.284672,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1957-12-31,4.933333,2.898551,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1958-03-31,6.3,3.597122,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1958-06-30,7.366667,2.846975,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1958-09-30,7.333333,2.120141,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1958-12-31,6.366667,1.760563,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1959-03-31,5.833333,0.347222,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1959-06-30,5.1,0.692042,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1959-09-30,5.266667,1.384083,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1959-12-31,5.6,1.730104,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1960-03-31,5.133333,1.730104,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1960-06-30,5.233333,1.718213,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1960-09-30,5.533333,1.023891,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1960-12-31,6.266667,1.360544,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1961-03-31,6.8,1.360544,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1961-06-30,7.0,0.675676,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1961-09-30,6.766667,1.351351,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1961-12-31,6.2,0.671141,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1962-03-31,5.633333,1.006711,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1962-06-30,5.533333,1.342282,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1962-09-30,5.566667,1.333333,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1962-12-31,5.533333,1.333333,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1963-03-31,5.766667,1.328904,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1963-06-30,5.733333,1.324503,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1963-09-30,5.5,0.986842,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1963-12-31,5.566667,1.644737,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1964-03-31,5.466667,1.311475,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1964-06-30,5.2,1.30719,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1964-09-30,5.0,1.302932,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1964-12-31,4.966667,0.970874,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1965-03-31,4.9,1.294498,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1965-06-30,4.666667,1.935484,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1965-09-30,4.366667,1.607717,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1965-12-31,4.1,1.923077,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1966-03-31,3.866667,2.555911,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1966-06-30,3.833333,2.531646,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1966-09-30,3.766667,3.481013,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1966-12-31,3.7,3.459119,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1967-03-31,3.833333,2.803738,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1967-06-30,3.833333,2.777778,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1967-09-30,3.8,2.752294,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1967-12-31,3.9,3.039514,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1968-03-31,3.733333,3.939394,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1968-06-30,3.566667,4.204204,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1968-09-30,3.533333,4.464286,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1968-12-31,3.4,4.719764,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1969-03-31,3.4,5.247813,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1969-06-30,3.433333,5.475504,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1969-09-30,3.566667,5.698006,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1969-12-31,3.566667,6.197183,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1970-03-31,4.166667,5.817175,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1970-06-30,4.766667,6.010929,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1970-09-30,5.166667,5.660377,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1970-12-31,5.833333,5.570292,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1971-03-31,5.933333,4.712042,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1971-06-30,5.9,4.639175,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1971-09-30,6.033333,4.081633,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1971-12-31,5.933333,3.266332,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1972-03-31,5.766667,3.5,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1972-06-30,5.7,2.70936,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1972-09-30,5.566667,3.186275,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1972-12-31,5.366667,3.406326,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1973-03-31,4.933333,4.589372,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1973-06-30,4.933333,5.995204,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1973-09-30,4.8,7.36342,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1973-12-31,4.766667,8.705882,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1974-03-31,5.133333,10.39261,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1974-06-30,5.2,10.859729,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1974-09-30,5.633333,11.946903,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1974-12-31,6.6,12.337662,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1975-03-31,8.266667,10.251046,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1975-06-30,8.866667,9.387755,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1975-09-30,8.466667,7.905138,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1975-12-31,8.3,6.936416,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1976-03-31,7.733333,6.072106,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1976-06-30,7.566667,5.970149,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1976-09-30,7.733333,5.494505,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1976-12-31,7.766667,4.864865,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1977-03-31,7.5,6.440072,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1977-06-30,7.133333,6.866197,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1977-09-30,6.9,6.597222,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1977-12-31,6.666667,6.701031,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1978-03-31,6.333333,6.554622,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1978-06-30,6.0,7.413509,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1978-09-30,6.033333,8.306189,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1978-12-31,5.9,9.017713,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1979-03-31,5.866667,10.094637,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1979-06-30,5.7,10.889571,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1979-09-30,5.866667,12.180451,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1979-12-31,5.966667,13.293944,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1980-03-31,6.3,14.756447,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1980-06-30,7.333333,14.384509,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1980-09-30,7.666667,12.600536,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1980-12-31,7.4,12.516297,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1981-03-31,7.433333,10.486891,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1981-06-30,7.4,9.5526,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1981-09-30,7.4,10.952381,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1981-12-31,8.233333,8.922364,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1982-03-31,8.833333,6.779661,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1982-06-30,9.433333,7.064018,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1982-09-30,9.9,5.042918,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1982-12-31,10.666667,3.829787,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1983-03-31,10.366667,3.597884,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1983-06-30,10.133333,2.57732,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1983-09-30,9.366667,2.860061,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1983-12-31,8.533333,3.790984,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1984-03-31,7.866667,4.800817,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1984-06-30,7.433333,4.221106,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1984-09-30,7.433333,4.270109,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1984-12-31,7.3,3.948667,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1985-03-31,7.233333,3.703704,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1985-06-30,7.3,3.760849,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1985-09-30,7.2,3.142857,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1985-12-31,7.033333,3.79867,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1986-03-31,7.033333,2.255639,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1986-06-30,7.166667,1.765799,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1986-09-30,6.966667,1.754386,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1986-12-31,6.833333,1.097896,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1987-03-31,6.6,3.033088,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1987-06-30,6.266667,3.652968,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1987-09-30,6.0,4.355717,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1987-12-31,5.833333,4.434389,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1988-03-31,5.7,3.925067,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1988-06-30,5.466667,3.964758,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1988-09-30,5.466667,4.173913,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1988-12-31,5.333333,4.419411,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1989-03-31,5.2,4.978541,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1989-06-30,5.233333,5.169492,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1989-09-30,5.233333,4.340568,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1989-12-31,5.366667,4.647303,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1990-03-31,5.3,5.233034,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1990-06-30,5.333333,4.67365,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1990-09-30,5.7,6.16,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1990-12-31,6.133333,6.106265,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1991-03-31,6.6,4.895105,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1991-06-30,6.833333,4.69592,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1991-09-30,6.866667,3.391108,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1991-12-31,7.1,3.064275,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1992-03-31,7.366667,3.185185,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1992-06-30,7.6,3.088235,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1992-09-30,7.633333,2.988338,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1992-12-31,7.366667,2.900653,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1993-03-31,7.133333,3.086863,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1993-06-30,7.066667,2.99572,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1993-09-30,6.8,2.689314,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1993-12-31,6.633333,2.748414,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1994-03-31,6.566667,2.506964,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1994-06-30,6.2,2.493075,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1994-09-30,6.0,2.963473,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1994-12-31,5.633333,2.674897,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1995-03-31,5.466667,2.853261,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1995-06-30,5.666667,3.040541,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1995-09-30,5.666667,2.543507,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1995-12-31,5.566667,2.53841,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1996-03-31,5.533333,2.840159,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1996-06-30,5.5,2.754098,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1996-09-30,5.266667,3.002611,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1996-12-31,5.333333,3.322476,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1997-03-31,5.233333,2.761721,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1997-06-30,5.0,2.297384,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1997-09-30,4.866667,2.154626,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1997-12-31,4.666667,1.702396,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1998-03-31,4.633333,1.375,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1998-06-30,4.4,1.684342,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1998-09-30,4.533333,1.488834,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1998-12-31,4.433333,1.611903,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1999-03-31,4.3,1.726264,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1999-06-30,4.266667,1.96319,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1999-09-30,4.233333,2.628362,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,1999-12-31,4.066667,2.684564,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2000-03-31,4.033333,3.757576,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2000-06-30,3.933333,3.730445,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2000-09-30,4.0,3.454437,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2000-12-31,3.9,3.386809,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2001-03-31,4.233333,2.920561,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2001-06-30,4.4,3.24826,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2001-09-30,4.833333,2.648244,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2001-12-31,5.5,1.551724,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2002-03-31,5.7,1.475596,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2002-06-30,5.833333,1.067416,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2002-09-30,5.733333,1.514302,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2002-12-31,5.866667,2.37691,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2003-03-31,5.866667,3.020134,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2003-06-30,6.133333,2.112285,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2003-09-30,6.133333,2.320442,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2003-12-31,5.833333,1.879491,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2004-03-31,5.7,1.737242,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2004-06-30,5.6,3.266195,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2004-09-30,5.433333,2.537797,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2004-12-31,5.433333,3.255562,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2005-03-31,5.3,3.148346,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2005-06-30,5.1,2.530311,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2005-09-30,4.966667,4.686677,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2005-12-31,4.966667,3.415659,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2006-03-31,4.733333,3.362649,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2006-06-30,4.633333,4.318766,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2006-09-30,4.633333,2.062374,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2006-12-31,4.433333,2.54065,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2007-03-31,4.5,2.778779,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2007-06-30,4.5,2.687038,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2007-09-30,4.666667,2.755052,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2007-12-31,4.8,4.081269,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2008-03-31,5.0,3.981456,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2008-06-30,5.333333,5.02179,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2008-09-30,6.0,4.936927,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2008-12-31,6.866667,0.091413,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2009-03-31,8.266667,-0.383556,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2009-06-30,9.3,-1.426776,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2009-09-30,9.633333,-1.286206,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2009-12-31,9.933333,2.721331,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2010-03-31,9.833333,2.313959,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2010-06-30,9.633333,1.053349,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2010-09-30,9.466667,1.143683,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2010-12-31,9.5,1.495724,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2011-03-31,9.033333,2.681603,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2011-06-30,9.066667,3.558828,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2011-09-30,9.0,3.868357,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2011-12-31,8.633333,2.962419,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2012-03-31,8.266667,2.651398,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2012-06-30,8.2,1.663994,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2012-09-30,8.033333,1.991282,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2012-12-31,7.8,1.741022,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2013-03-31,7.733333,1.473896,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2013-06-30,7.533333,1.754417,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2013-09-30,7.233333,1.184925,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2013-12-31,6.933333,1.501736,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2014-03-31,6.666667,1.512203,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2014-06-30,6.2,2.072341,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2014-09-30,6.066667,1.657919,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2014-12-31,5.7,0.756493,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2015-03-31,5.533333,-0.073637,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2015-06-30,5.433333,0.123771,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2015-09-30,5.1,-0.03613,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2015-12-31,5.033333,0.72952,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2016-03-31,4.9,0.852536,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2016-06-30,4.933333,0.997326,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2016-09-30,4.9,1.463784,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2016-12-31,4.766667,2.074622,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2017-03-31,4.566667,2.380612,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2017-06-30,4.366667,1.633488,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2017-09-30,4.333333,2.232964,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2017-12-31,4.166667,2.109082,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2018-03-31,4.033333,2.359711,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2018-06-30,3.933333,2.871548,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2018-09-30,3.766667,2.276972,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2018-12-31,3.833333,1.910159,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2019-03-31,3.866667,1.862523,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2019-06-30,3.633333,1.648485,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2019-09-30,3.6,1.711305,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2019-12-31,3.6,2.28513,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2020-03-31,3.833333,1.539327,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2020-06-30,13.0,0.645733,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2020-09-30,8.8,1.371325,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2020-12-31,6.766667,1.362005,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2021-03-31,6.233333,2.619763,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2021-06-30,5.933333,5.391451,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2021-09-30,5.066667,5.390349,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2021-12-31,4.166667,7.036403,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2022-03-31,3.866667,8.542456,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2022-06-30,3.633333,9.059758,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2022-09-30,3.533333,8.20167,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2022-12-31,3.566667,6.454401,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2023-03-31,3.533333,4.984974,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2023-06-30,3.533333,2.969178,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2023-09-30,3.633333,3.699698,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2023-12-31,3.8,3.352123,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2024-03-31,3.833333,3.477385,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2024-06-30,3.966667,2.973036,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2024-09-30,4.166667,2.440308,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2024-12-31,4.133333,2.889687,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2025-03-31,4.133333,2.390725,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2025-06-30,4.2,2.667261,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2025-09-30,4.333333,3.013003,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2025-12-31,4.45,2.675454,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2026-03-31,4.333333,3.255482,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,US,2026-06-30,4.3,3.893849,unemployment [levels (auto: I(0))],cpi [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1966-03-31,3.366667,4.216867,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1966-06-30,3.1,3.550296,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1966-09-30,3.433333,4.142012,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1966-12-31,3.4,3.508772,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1967-03-31,3.7,2.890173,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1967-06-30,3.733333,3.428571,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1967-09-30,3.666667,3.977273,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1967-12-31,4.166667,3.954802,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1968-03-31,4.433333,4.494382,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1968-06-30,4.533333,3.314917,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1968-09-30,4.533333,3.825137,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1968-12-31,4.466667,4.347826,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1969-03-31,4.266667,3.763441,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1969-06-30,4.366667,5.347594,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1969-09-30,4.4,4.736842,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1969-12-31,4.6,4.6875,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1970-03-31,4.866667,4.663212,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1970-06-30,5.766667,3.045685,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1970-09-30,6.166667,2.512563,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1970-12-31,6.1,0.995025,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1971-03-31,6.233333,1.485149,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1971-06-30,6.266667,2.463054,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1971-09-30,6.1,3.431373,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1971-12-31,6.133333,4.926108,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1972-03-31,5.966667,5.365854,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1972-06-30,6.066667,4.326923,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1972-09-30,6.366667,5.687204,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1972-12-31,6.466667,5.164319,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1973-03-31,5.866667,5.555556,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1973-06-30,5.4,7.834101,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1973-09-30,5.4,8.071749,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1973-12-31,5.533333,9.375,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1974-03-31,5.233333,10.526316,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1974-06-30,5.2,11.538462,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1974-09-30,5.266667,11.20332,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1974-12-31,5.666667,12.653061,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1975-03-31,6.7,11.111111,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1975-06-30,6.833333,10.344828,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1975-09-30,6.966667,10.447761,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1975-12-31,7.133333,9.42029,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1976-03-31,6.933333,9.285714,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1976-06-30,6.866667,7.986111,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1976-09-30,7.166667,6.418919,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1976-12-31,7.433333,5.629139,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1977-03-31,7.766667,7.189542,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1977-06-30,7.833333,7.717042,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1977-09-30,8.2,8.571429,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1977-12-31,8.466667,9.404389,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1978-03-31,8.366667,8.841463,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1978-06-30,8.466667,9.253731,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1978-09-30,8.366667,8.479532,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1978-12-31,8.266667,8.595989,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1979-03-31,8.033333,9.243697,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1979-06-30,7.666667,9.016393,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1979-09-30,7.1,9.703504,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1979-12-31,7.2,9.762533,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1980-03-31,7.566667,9.230769,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1980-06-30,7.733333,10.025063,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1980-09-30,7.5,10.565111,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1980-12-31,7.266667,11.057692,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1981-03-31,7.4,12.676056,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1981-06-30,7.166667,12.756264,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1981-09-30,7.466667,12.666667,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1981-12-31,8.433333,12.121212,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1982-03-31,8.933333,11.458333,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1982-06-30,10.4,11.313131,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1982-09-30,12.1,10.25641,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1982-12-31,12.966667,9.266409,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1983-03-31,12.633333,7.28972,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1983-06-30,12.4,5.444646,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1983-09-30,11.666667,5.008945,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1983-12-31,11.3,4.59364,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1984-03-31,11.3,4.529617,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1984-06-30,11.5,4.302926,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1984-09-30,11.433333,3.747871,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1984-12-31,11.266667,3.716216,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1985-03-31,10.8,3.666667,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1985-06-30,10.7,3.960396,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1985-09-30,10.3,4.10509,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1985-12-31,10.233333,4.397394,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1986-03-31,9.833333,4.340836,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1986-06-30,9.6,3.809524,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1986-09-30,9.566667,4.100946,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1986-12-31,9.433333,4.212168,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1987-03-31,9.466667,4.006163,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1987-06-30,9.0,4.740061,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1987-09-30,8.566667,4.545455,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1987-12-31,8.166667,4.191617,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1988-03-31,7.9,4.296296,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1988-06-30,7.7,3.941606,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1988-09-30,7.8,4.057971,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1988-12-31,7.7,3.87931,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1989-03-31,7.533333,4.545455,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1989-06-30,7.666667,5.196629,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1989-09-30,7.366667,5.292479,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1989-12-31,7.466667,5.255878,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1990-03-31,7.633333,5.298913,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1990-06-30,7.666667,4.405874,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1990-09-30,8.166667,4.232804,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1990-12-31,9.133333,4.99343,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1991-03-31,10.166667,6.193548,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1991-06-30,10.333333,6.265985,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1991-09-30,10.433333,5.456853,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1991-12-31,10.333333,3.754693,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1992-03-31,10.6,1.579587,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1992-06-30,11.0,1.083032,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1992-09-30,11.533333,1.323706,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1992-12-31,11.733333,2.171291,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1993-03-31,11.133333,1.913876,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1993-06-30,11.633333,1.666667,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1993-09-30,11.433333,1.781473,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1993-12-31,11.3,1.652893,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1994-03-31,11.033333,0.234742,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1994-06-30,10.633333,0.0,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1994-09-30,10.133333,0.233372,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1994-12-31,9.766667,0.232288,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1995-03-31,9.633333,2.107728,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1995-06-30,9.5,2.693208,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1995-09-30,9.433333,2.211874,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1995-12-31,9.3,1.738123,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1996-03-31,9.5,1.490826,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1996-06-30,9.433333,1.482326,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1996-09-30,9.666667,1.480638,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1996-12-31,9.833333,2.164009,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1997-03-31,9.433333,1.920904,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1997-06-30,9.3,1.685393,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1997-09-30,8.866667,1.683502,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1997-12-31,8.766667,0.780379,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1998-03-31,8.6,0.997783,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1998-06-30,8.333333,0.994475,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1998-09-30,8.2,0.662252,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1998-12-31,8.033333,0.995575,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1999-03-31,7.9,0.987925,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1999-06-30,7.9,1.641138,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1999-09-30,7.5,2.631579,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,1999-12-31,6.966667,2.628697,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2000-03-31,6.866667,3.043478,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2000-06-30,6.666667,2.798708,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2000-09-30,6.9,2.67094,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2000-12-31,6.9,3.201708,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2001-03-31,7.0,2.42616,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2001-06-30,7.1,3.350785,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2001-09-30,7.166667,2.601457,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2001-12-31,7.633333,0.723888,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2002-03-31,7.933333,1.853759,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2002-06-30,7.7,1.215805,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2002-09-30,7.533333,2.332657,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2002-12-31,7.566667,3.798768,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2003-03-31,7.466667,4.246714,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2003-06-30,7.666667,2.602603,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2003-09-30,7.8,2.180377,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2003-12-31,7.433333,2.077151,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2004-03-31,7.3,0.775946,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2004-06-30,7.166667,2.536585,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2004-09-30,7.0,1.842871,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2004-12-31,7.133333,2.131783,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2005-03-31,6.933333,2.309913,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2005-06-30,6.833333,1.712655,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2005-09-30,6.7,3.238095,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2005-12-31,6.533333,2.087287,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2006-03-31,6.6,2.163688,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2006-06-30,6.333333,2.43218,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2006-09-30,6.5,0.738007,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2006-12-31,6.366667,1.672862,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2007-03-31,6.333333,2.302026,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2007-06-30,6.2,2.191781,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2007-09-30,6.0,2.472527,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2007-12-31,6.1,2.3766,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2008-03-31,6.133333,1.350135,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2008-06-30,6.166667,3.127793,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2008-09-30,6.233333,3.395889,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2008-12-31,6.7,1.160714,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2009-03-31,8.0,1.243339,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2009-06-30,8.633333,-0.259965,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2009-09-30,8.666667,-0.864304,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2009-12-31,8.6,1.323919,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2010-03-31,8.366667,1.403509,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2010-06-30,8.133333,0.955691,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2010-09-30,8.2,1.918047,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2010-12-31,7.933333,2.351916,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2011-03-31,7.8,3.287197,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2011-06-30,7.733333,3.098107,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2011-09-30,7.433333,3.165098,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2011-12-31,7.533333,2.297872,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2012-03-31,7.566667,1.926298,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2012-06-30,7.466667,1.502504,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2012-09-30,7.366667,1.160862,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2012-12-31,7.366667,0.831947,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2013-03-31,7.166667,0.986031,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2013-06-30,7.166667,1.151316,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2013-09-30,7.233333,1.065574,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2013-12-31,7.266667,1.237624,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2014-03-31,7.233333,1.545972,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2014-06-30,7.2,2.357724,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2014-09-30,7.033333,2.027575,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2014-12-31,6.766667,1.466993,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2015-03-31,6.866667,1.201923,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2015-06-30,6.933333,1.032566,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2015-09-30,7.066667,1.033386,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2015-12-31,7.133333,1.606426,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2016-03-31,7.233333,1.266825,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2016-06-30,7.133333,1.493711,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2016-09-30,6.966667,1.33753,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2016-12-31,6.866667,1.501976,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2017-03-31,6.733333,1.563722,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2017-06-30,6.533333,1.006971,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2017-09-30,6.233333,1.552795,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2017-12-31,6.166667,1.869159,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2018-03-31,5.9,2.309469,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2018-06-30,5.9,2.453988,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2018-09-30,5.9,2.217125,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2018-12-31,5.633333,1.987768,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2019-03-31,5.766667,1.881114,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2019-06-30,5.6,2.020958,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2019-09-30,5.666667,1.869858,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2019-12-31,5.7,2.248876,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2020-03-31,6.6,0.886263,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2020-06-30,13.5,0.660308,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2020-09-30,10.033333,0.51395,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2020-12-31,8.833333,0.733138,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2021-03-31,8.466667,2.196193,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2021-06-30,8.133333,3.061224,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2021-09-30,7.166667,4.382761,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2021-12-31,6.166667,4.803493,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2022-03-31,5.766667,6.661891,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2022-06-30,5.166667,8.132956,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2022-09-30,5.033333,6.857943,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2022-12-31,5.033333,6.319444,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2023-03-31,5.133333,4.298187,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2023-06-30,5.233333,2.812296,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2023-09-30,5.433333,3.798297,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2023-12-31,5.766667,3.396473,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2024-03-31,5.9,2.897618,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2024-06-30,6.3,2.671756,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2024-09-30,6.5,1.640379,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2024-12-31,6.766667,1.831965,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2025-03-31,6.7,2.315394,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2025-06-30,6.933333,1.858736,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2025-09-30,7.033333,2.358783,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2025-12-31,6.766667,2.35732,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2026-03-31,6.633333,2.385321,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
-2 · Phillips Curve — Unemployment vs CPI inflation,Canada,2026-06-30,6.75,2.189781,unemployment_ca [levels (auto: I(0))],cpi_ca [YoY % (4p)]
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1951-06-30,-0.980869,-0.498504,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1951-09-30,-0.847796,-1.856316,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1951-12-31,-0.590918,-0.967213,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1952-03-31,-0.845503,-4.062016,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1952-06-30,-0.913115,0.378618,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1952-09-30,-0.628125,-0.017752,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1952-12-31,-1.024332,-1.544134,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1953-03-31,-1.168478,0.385967,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1953-06-30,-1.326661,-0.008609,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1953-09-30,-1.197586,-0.383012,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1953-12-31,-0.279126,0.0,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1954-03-31,1.231594,0.378756,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1954-06-30,1.704288,-0.754685,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1954-09-30,1.807904,-0.744882,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1954-12-31,1.110321,-0.371747,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1955-03-31,0.444956,0.0,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1955-06-30,0.044535,0.0,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1955-09-30,-0.325166,1.116629,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1955-12-31,-0.265062,0.001398,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1956-03-31,-0.542531,0.0,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1956-06-30,-0.458121,1.498127,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1956-09-30,-0.61204,-0.013923,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1956-12-31,-0.704209,1.126339,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1957-03-31,-1.000833,0.746269,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1957-06-30,-0.934346,-0.42252,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1957-09-30,-0.90322,-0.024152,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1957-12-31,-0.305344,-0.386121,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1958-03-31,0.961956,0.698572,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1958-06-30,1.93488,-0.750147,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1958-09-30,1.815692,-0.726834,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1958-12-31,0.772115,-0.359578,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1959-03-31,0.170737,-1.413341,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1959-06-30,-0.622339,0.344819,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1959-09-30,-0.50778,0.692042,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1959-12-31,-0.219201,0.346021,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1960-03-31,-0.723229,0.0,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1960-06-30,-0.653023,-0.011891,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1960-09-30,-0.374623,-0.694322,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1960-12-31,0.346338,0.336653,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1961-03-31,0.877797,0.0,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1961-06-30,1.087473,-0.684869,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1961-09-30,0.87587,0.675676,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1961-12-31,0.342812,-0.68021,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1962-03-31,-0.179091,0.33557,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1962-06-30,-0.22411,0.33557,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1962-09-30,-0.126403,-0.008949,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1962-12-31,-0.086656,0.0,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1963-03-31,0.227859,-0.00443,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1963-06-30,0.283254,-0.0044,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1963-09-30,0.145503,-0.337661,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1963-12-31,0.313734,0.657895,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1964-03-31,0.320318,-0.333261,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1964-06-30,0.164095,-0.004286,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1964-09-30,0.07704,-0.004258,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1964-12-31,0.157692,-0.332058,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1965-03-31,0.204541,0.323625,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1965-06-30,0.082645,0.640985,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1965-09-30,-0.109731,-0.327767,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1965-12-31,-0.274375,0.31536,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1966-03-31,-0.413007,0.632834,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1966-06-30,-0.360507,-0.024265,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1966-09-30,-0.351499,0.949367,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1966-12-31,-0.353712,-0.021893,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1967-03-31,-0.167992,-0.655381,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1967-06-30,-0.128295,-0.025961,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1967-09-30,-0.13514,-0.025484,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1967-12-31,-0.022298,0.28722,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1968-03-31,-0.190122,0.89988,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1968-06-30,-0.372288,0.26481,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1968-09-30,-0.435681,0.260082,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1968-12-31,-0.613623,0.255478,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1969-03-31,-0.672498,0.528049,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1969-06-30,-0.711637,0.227691,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1969-09-30,-0.663287,0.222501,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1969-12-31,-0.759248,0.499177,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1970-03-31,-0.26424,-0.380009,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1970-06-30,0.22416,0.193754,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1970-09-30,0.508537,-0.350552,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1970-12-31,1.058006,-0.090086,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1971-03-31,1.041361,-0.85825,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1971-06-30,0.893404,-0.072867,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1971-09-30,0.914951,-0.557543,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1971-12-31,0.706262,-0.815301,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1972-03-31,0.433688,0.233668,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1972-06-30,0.263142,-0.79064,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1972-09-30,0.026931,0.476915,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1972-12-31,-0.276135,0.220052,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1973-03-31,-0.813931,1.183046,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1973-06-30,-0.920823,1.405832,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1973-09-30,-1.164005,1.368217,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1973-12-31,-1.310093,1.342462,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1974-03-31,-1.058312,1.686727,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1974-06-30,-1.107064,0.467119,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1974-09-30,-0.787426,1.087174,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1974-12-31,0.070218,0.39076,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1975-03-31,1.635976,-2.086616,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1975-06-30,2.146579,-0.863291,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1975-09-30,1.671069,-1.482617,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1975-12-31,1.443813,-0.968722,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1976-03-31,0.831465,-0.86431,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1976-06-30,0.633113,-0.101957,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1976-09-30,0.780658,-0.475644,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1976-12-31,0.805602,-0.629641,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1977-03-31,0.538964,1.575207,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1977-06-30,0.177923,0.426126,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1977-09-30,-0.047345,-0.268975,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1977-12-31,-0.273441,0.103809,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1978-03-31,-0.603603,-0.146409,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1978-06-30,-0.940901,0.858887,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1978-09-30,-0.921357,0.89268,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1978-12-31,-1.080407,0.711524,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1979-03-31,-1.15291,1.076924,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1979-06-30,-1.373053,0.794933,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1979-09-30,-1.274299,1.290881,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1979-12-31,-1.255919,1.113493,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1980-03-31,-1.016392,1.462503,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1980-06-30,-0.08674,-0.371938,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1980-09-30,0.13598,-1.783973,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1980-12-31,-0.245234,-0.084239,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1981-03-31,-0.327469,-2.029406,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1981-06-30,-0.474324,-0.934292,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1981-09-30,-0.582529,1.399781,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1981-12-31,0.151485,-2.030017,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1982-03-31,0.664982,-2.142703,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1982-06-30,1.195133,0.284357,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1982-09-30,1.612025,-2.021099,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1982-12-31,2.351667,-1.213131,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1983-03-31,2.04906,-0.231904,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1983-06-30,1.837732,-1.020564,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1983-09-30,1.116602,0.282742,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1983-12-31,0.350103,0.930922,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1984-03-31,-0.23136,1.009834,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1984-06-30,-0.564271,-0.579712,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1984-09-30,-0.451633,0.049004,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1984-12-31,-0.462765,-0.321442,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1985-03-31,-0.400035,-0.244964,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1985-06-30,-0.198857,0.057145,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1985-09-30,-0.16106,-0.617991,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1985-12-31,-0.188352,0.655813,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1986-03-31,-0.049002,-1.543031,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1986-06-30,0.222167,-0.48984,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1986-09-30,0.157033,-0.011413,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1986-12-31,0.154001,-0.65649,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1987-03-31,0.04471,1.935193,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1987-06-30,-0.172631,0.61988,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1987-09-30,-0.333172,0.702749,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1987-12-31,-0.405289,0.078672,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1988-03-31,-0.457152,-0.509322,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1988-06-30,-0.623341,0.039691,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1988-09-30,-0.571487,0.209155,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1988-12-31,-0.668829,0.245498,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1989-03-31,-0.78225,0.55913,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1989-06-30,-0.744881,0.190951,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1989-09-30,-0.756031,-0.828924,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1989-12-31,-0.647877,0.306735,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1990-03-31,-0.752123,0.585731,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1990-06-30,-0.766735,-0.559383,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1990-09-30,-0.455875,1.48635,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1990-12-31,-0.083228,-0.053735,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1991-03-31,0.321141,-1.21116,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1991-06-30,0.493887,-0.199185,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1991-09-30,0.471462,-1.304812,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1991-12-31,0.656677,-0.326833,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1992-03-31,0.885381,0.12091,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1992-06-30,1.093014,-0.09695,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1992-09-30,1.114461,-0.099897,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1992-12-31,0.850591,-0.087686,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1993-03-31,0.63491,0.18621,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1993-06-30,0.600393,-0.091142,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1993-09-30,0.379617,-0.306407,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1993-12-31,0.271452,0.059101,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1994-03-31,0.274528,-0.241451,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1994-06-30,-0.012691,-0.013889,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1994-09-30,-0.125249,0.470399,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1994-12-31,-0.39818,-0.288576,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1995-03-31,-0.466442,0.178364,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1995-06-30,-0.164742,0.18728,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1995-09-30,-0.060829,-0.497033,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1995-12-31,-0.055684,-0.005097,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1996-03-31,0.016418,0.301748,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1996-06-30,0.087904,-0.08606,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1996-09-30,-0.042144,0.248513,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1996-12-31,0.125302,0.319865,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1997-03-31,0.122629,-0.560754,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1997-06-30,-0.017853,-0.464338,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1997-09-30,-0.063913,-0.142757,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1997-12-31,-0.183307,-0.45223,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1998-03-31,-0.143751,-0.327396,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1998-06-30,-0.312848,0.309342,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1998-09-30,-0.124775,-0.195508,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1998-12-31,-0.180183,0.12307,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1999-03-31,-0.279644,0.114361,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1999-06-30,-0.290284,0.236926,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1999-09-30,-0.312387,0.665172,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,1999-12-31,-0.47939,0.056202,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2000-03-31,-0.524533,1.073012,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2000-06-30,-0.647425,-0.027131,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2000-09-30,-0.614014,-0.276008,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2000-12-31,-0.756508,-0.067628,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2001-03-31,-0.473398,-0.466249,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2001-06-30,-0.362705,0.327699,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2001-09-30,0.011181,-0.600016,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2001-12-31,0.617431,-1.09652,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2002-03-31,0.758542,-0.076128,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2002-06-30,0.836623,-0.40818,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2002-09-30,0.686645,0.446886,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2002-12-31,0.776387,0.862608,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2003-03-31,0.739868,0.643224,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2003-06-30,0.977286,-0.90785,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2003-09-30,0.955045,0.208157,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2003-12-31,0.638938,-0.440951,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2004-03-31,0.49416,-0.142249,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2004-06-30,0.385507,1.528953,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2004-09-30,0.2108,-0.728398,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2004-12-31,0.200954,0.717765,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2005-03-31,0.053414,-0.107216,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2005-06-30,-0.167828,-0.618035,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2005-09-30,-0.332151,2.156366,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2005-12-31,-0.375494,-1.271018,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2006-03-31,-0.666922,-0.053011,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2006-06-30,-0.841931,0.956117,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2006-09-30,-0.935603,-2.256392,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2006-12-31,-1.249158,0.478276,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2007-03-31,-1.316564,0.238128,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2007-06-30,-1.471011,-0.091741,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2007-09-30,-1.478198,0.068014,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2007-12-31,-1.536237,1.326217,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2008-03-31,-1.542317,-0.099812,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2008-06-30,-1.426002,1.040334,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2008-09-30,-0.982554,-0.084863,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2008-12-31,-0.339683,-4.845515,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2009-03-31,0.842187,-0.474969,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2009-06-30,1.669507,-1.04322,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2009-09-30,1.814871,0.14057,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2009-12-31,1.949828,4.007537,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2010-03-31,1.711461,-0.407372,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2010-06-30,1.402298,-1.26061,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2010-09-30,1.157134,0.090334,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2010-12-31,1.14322,0.352041,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2011-03-31,0.660415,1.18588,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2011-06-30,0.707866,0.877225,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2011-09-30,0.684307,0.309529,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2011-12-31,0.388028,-0.905938,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2012-03-31,0.116892,-0.311021,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2012-06-30,0.168521,-0.987404,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2012-09-30,0.140462,0.327288,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2012-12-31,0.06349,-0.25026,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2013-03-31,0.168294,-0.267126,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2013-06-30,0.152189,0.28052,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2013-09-30,0.045717,-0.569491,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2013-12-31,-0.054008,0.31681,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2014-03-31,-0.116564,0.010467,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2014-06-30,-0.378167,0.560138,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2014-09-30,-0.30829,-0.414423,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2014-12-31,-0.476171,-0.901425,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2015-03-31,-0.450855,-0.830131,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2015-06-30,-0.367756,0.197409,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2015-09-30,-0.528672,-0.159901,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2015-12-31,-0.435174,0.76565,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2016-03-31,-0.421833,0.123016,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2016-06-30,-0.256283,0.14479,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2016-09-30,-0.172559,0.466457,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2016-12-31,-0.204538,0.610838,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2017-03-31,-0.319322,0.30599,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2017-06-30,-0.450552,-0.747124,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2017-09-30,-0.431667,0.599476,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2017-12-31,-0.562495,-0.123881,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2018-03-31,-0.675925,0.250629,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2018-06-30,-0.771161,0.511836,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2018-09-30,-0.946986,-0.594576,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2018-12-31,-0.9017,-0.366813,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2019-03-31,-0.899678,-0.047636,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2019-06-30,-1.171398,-0.214038,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2019-09-30,-1.246777,0.06282,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2019-12-31,-1.28833,0.573825,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2020-03-31,-1.091129,-0.745803,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2020-06-30,8.050559,-0.893594,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2020-09-30,3.843151,0.725592,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2020-12-31,1.821365,-0.009319,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2021-03-31,1.317516,1.257757,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2021-06-30,1.062782,2.771689,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2021-09-30,0.254183,-0.001103,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2021-12-31,-0.578591,1.646054,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2022-03-31,-0.806009,1.506053,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2022-06-30,-0.964845,0.517302,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2022-09-30,-0.991369,-0.858088,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2022-12-31,-0.887917,-1.747268,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2023-03-31,-0.856201,-1.469427,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2023-06-30,-0.797382,-2.015796,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2023-09-30,-0.645418,0.73052,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2023-12-31,-0.433767,-0.347575,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2024-03-31,-0.362153,0.125262,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2024-06-30,-0.196693,-0.504349,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2024-09-30,0.030054,-0.532728,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2024-12-31,0.018985,0.449379,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2025-03-31,0.037647,-0.498962,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2025-06-30,0.120239,0.276536,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2025-09-30,0.267605,0.345743,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2025-12-31,0.397181,-0.33755,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2026-03-31,0.292901,0.580028,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,2026-06-30,0.271785,0.638367,unemployment [cyclical gap (HP λ=1600)],"cpi [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1966-03-31,0.171154,1.204819,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1966-06-30,-0.222075,-0.666572,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1966-09-30,-0.015411,0.591716,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1966-12-31,-0.175489,-0.63324,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1967-03-31,-0.002267,-0.618599,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1967-06-30,-0.095594,0.538398,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1967-09-30,-0.288651,0.548701,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1967-12-31,0.08544,-0.02247,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1968-03-31,0.227074,0.53958,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1968-06-30,0.203255,-1.179465,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1968-09-30,0.080847,0.510219,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1968-12-31,-0.106744,0.522689,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1969-03-31,-0.426168,-0.584385,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1969-06-30,-0.444003,1.584153,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1969-09-30,-0.526563,-0.610751,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1969-12-31,-0.439885,-0.049342,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1970-03-31,-0.283009,-0.024288,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1970-06-30,0.511966,-1.617527,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1970-09-30,0.813118,-0.533122,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1970-12-31,0.654871,-1.517538,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1971-03-31,0.704476,0.490124,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1971-06-30,0.662106,0.977906,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1971-09-30,0.427494,0.968318,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1971-12-31,0.399962,1.494736,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1972-03-31,0.17856,0.439745,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1972-06-30,0.228758,-1.038931,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1972-09-30,0.482581,1.360281,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1972-12-31,0.538577,-0.522885,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1973-03-31,-0.105009,0.391236,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1973-06-30,-0.616933,2.278546,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1973-09-30,-0.665886,0.237647,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1973-12-31,-0.58684,1.303251,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1974-03-31,-0.947686,1.151316,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1974-06-30,-1.049279,1.012146,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1974-09-30,-1.05855,-0.335142,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1974-12-31,-0.741773,1.449742,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1975-03-31,0.202106,-1.54195,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1975-06-30,0.241269,-0.766284,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1975-09-30,0.277109,0.102934,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1975-12-31,0.344198,-1.027471,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1976-03-31,0.043604,-0.134576,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1976-06-30,-0.123822,-1.299603,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1976-09-30,0.076079,-1.567192,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1976-12-31,0.244207,-0.78978,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1977-03-31,0.481419,1.560403,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1977-06-30,0.455081,0.527499,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1977-09-30,0.732262,0.854387,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1977-12-31,0.913077,0.83296,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1978-03-31,0.73052,-0.562925,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1978-06-30,0.750345,0.412268,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1978-09-30,0.571183,-0.774199,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1978-12-31,0.391198,0.116456,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1979-03-31,0.07486,0.647709,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1979-06-30,-0.380268,-0.227304,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1979-09-30,-1.043339,0.687111,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1979-12-31,-1.049934,0.059029,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1980-03-31,-0.80165,-0.531764,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1980-06-30,-0.766092,0.794293,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1980-09-30,-1.1437,0.540048,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1980-12-31,-1.534433,0.492582,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1981-03-31,-1.570869,1.618364,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1981-06-30,-1.984629,0.080208,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1981-09-30,-1.873017,-0.089598,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1981-12-31,-1.098762,-0.545455,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1982-03-31,-0.790092,-0.662879,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1982-06-30,0.492121,-0.145202,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1982-09-30,2.02083,-1.056721,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1982-12-31,2.735348,-0.990001,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1983-03-31,2.273725,-1.97669,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1983-06-30,1.938969,-1.845074,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1983-09-30,1.132666,-0.435702,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1983-12-31,0.721855,-0.415305,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1984-03-31,0.706205,-0.064023,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1984-06-30,0.918262,-0.226691,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1984-09-30,0.890134,-0.555055,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1984-12-31,0.786688,-0.031654,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1985-03-31,0.405567,-0.04955,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1985-06-30,0.410589,0.293729,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1985-09-30,0.131986,0.144694,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1985-12-31,0.199733,0.292304,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1986-03-31,-0.056277,-0.056558,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1986-06-30,-0.13961,-0.531312,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1986-09-30,-0.020463,0.291423,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1986-12-31,-0.00228,0.111222,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1987-03-31,0.178177,-0.206005,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1987-06-30,-0.14919,0.733898,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1987-09-30,-0.454586,-0.194607,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1987-12-31,-0.741459,-0.353838,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1988-03-31,-0.912972,0.10468,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1988-06-30,-1.038491,-0.35469,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1988-09-30,-0.886811,0.116365,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1988-12-31,-0.959414,-0.178661,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1989-03-31,-1.12389,0.666144,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1989-06-30,-1.0139,0.651175,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1989-09-30,-1.3624,0.09585,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1989-12-31,-1.335046,-0.036601,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1990-03-31,-1.263311,0.043035,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1990-06-30,-1.344499,-0.893039,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1990-09-30,-0.975124,-0.17307,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1990-12-31,-0.15086,0.760625,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1991-03-31,0.733228,1.200119,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1991-06-30,0.748837,0.072436,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1991-09-30,0.700538,-0.809132,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1991-12-31,0.459101,-1.702159,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1992-03-31,0.594857,-2.175106,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1992-06-30,0.877853,-0.496554,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1992-09-30,1.311095,0.240674,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1992-12-31,1.430374,0.847584,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1993-03-31,0.770663,-0.257415,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1993-06-30,1.232706,-0.247209,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1993-09-30,1.016766,0.114806,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1993-12-31,0.889003,-0.12858,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1994-03-31,0.648273,-1.418151,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1994-06-30,0.292878,-0.234742,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1994-09-30,-0.145952,0.233372,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1994-12-31,-0.43717,-0.001084,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1995-03-31,-0.482974,1.87544,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1995-06-30,-0.518616,0.58548,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1995-09-30,-0.479053,-0.481334,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1995-12-31,-0.498913,-0.473751,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1996-03-31,-0.179192,-0.247297,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1996-06-30,-0.120577,-0.0085,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1996-09-30,0.243026,-0.001688,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1996-12-31,0.544453,0.683371,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1997-03-31,0.283055,-0.243105,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1997-06-30,0.291175,-0.235511,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1997-09-30,0.000979,-0.001892,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1997-12-31,0.044452,-0.903123,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1998-03-31,0.020245,0.217404,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1998-06-30,-0.106353,-0.003308,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1998-09-30,-0.103399,-0.332223,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1998-12-31,-0.138882,0.333324,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1999-03-31,-0.147394,-0.00765,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1999-06-30,-0.030108,0.653212,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1999-09-30,-0.321436,0.990441,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,1999-12-31,-0.755773,-0.002882,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2000-03-31,-0.767313,0.414782,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2000-06-30,-0.889776,-0.24477,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2000-09-30,-0.589737,-0.127768,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2000-12-31,-0.533215,0.530767,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2001-03-31,-0.38586,-0.775547,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2001-06-30,-0.246322,0.924625,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2001-09-30,-0.146344,-0.749329,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2001-12-31,0.349152,-1.877569,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2002-03-31,0.675337,1.129871,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2002-06-30,0.467162,-0.637954,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2002-09-30,0.325823,1.116852,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2002-12-31,0.385557,1.466111,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2003-03-31,0.313731,0.447946,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2003-06-30,0.544138,-1.644111,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2003-09-30,0.710376,-0.422226,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2003-12-31,0.379033,-0.103225,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2004-03-31,0.282923,-1.301206,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2004-06-30,0.187954,1.76064,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2004-09-30,0.05986,-0.693714,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2004-12-31,0.230921,0.288912,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2005-03-31,0.066714,0.17813,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2005-06-30,-0.000659,-0.597259,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2005-09-30,-0.105809,1.525441,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2005-12-31,-0.250011,-1.150809,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2006-03-31,-0.167805,0.076401,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2006-06-30,-0.426911,0.268492,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2006-09-30,-0.261611,-1.694172,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2006-12-31,-0.405918,0.934855,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2007-03-31,-0.46035,0.629163,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2007-06-30,-0.62517,-0.110245,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2007-09-30,-0.867021,0.280747,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2007-12-31,-0.818822,-0.095928,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2008-03-31,-0.846281,-1.026465,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2008-06-30,-0.881265,1.777658,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2008-09-30,-0.888442,0.268097,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2008-12-31,-0.498598,-2.235175,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2009-03-31,0.724705,0.082625,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2009-06-30,1.284881,-1.503305,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2009-09-30,1.25156,-0.604339,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2009-12-31,1.1269,2.188223,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2010-03-31,0.845611,0.07959,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2010-06-30,0.575034,-0.447818,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2010-09-30,0.615312,0.962356,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2010-12-31,0.332896,0.433869,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2011-03-31,0.193853,0.935281,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2011-06-30,0.130708,-0.189091,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2011-09-30,-0.157467,0.066992,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2011-12-31,-0.03835,-0.867226,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2012-03-31,0.02048,-0.371574,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2012-06-30,-0.048532,-0.423794,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2012-09-30,-0.112955,-0.341642,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2012-12-31,-0.073658,-0.328916,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2013-03-31,-0.231443,0.154084,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2013-06-30,-0.187063,0.165285,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2013-09-30,-0.074461,-0.085742,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2013-12-31,0.00587,0.17205,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2014-03-31,0.02015,0.308349,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2014-06-30,0.034596,0.811751,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2014-09-30,-0.084587,-0.330149,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2014-12-31,-0.30455,-0.560582,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2015-03-31,-0.159058,-0.26507,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2015-06-30,-0.048351,-0.169358,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2015-09-30,0.127429,0.000821,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2015-12-31,0.234837,0.573039,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2016-03-31,0.373684,-0.339601,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2016-06-30,0.310297,0.226886,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2016-09-30,0.177439,-0.156181,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2016-12-31,0.107679,0.164447,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2017-03-31,0.00014,0.061745,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2017-06-30,-0.179454,-0.55675,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2017-09-30,-0.46538,0.545824,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2017-12-31,-0.525137,0.316364,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2018-03-31,-0.792596,0.44031,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2018-06-30,-0.801305,0.144519,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2018-09-30,-0.817646,-0.236862,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2018-12-31,-1.107503,-0.229358,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2019-03-31,-1.002912,-0.106654,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2019-06-30,-1.201888,0.139844,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2019-09-30,-1.168482,-0.1511,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2019-12-31,-1.165997,0.379018,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2020-03-31,-0.290336,-1.362613,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2020-06-30,6.596658,-0.225955,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2020-09-30,3.133324,-0.146358,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2020-12-31,1.953879,0.219188,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2021-03-31,1.623913,1.463055,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2021-06-30,1.341131,0.865031,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2021-09-30,0.435553,1.321537,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2021-12-31,-0.49697,0.420732,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2022-03-31,-0.827527,1.858398,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2022-06-30,-1.360228,1.471065,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2022-09-30,-1.432003,-1.275014,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2022-12-31,-1.378928,-0.538498,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2023-03-31,-1.236185,-2.021258,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2023-06-30,-1.104761,-1.485891,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2023-09-30,-0.884872,0.986002,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2023-12-31,-0.542708,-0.401824,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2024-03-31,-0.410574,-0.498855,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2024-06-30,-0.020435,-0.225862,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2024-09-30,0.162668,-1.031377,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2024-12-31,0.407039,0.191586,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2025-03-31,0.314212,0.48343,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2025-06-30,0.518804,-0.456658,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2025-09-30,0.588565,0.500047,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2025-12-31,0.290923,-0.001463,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2026-03-31,0.126271,0.028001,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,2026-06-30,0.211488,-0.19554,unemployment_ca [cyclical gap (HP λ=1600)],"cpi_ca [Δ YoY % (inflation accel., 4p)]"
 3 · Output gap vs CPI inflation,US,1951-06-30,4.128146,-0.498504,output_gap [levels],"cpi [Δ YoY % (inflation accel., 4p)]"
 3 · Output gap vs CPI inflation,US,1951-09-30,4.869869,-1.856316,output_gap [levels],"cpi [Δ YoY % (inflation accel., 4p)]"
 3 · Output gap vs CPI inflation,US,1951-12-31,3.65339,-0.967213,output_gap [levels],"cpi [Δ YoY % (inflation accel., 4p)]"

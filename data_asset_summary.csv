@@ -16,7 +16,8 @@ ppi,Prices :: Producer Prices,Trading Economics/FRED (US),2009-12-31,2026-06-30,
 prime_rate,Consumer :: Bank Lending Rate,Trading Economics — Bank Lending Rate (US),1950-03-31,2026-06-30,Q,306,I(1),0.0947
 spread_10y2y,FRED :: T10Y2Y,"FRED — 10Y−2Y Treasury slope (T10Y2Y, US, 1976+)",1976-06-30,2026-06-30,Q,201,I(0),0.0011
 spread_10y2y_ca,StatCan :: v122543 - v122538,"StatCan — GoC benchmark 10Y−2Y (v122543−v122538, Canada, 1982+)",1982-06-30,2026-06-30,Q,177,I(0),0.0004
-spread_10y3m,US Financial Conditions :: 10Y-3M Spread,FRED — Treasury (US),2000-03-31,2026-06-30,Q,106,I(0),0.0423
+spread_10y3m,FRED :: GS10 - TB3MS,"FRED — 10Y−3M Treasury slope (GS10−TB3MS, US, 1953+; canonical Estrella–Mishkin predictor)",1953-06-30,2026-06-30,Q,293,I(0),0.0013
+spread_10y3m_ca,StatCan :: v122543 - v122541,"StatCan — GoC 10Y − 3M T-bill (v122543−v122541, Canada, 1982+; canonical 10Y-3M slope, Harvey 1991)",1982-06-30,2026-06-30,Q,177,I(0),0.0298
 unemployment,FRED :: UNRATE,"FRED — Unemployment Rate (UNRATE, US, 1948+)",1948-03-31,2026-06-30,Q,314,I(0),0.0038
 unemployment_ca,Unemployment Rate :: Canada,Trading Economics (Canada),1966-03-31,2026-06-30,Q,242,I(0),0.0438
 vix,US Financial Conditions :: VIX,CBOE/FRED — VIX (US),2000-03-31,2026-06-30,Q,106,I(0),0.0005

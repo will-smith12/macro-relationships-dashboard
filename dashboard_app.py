@@ -72,18 +72,19 @@ WHY = {
         "response to inflation, so inflation should **lead** the rate with a "
         "**positive** sign. Principle 4 matters: energy shocks move both, so we "
         "check the link survives controlling for energy."),
-    5: ("The **yield-curve slope** (10Y-2Y) is the classic recession predictor: an "
-        "inversion today signals weak growth over the year ahead. We target the "
-        "**average GDP growth over the next 4 quarters** (the term-structure "
-        "forecasting literature's dependent variable; both countries in annualised "
-        "units), so the contemporaneous correlation is the one-year-ahead forecast — "
-        "a Principle 2 story a static matrix would miss. The modern full-sample "
-        "signal is **moderate by design**: the post-2008 **ZLB + QE** compressed the "
-        "term premium and pinned short rates, attenuating the slope→growth signal "
-        "(pre-2008 it was far stronger). We keep the **full sample**, so the honest "
-        "number *verifies* this documented weakening rather than contradicting "
-        "theory. A separate *negative* short-lag peak is the monetary-policy reaction "
-        "(growth → rate hikes → flatter curve), not the forecast."),
+    5: ("The **yield-curve slope** (10Y-3M — the canonical Estrella–Mishkin / NY-Fed "
+        "predictor) forecasts growth: an inversion today signals weak growth over the "
+        "year ahead. We target the **average GDP growth over the next 4 quarters** "
+        "(both countries annualised), so the contemporaneous correlation is the "
+        "one-year-ahead forecast — a Principle 2 story a static matrix would miss. "
+        "**The data verify the literature via the slope:** with the correct 10Y-3M "
+        "spread the forecasting coefficient is **β≈0.57 (US), inside the Estrella–"
+        "Mishkin 0.5–0.8 band** (an earlier build's 10Y-2Y gave β≈0.38, below it). The "
+        "full-sample *correlation* (US r≈0.28) sits at the low end of the classic band "
+        "only because post-2008 **ZLB + QE** raised the residual noise around that same "
+        "slope (pre-2008 r≈0.43–0.57 matches the classic band). A separate *negative* "
+        "short-lag peak is the monetary-policy reaction (growth → rate hikes → flatter "
+        "curve), not the forecast."),
     6: ("**Energy prices** pass through to headline inflation fast and strongly, but the "
         "raw correlation hides the real structure. Both series are **I(1) and "
         "cointegrated**, so the honest model is a **threshold vector error-correction "
@@ -438,16 +439,17 @@ def render_panel(box, rel_name: str, country: str, compact: bool):
         box.caption(
             "📈 Target is the **average GDP growth over the next 4 quarters** "
             "(one-year-ahead forecast, per Estrella–Mishkin), not a single noisy "
-            "quarter — so the contemporaneous correlation *is* the forecast, and "
-            "the 2020–21 COVID swings are damped without deleting any data."
+            "quarter — so the contemporaneous correlation *is* the forecast. The "
+            "scatter's **slope (β)** is the literature's coefficient: with the "
+            "canonical **10Y–3M** spread it lands in the 0.5–0.8 band (US β≈0.57)."
         )
     if n == 5 and country == "Canada":
         box.caption(
-            "⚠️ Both panels use the **10Y–2Y** slope. Canada is the GoC benchmark "
-            "10Y − 2Y from StatCan (`v122543`/`v122538`), back to **1982**; the US "
-            "slope (FRED `T10Y2Y`) runs from **1976** — directly comparable samples. "
-            "Canadian GDP growth is **annualised (SAAR)** here so the forecasting "
-            "slope is in the same units as the US and the literature (Harvey 1991)."
+            "⚠️ Both panels use the canonical **10Y–3M** slope (Estrella–Mishkin; "
+            "Harvey 1991). US = FRED `GS10 − TB3MS` (back to **1953**); Canada = GoC "
+            "10Y − 3M T-bill from StatCan (`v122543`/`v122541`, back to **1982**). "
+            "Canadian GDP growth is **annualised (SAAR)** so the forecasting slope is "
+            "in the same units as the US and the literature."
         )
     if n == 8 and country == "Canada":
         box.caption(

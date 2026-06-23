@@ -1,6 +1,6 @@
 relationship,country,break_date
 4 · CPI inflation vs short-term policy rate,US,2022-12-31
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,US,1999-12-31
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,1978-03-31
 6 · Energy prices vs CPI inflation,US,1967-12-31
 6 · Energy prices vs CPI inflation,US,1992-12-31
 6 · Energy prices vs CPI inflation,Canada,1971-12-31

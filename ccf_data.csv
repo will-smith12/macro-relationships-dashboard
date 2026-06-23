@@ -199,12 +199,6 @@ relationship,country,lag,r,n,sig,band
 4 · CPI inflation vs short-term policy rate,Canada,10,,2,False,0.5658
 4 · CPI inflation vs short-term policy rate,Canada,11,,1,False,0.5658
 4 · CPI inflation vs short-term policy rate,Canada,12,,0,False,0.5658
-5 · Yield-curve slope (10Y-3M) vs GDP growth,US,-12,-0.3999,276,True,0.1155
-5 · Yield-curve slope (10Y-3M) vs GDP growth,US,-11,-0.3961,277,True,0.1155
-5 · Yield-curve slope (10Y-3M) vs GDP growth,US,-10,-0.3777,278,True,0.1155
-5 · Yield-curve slope (10Y-3M) vs GDP growth,US,-9,-0.371,279,True,0.1155
-5 · Yield-curve slope (10Y-3M) vs GDP growth,US,-8,-0.3383,280,True,0.1155
-5 · Yield-curve slope (10Y-3M) vs GDP growth,US,-7,-0.3033,281,True,0.1155
 5 · Yield-curve slope (10Y-3M) vs GDP growth,US,-6,-0.2424,282,True,0.1155
 5 · Yield-curve slope (10Y-3M) vs GDP growth,US,-5,-0.1618,283,True,0.1155
 5 · Yield-curve slope (10Y-3M) vs GDP growth,US,-4,-0.0774,284,False,0.1155
@@ -218,18 +212,6 @@ relationship,country,lag,r,n,sig,band
 5 · Yield-curve slope (10Y-3M) vs GDP growth,US,4,0.1066,284,False,0.1155
 5 · Yield-curve slope (10Y-3M) vs GDP growth,US,5,0.0462,283,False,0.1155
 5 · Yield-curve slope (10Y-3M) vs GDP growth,US,6,-0.0008,282,False,0.1155
-5 · Yield-curve slope (10Y-3M) vs GDP growth,US,7,-0.0513,281,False,0.1155
-5 · Yield-curve slope (10Y-3M) vs GDP growth,US,8,-0.0853,280,False,0.1155
-5 · Yield-curve slope (10Y-3M) vs GDP growth,US,9,-0.1086,279,False,0.1155
-5 · Yield-curve slope (10Y-3M) vs GDP growth,US,10,-0.1216,278,True,0.1155
-5 · Yield-curve slope (10Y-3M) vs GDP growth,US,11,-0.1282,277,True,0.1155
-5 · Yield-curve slope (10Y-3M) vs GDP growth,US,12,-0.1481,276,True,0.1155
-5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,-12,-0.3033,160,True,0.1494
-5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,-11,-0.3457,161,True,0.1494
-5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,-10,-0.3579,162,True,0.1494
-5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,-9,-0.3363,163,True,0.1494
-5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,-8,-0.2906,164,True,0.1494
-5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,-7,-0.2199,165,True,0.1494
 5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,-6,-0.1246,166,False,0.1494
 5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,-5,-0.0199,167,False,0.1494
 5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,-4,0.1195,168,False,0.1494
@@ -243,12 +225,6 @@ relationship,country,lag,r,n,sig,band
 5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,4,0.2293,168,True,0.1494
 5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,5,0.233,167,True,0.1494
 5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,6,0.2411,166,True,0.1494
-5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,7,0.2378,165,True,0.1494
-5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,8,0.2213,164,True,0.1494
-5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,9,0.1744,163,True,0.1494
-5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,10,0.133,162,False,0.1494
-5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,11,0.0851,161,False,0.1494
-5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,12,0.0298,160,False,0.1494
 6 · Energy prices vs CPI inflation,US,-12,0.1065,262,False,0.1184
 6 · Energy prices vs CPI inflation,US,-11,0.0896,263,False,0.1184
 6 · Energy prices vs CPI inflation,US,-10,0.0742,264,False,0.1184

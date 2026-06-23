@@ -7,7 +7,7 @@ Relationship,Country,Transform,Headline correlation,Contemporaneous r,Auto peak 
 3 · Output gap vs CPI inflation,Canada,output_gap_ca:levels | cpi_ca:Δ,0.218,0.218,0.283,-1,0.218,0,cpi_ca,n/a,No,n/a,—
 4 · CPI inflation vs short-term policy rate,US,cpi:YoY | policy_rate:levels,0.291,0.291,0.62,6,0.62,6,cpi,n/a,Yes,Yes,—
 4 · CPI inflation vs short-term policy rate,Canada,cpi_ca:YoY | policy_rate_ca:levels,0.567,0.567,0.99,-8,0.927,5,policy_rate_ca,n/a,No,Yes,auto +0.99@-8 vs theory +0.93@+5
-5 · Yield-curve slope (10Y-3M) vs GDP growth,US,spread_10y3m:levels | gdp_growth:avg,0.281,0.281,-0.4,-12,0.281,0,gdp_growth,n/a,No,n/a,auto -0.40@-12 vs theory +0.28@+0
+5 · Yield-curve slope (10Y-3M) vs GDP growth,US,spread_10y3m:levels | gdp_growth:avg,0.281,0.281,0.281,0,0.281,0,—,n/a,No,n/a,—
 5 · Yield-curve slope (10Y-3M) vs GDP growth,Canada,spread_10y3m_ca:levels | gdp_growth_ca:avg,0.359,0.359,0.374,-1,0.359,0,gdp_growth_ca,n/a,No,n/a,—
 6 · Energy prices vs CPI inflation,US,energy_ppi:levels | cpi:YoY,0.709,0.709,0.709,0,0.709,0,—,n/a,No,Yes,—
 6 · Energy prices vs CPI inflation,Canada,energy_ppi_ca:levels | cpi_ca:YoY,0.667,0.667,0.667,0,0.667,0,—,n/a,No,n/a,—

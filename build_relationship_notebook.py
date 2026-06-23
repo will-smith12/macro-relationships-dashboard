@@ -341,6 +341,11 @@ def apply_transform(s, kind):
       "hp_cycle" -> cyclical GAP = series minus its HP-filter trend (λ=1600,
                     quarterly). Used for the unemployment GAP (u - u*) on the
                     x-side of the expectations-augmented Phillips curve.
+      "fwd_avg" -> average of the NEXT PERIODS_YR periods (forward-looking
+                    dependent variable of the term-structure forecasting
+                    literature: slope_t vs mean(g_{t+1..t+P})).
+      "fwd_avg_ann" -> like fwd_avg but annualises a QoQ growth series to SAAR
+                    first, so the forecasting slope is in annualised-growth units.
     """
     s = pd.Series(s).astype(float)
     if kind == "level":
@@ -381,6 +386,18 @@ def apply_transform(s, kind):
         # COVID swings) without discretionary sample deletion.
         fwd = s.rolling(PERIODS_YR).mean().shift(-PERIODS_YR)
         return fwd, f"avg next {PERIODS_YR}q (forecast)"
+    if kind == "fwd_avg_ann":
+        # Same forward-looking dependent variable as `fwd_avg`, but first put a
+        # QoQ (non-annualised) growth series onto an ANNUALISED (SAAR) footing —
+        # ((1+q/100)**4 - 1)*100 — so the forecasting slope is reported in the
+        # term-structure literature's units (annualised real-GDP growth, pp per
+        # +1pp of slope; Estrella–Hardouvelis / Estrella–Mishkin). Used for the
+        # Canadian rel-5 leg, whose gdp_growth_ca is QoQ; the US leg already
+        # carries SAAR growth so it keeps the plain `fwd_avg`. Correlation r is
+        # essentially unchanged (the annualisation is a near-affine rescaling).
+        ann = ((1.0 + s / 100.0) ** PERIODS_YR - 1.0) * 100.0
+        fwd = ann.rolling(PERIODS_YR).mean().shift(-PERIODS_YR)
+        return fwd, f"avg next {PERIODS_YR}q, annualised (forecast)"
     # auto
     rep = adf_report(s)
     # Treat I(1) AND I(1+) (still non-stationary after one diff) as needing a
@@ -1807,6 +1824,21 @@ over the 2001+ overlap, with the workbook GoC yields kept as a fallback).
 > growth → the central bank hikes short rates → the curve flattens a few quarters
 > later. That channel is real but is *not* the forecasting relationship, so the
 > theory-peak (slope → future growth, positive) is the headline here.
+
+> **Why the modern full-sample correlation is moderate — and why that VERIFIES the
+> literature rather than contradicting it.** The slope→growth signal was strongest
+> before 2008 (US pre-2008 r≈0.44, Canada r≈0.57). After the 2008 crisis the
+> **zero lower bound (ZLB) and large-scale asset purchases (QE)** pinned short
+> rates and compressed the **term premium**, mechanically attenuating the
+> information the slope carries about future growth (Bauer & Mertens 2018; Engstrom
+> & Sharpe 2019). We deliberately keep the **full continuous sample** rather than
+> trimming to the pre-ZLB era, so the headline correlation (US r≈0.14, Canada
+> r≈0.31) is the *honest* modern number — the data **verifying a well-documented
+> structural weakening** of the term-spread signal, exactly as the literature
+> reports, not a methodological failure. **Units:** the US dependent variable is
+> already annualised (SAAR) real-GDP growth; the Canadian leg annualises its QoQ
+> growth to SAAR (`fwd_avg_ann`) so both forecasting slopes are reported in the
+> same annualised-growth units as Estrella–Mishkin and Harvey (1991, Canada).
 """)
 code(r'''
 r = analyze_relationship(
@@ -1819,7 +1851,7 @@ if r: SUMMARY.append(r)
 r = analyze_relationship(
     "rel5_slope_gdp", "5 · Yield-curve slope (10Y-2Y) vs GDP growth",
     "spread_10y2y_ca", "gdp_growth_ca",
-    x_transform="level", y_transform="fwd_avg",
+    x_transform="level", y_transform="fwd_avg_ann",
     expected_lead="x", expected_sign="+", expected_leader="x", fig_n=5, country="Canada",
     expect="positive; 10Y-2Y slope FORECASTS avg GDP growth over the next year (Canada GoC 10Y-2Y, 1982+)")
 if r: SUMMARY.append(r)

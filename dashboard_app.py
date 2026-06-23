@@ -72,13 +72,18 @@ WHY = {
         "response to inflation, so inflation should **lead** the rate with a "
         "**positive** sign. Principle 4 matters: energy shocks move both, so we "
         "check the link survives controlling for energy."),
-    5: ("The **yield-curve slope** (10Y-2Y) is a classic recession predictor: an "
+    5: ("The **yield-curve slope** (10Y-2Y) is the classic recession predictor: an "
         "inversion today signals weak growth over the year ahead. We target the "
         "**average GDP growth over the next 4 quarters** (the term-structure "
-        "forecasting literature's dependent variable), so the contemporaneous "
-        "correlation is the one-year-ahead forecast — a Principle 2 story a static "
-        "matrix would miss. A separate *negative* short-lag peak is the monetary-"
-        "policy reaction (growth → rate hikes → flatter curve), not the forecast."),
+        "forecasting literature's dependent variable; both countries in annualised "
+        "units), so the contemporaneous correlation is the one-year-ahead forecast — "
+        "a Principle 2 story a static matrix would miss. The modern full-sample "
+        "signal is **moderate by design**: the post-2008 **ZLB + QE** compressed the "
+        "term premium and pinned short rates, attenuating the slope→growth signal "
+        "(pre-2008 it was far stronger). We keep the **full sample**, so the honest "
+        "number *verifies* this documented weakening rather than contradicting "
+        "theory. A separate *negative* short-lag peak is the monetary-policy reaction "
+        "(growth → rate hikes → flatter curve), not the forecast."),
     6: ("**Energy prices** pass through to headline inflation fast and strongly, but the "
         "raw correlation hides the real structure. Both series are **I(1) and "
         "cointegrated**, so the honest model is a **threshold vector error-correction "
@@ -440,7 +445,9 @@ def render_panel(box, rel_name: str, country: str, compact: bool):
         box.caption(
             "⚠️ Both panels use the **10Y–2Y** slope. Canada is the GoC benchmark "
             "10Y − 2Y from StatCan (`v122543`/`v122538`), back to **1982**; the US "
-            "slope (FRED `T10Y2Y`) runs from **1976** — directly comparable samples."
+            "slope (FRED `T10Y2Y`) runs from **1976** — directly comparable samples. "
+            "Canadian GDP growth is **annualised (SAAR)** here so the forecasting "
+            "slope is in the same units as the US and the literature (Harvey 1991)."
         )
     if n == 8 and country == "Canada":
         box.caption(

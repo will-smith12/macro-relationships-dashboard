@@ -1887,178 +1887,178 @@ relationship,country,date,x,y,x_label,y_label
 5 · Yield-curve slope (10Y-2Y) vs GDP growth,US,2024-09-30,-0.085938,2.375,spread_10y2y [levels],gdp_growth [avg next 4q (forecast)]
 5 · Yield-curve slope (10Y-2Y) vs GDP growth,US,2024-12-31,0.13,2.025,spread_10y2y [levels],gdp_growth [avg next 4q (forecast)]
 5 · Yield-curve slope (10Y-2Y) vs GDP growth,US,2025-03-31,0.304918,2.575,spread_10y2y [levels],gdp_growth [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1982-06-30,-0.01,0.449357,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1982-09-30,0.556667,0.951926,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1982-12-31,1.27,1.493422,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1983-03-31,1.19,1.517848,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1983-06-30,1.24,1.509821,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1983-09-30,1.403333,1.336448,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1983-12-31,1.526667,1.415811,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1984-03-31,1.506667,1.366918,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1984-06-30,1.01,0.962169,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1984-09-30,0.426667,1.17205,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1984-12-31,1.073333,1.163035,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1985-03-31,0.726667,0.766267,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1985-06-30,0.626667,0.829543,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1985-09-30,0.766667,0.543608,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1985-12-31,0.78,-0.01852,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1986-03-31,0.12,0.571999,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1986-06-30,0.146667,0.748563,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1986-09-30,-0.06,1.099098,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1986-12-31,0.21,1.603043,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1987-03-31,0.62,1.38944,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1987-06-30,0.266667,1.291032,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1987-09-30,0.22,0.912775,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1987-12-31,0.45,0.761366,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1988-03-31,0.45,0.685985,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1988-06-30,0.433333,0.561391,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1988-09-30,0.176667,0.647935,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1988-12-31,-0.18,0.426623,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1989-03-31,-0.836667,0.378179,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1989-06-30,-0.62,0.18062,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1989-09-30,-0.716667,-0.088809,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1989-12-31,-1.15,-0.261651,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1990-03-31,-1.216667,-0.861731,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1990-06-30,-1.096667,-0.641437,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1990-09-30,-0.233333,-0.429107,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1990-12-31,0.01,-0.162581,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1991-03-31,0.203333,0.214724,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1991-06-30,0.486667,0.123229,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1991-09-30,0.673333,0.225483,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1991-12-31,1.12,0.323999,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1992-03-31,0.91,0.465082,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1992-06-30,1.45,0.664305,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1992-09-30,1.586667,0.767982,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1992-12-31,1.126667,0.732471,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1993-03-31,1.023333,0.942365,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1993-06-30,1.233333,1.079606,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1993-09-30,1.546667,1.161033,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1993-12-31,1.863333,1.235698,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1994-03-31,1.79,1.096781,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1994-06-30,0.95,0.742439,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1994-09-30,1.216667,0.45497,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1994-12-31,0.96,0.374258,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1995-03-31,0.58,0.180831,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1995-06-30,0.856667,0.348193,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1995-09-30,0.95,0.525124,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1995-12-31,1.073333,0.622307,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1996-03-31,1.61,0.921002,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1996-06-30,1.6,1.024364,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1996-09-30,1.893333,1.110765,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1996-12-31,2.3,1.154286,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1997-03-31,2.083333,1.17231,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1997-06-30,1.913333,0.904207,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1997-09-30,1.446667,0.83563,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1997-12-31,0.87,0.932779,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1998-03-31,0.523333,1.031165,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1998-06-30,0.256667,1.224119,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1998-09-30,0.246667,1.388177,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1998-12-31,0.3,1.39967,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1999-03-31,0.16,1.339717,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1999-06-30,0.333333,1.427765,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1999-09-30,0.266667,1.292168,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1999-12-31,0.286667,0.991376,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2000-03-31,0.166667,0.740669,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2000-06-30,-0.066667,0.525049,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2000-09-30,-0.046667,0.251216,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2000-12-31,0.003333,0.351713,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2001-03-31,0.593333,0.576534,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2001-06-30,0.91,0.645626,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2001-09-30,1.356667,0.879376,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2001-12-31,2.053333,0.866742,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2002-03-31,1.846667,0.640292,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2002-06-30,1.433333,0.45632,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2002-09-30,1.653333,0.333606,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2002-12-31,1.726667,0.368155,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2003-03-31,1.426667,0.410848,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2003-06-30,1.3,0.743321,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2003-09-30,1.776667,0.945442,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2003-12-31,1.673333,0.954012,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2004-03-31,1.963333,0.859779,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2004-06-30,1.723333,0.744249,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2004-09-30,1.506667,0.75164,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2004-12-31,1.3,0.8195,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2005-03-31,1.256667,0.934923,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2005-06-30,1.013333,0.766739,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2005-09-30,0.773333,0.534141,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2005-12-31,0.326667,0.38541,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2006-03-31,0.24,0.341988,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2006-06-30,0.26,0.570917,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2006-09-30,0.14,0.59421,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2006-12-31,0.066667,0.527514,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2007-03-31,0.09,0.386718,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2007-06-30,-0.026667,0.236378,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2007-09-30,0.096667,0.34814,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2007-12-31,0.223333,0.025209,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2008-03-31,0.776667,-0.557696,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2008-06-30,0.64,-0.91846,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2008-09-30,0.78,-1.012082,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2008-12-31,1.633333,-0.431534,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2009-03-31,1.713333,0.435492,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2009-06-30,2.193333,0.836079,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2009-09-30,2.076667,0.899277,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2009-12-31,2.096667,0.889252,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2010-03-31,2.023333,0.776771,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2010-06-30,1.67,0.691239,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2010-09-30,1.523333,0.858291,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2010-12-31,1.453333,0.776524,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2011-03-31,1.563333,0.601907,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2011-06-30,1.503333,0.637793,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2011-09-30,1.363333,0.329944,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2011-12-31,1.156667,0.182711,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2012-03-31,0.943333,0.390711,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2012-06-30,0.693333,0.453413,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2012-09-30,0.65,0.624779,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2012-12-31,0.68,0.834972,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2013-03-31,0.816667,0.653441,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2013-06-30,1.016667,0.73736,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2013-09-30,1.363333,0.771426,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2013-12-31,1.45,0.682573,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2014-03-31,1.41,0.501127,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2014-06-30,1.223333,0.20499,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2014-09-30,1.006667,0.05487,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2014-12-31,0.906667,-0.101351,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2015-03-31,0.866667,0.185765,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2015-06-30,1.04,0.12948,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2015-09-30,1.013333,0.299404,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2015-12-31,0.936667,0.423089,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2016-03-31,0.723333,0.589722,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2016-06-30,0.716667,0.977391,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2016-09-30,0.466667,0.725796,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2016-12-31,0.806667,0.712381,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2017-03-31,0.933333,0.688459,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2017-06-30,0.676667,0.62033,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2017-09-30,0.61,0.738585,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2017-12-31,0.45,0.670637,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2018-03-31,0.403333,0.440171,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2018-06-30,0.353333,0.518855,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2018-09-30,0.213333,0.462655,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2018-12-31,0.116667,0.475141,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2019-03-31,0.106667,-0.072509,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2019-06-30,0.08,-3.096185,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2019-09-30,-0.15,-0.895212,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2019-12-31,-0.1,-0.496995,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2020-03-31,-0.003333,0.416385,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2020-06-30,0.24,3.137068,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2020-09-30,0.286667,1.369814,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2020-12-31,0.426667,1.347822,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2021-03-31,1.016667,1.181134,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2021-06-30,1.1,1.494845,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2021-09-30,0.833333,1.193409,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2021-12-31,0.576667,0.761536,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2022-03-31,0.366667,0.765495,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2022-06-30,0.226667,0.520981,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2022-09-30,-0.503333,0.331323,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2022-12-31,-0.75,0.328522,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2023-03-31,-0.806667,0.247514,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2023-06-30,-1.036667,0.411618,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2023-09-30,-1.05,0.603873,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2023-12-31,-0.71,0.766305,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2024-03-31,-0.67,0.763041,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2024-06-30,-0.536667,0.498462,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2024-09-30,-0.136667,0.411651,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2024-12-31,0.15,0.174677,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2025-03-31,0.41,-0.013144,spread_10y2y_ca [levels],gdp_growth_ca [avg next 4q (forecast)]
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1982-06-30,-0.01,1.921499,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1982-09-30,0.556667,3.939121,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1982-12-31,1.27,6.115787,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1983-03-31,1.19,6.218509,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1983-06-30,1.24,6.184477,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1983-09-30,1.403333,5.474695,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1983-12-31,1.526667,5.805687,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1984-03-31,1.506667,5.600367,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1984-06-30,1.01,3.925702,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1984-09-30,0.426667,4.786824,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1984-12-31,1.073333,4.749067,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1985-03-31,0.726667,3.126263,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1985-06-30,0.626667,3.382784,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1985-09-30,0.766667,2.214904,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1985-12-31,0.78,-0.061006,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1986-03-31,0.12,2.382412,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1986-06-30,0.146667,3.108521,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1986-09-30,-0.06,4.545796,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1986-12-31,0.21,6.579003,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1987-03-31,0.62,5.675363,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1987-06-30,0.266667,5.268786,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1987-09-30,0.22,3.72039,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1987-12-31,0.45,3.096598,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1988-03-31,0.45,2.783103,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1988-06-30,0.433333,2.27512,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1988-09-30,0.176667,2.623252,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1988-12-31,-0.18,1.731501,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1989-03-31,-0.836667,1.531506,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1989-06-30,-0.62,0.741403,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1989-09-30,-0.716667,-0.330606,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1989-12-31,-1.15,-1.010746,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1990-03-31,-1.216667,-3.394279,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1990-06-30,-1.096667,-2.512044,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1990-09-30,-0.233333,-1.670129,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1990-12-31,0.01,-0.61538,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1991-03-31,0.203333,0.863163,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1991-06-30,0.486667,0.493914,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1991-09-30,0.673333,0.90708,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1991-12-31,1.12,1.305569,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1992-03-31,0.91,1.875901,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1992-06-30,1.45,2.685118,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1992-09-30,1.586667,3.109218,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1992-12-31,1.126667,2.965038,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1993-03-31,1.023333,3.831473,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1993-06-30,1.233333,4.400196,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1993-09-30,1.546667,4.736962,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1993-12-31,1.863333,5.040826,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1994-03-31,1.79,4.464965,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1994-06-30,0.95,3.015344,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1994-09-30,1.216667,1.840864,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1994-12-31,0.96,1.512513,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1995-03-31,0.58,0.726379,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1995-06-30,0.856667,1.40344,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1995-09-30,0.95,2.121542,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1995-12-31,1.073333,2.51729,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1996-03-31,1.61,3.738924,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1996-06-30,1.6,4.163874,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1996-09-30,1.893333,4.520084,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1996-12-31,2.3,4.698803,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1997-03-31,2.083333,4.773914,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1997-06-30,1.913333,3.682404,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1997-09-30,1.446667,3.39938,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1997-12-31,0.87,3.801666,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1998-03-31,0.523333,4.214509,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1998-06-30,0.256667,4.996544,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1998-09-30,0.246667,5.677486,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1998-12-31,0.3,5.725384,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1999-03-31,0.16,5.47324,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1999-06-30,0.333333,5.836116,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1999-09-30,0.266667,5.272356,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,1999-12-31,0.286667,4.04006,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2000-03-31,0.166667,3.004844,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2000-06-30,-0.066667,2.12291,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2000-09-30,-0.046667,1.011782,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2000-12-31,0.003333,1.418601,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2001-03-31,0.593333,2.345495,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2001-06-30,0.91,2.625635,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2001-09-30,1.356667,3.571843,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2001-12-31,2.053333,3.52043,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2002-03-31,1.846667,2.586906,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2002-06-30,1.433333,1.84608,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2002-09-30,1.653333,1.346042,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2002-12-31,1.726667,1.486816,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2003-03-31,1.426667,1.6609,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2003-06-30,1.3,3.0117,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2003-09-30,1.776667,3.83922,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2003-12-31,1.673333,3.87423,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2004-03-31,1.963333,3.491171,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2004-06-30,1.723333,3.015698,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2004-09-30,1.506667,3.046336,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2004-12-31,1.3,3.324819,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2005-03-31,1.256667,3.794608,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2005-06-30,1.013333,3.114039,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2005-09-30,0.773333,2.162628,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2005-12-31,0.326667,1.555195,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2006-03-31,0.24,1.377701,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2006-06-30,0.26,2.307459,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2006-09-30,0.14,2.401552,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2006-12-31,0.066667,2.13264,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2007-03-31,0.09,1.563408,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2007-06-30,-0.026667,0.949965,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2007-09-30,0.096667,1.405086,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2007-12-31,0.223333,0.133139,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2008-03-31,0.776667,-2.123324,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2008-06-30,0.64,-3.551049,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2008-09-30,0.78,-3.932712,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2008-12-31,1.633333,-1.610152,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2009-03-31,1.713333,1.804907,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2009-06-30,2.193333,3.394054,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2009-09-30,2.076667,3.651221,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2009-12-31,2.096667,3.609735,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2010-03-31,2.023333,3.146358,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2010-06-30,1.67,2.8006,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2010-09-30,1.523333,3.48976,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2010-12-31,1.453333,3.153197,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2011-03-31,1.563333,2.446047,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2011-06-30,1.503333,2.590683,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2011-09-30,1.363333,1.331232,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2011-12-31,1.156667,0.73341,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2012-03-31,0.943333,1.577439,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2012-06-30,0.693333,1.831652,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2012-09-30,0.65,2.527037,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2012-12-31,0.68,3.383716,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2013-03-31,0.816667,2.64593,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2013-06-30,1.016667,2.989153,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2013-09-30,1.363333,3.129088,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2013-12-31,1.45,2.76433,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2014-03-31,1.41,2.042751,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2014-06-30,1.223333,0.846777,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2014-09-30,1.006667,0.234357,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2014-12-31,0.906667,-0.397661,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2015-03-31,0.866667,0.751441,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2015-06-30,1.04,0.528895,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2015-09-30,1.013333,1.22293,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2015-12-31,0.936667,1.722344,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2016-03-31,0.723333,2.40755,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2016-06-30,0.716667,3.971252,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2016-09-30,0.466667,2.948618,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2016-12-31,0.806667,2.894092,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2017-03-31,0.933333,2.794889,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2017-06-30,0.676667,2.514814,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2017-09-30,0.61,2.991649,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2017-12-31,0.45,2.716817,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2018-03-31,0.403333,1.775392,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2018-06-30,0.353333,2.099062,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2018-09-30,0.213333,1.871608,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2018-12-31,0.116667,1.921944,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2019-03-31,0.106667,-0.213231,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2019-06-30,0.08,-10.640502,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2019-09-30,-0.15,-0.523478,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2019-12-31,-0.1,1.121755,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2020-03-31,-0.003333,4.763007,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2020-06-30,0.24,13.960405,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2020-09-30,0.286667,5.638778,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2020-12-31,0.426667,5.545877,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2021-03-31,1.016667,4.851334,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2021-06-30,1.1,6.125531,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2021-09-30,0.833333,4.867958,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2021-12-31,0.576667,3.091866,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2022-03-31,0.366667,3.108203,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2022-06-30,0.226667,2.110969,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2022-09-30,-0.503333,1.342511,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2022-12-31,-0.75,1.331287,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2023-03-31,-0.806667,0.998519,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2023-06-30,-1.036667,1.664595,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2023-09-30,-1.05,2.443698,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2023-12-31,-0.71,3.100799,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2024-03-31,-0.67,3.087457,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2024-06-30,-0.536667,2.01998,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2024-09-30,-0.136667,1.665968,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2024-12-31,0.15,0.711564,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,2025-03-31,0.41,-0.047417,spread_10y2y_ca [levels],"gdp_growth_ca [avg next 4q, annualised (forecast)]"
 6 · Energy prices vs CPI inflation,US,1958-03-31,0.158682,3.597122,energy_ppi [levels],cpi [YoY % (4p)]
 6 · Energy prices vs CPI inflation,US,1958-06-30,-0.617284,2.846975,energy_ppi [levels],cpi [YoY % (4p)]
 6 · Energy prices vs CPI inflation,US,1958-09-30,1.089618,2.120141,energy_ppi [levels],cpi [YoY % (4p)]

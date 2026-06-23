@@ -1,16 +1,16 @@
 Relationship,Country,Transform,Headline correlation,Contemporaneous r,Auto peak r,Auto peak lag,Theory peak r,Theory peak lag,Leading variable,Cointegrated?,Sign-flips across regimes?,Survives common-driver control?,Auto/Theory divergence
 1 · Okun's Law — ΔUnemployment vs GDP growth,US,unemployment:Δ | gdp_growth:levels,-0.729,-0.729,-0.729,0,-0.729,0,—,n/a,No,n/a,—
-1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,unemployment_ca:Δ | gdp_growth_ca:levels,-0.815,-0.815,-0.815,0,-0.815,0,—,n/a,No,n/a,—
-2 · Phillips Curve — Unemployment gap vs inflation accel.,US,unemployment:cyclical | cpi:Δ,-0.154,-0.154,-0.203,-1,-0.203,-1,cpi,,No,,—
-2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,unemployment_ca:cyclical | cpi_ca:Δ,-0.114,-0.114,-0.242,-1,-0.242,-1,cpi_ca,,No,Weakened,—
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,unemployment_ca:Δ | gdp_growth_ca:levels,-0.814,-0.814,-0.814,0,-0.814,0,—,n/a,No,n/a,—
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,unemployment:cyclical | cpi:Δ,-0.154,-0.154,-0.203,-1,-0.203,-1,cpi,n/a,No,Yes,—
+2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,unemployment_ca:cyclical | cpi_ca:Δ,-0.114,-0.114,-0.242,-1,-0.242,-1,cpi_ca,n/a,No,Weakened,—
 3 · Output gap vs CPI inflation,US,output_gap:levels | cpi:Δ,0.218,0.218,0.218,0,0.218,0,—,n/a,No,n/a,—
 3 · Output gap vs CPI inflation,Canada,output_gap_ca:levels | cpi_ca:Δ,0.218,0.218,0.283,-1,0.218,0,cpi_ca,n/a,No,n/a,—
 4 · CPI inflation vs short-term policy rate,US,cpi:YoY | policy_rate:levels,0.291,0.291,0.62,6,0.62,6,cpi,n/a,Yes,Yes,—
-4 · CPI inflation vs short-term policy rate,Canada,cpi_ca:YoY | policy_rate_ca:levels,0.356,0.356,0.383,2,0.383,2,cpi_ca,n/a,No,Yes,—
+4 · CPI inflation vs short-term policy rate,Canada,cpi_ca:YoY | policy_rate_ca:levels,0.567,0.567,0.99,-8,0.927,5,policy_rate_ca,n/a,No,Yes,auto +0.99@-8 vs theory +0.93@+5
 5 · Yield-curve slope (10Y-2Y) vs GDP growth,US,spread_10y2y:levels | gdp_growth:avg,0.142,0.142,-0.422,-9,0.149,1,gdp_growth,n/a,No,n/a,auto -0.42@-9 vs theory +0.15@+1
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,spread_10y2y_ca:levels | gdp_growth_ca:avg,0.304,0.304,-0.381,-9,0.304,0,gdp_growth_ca,n/a,No,n/a,auto -0.38@-9 vs theory +0.30@+0
-6 · Energy prices vs CPI inflation,US,energy_ppi:levels | cpi:YoY,0.796,0.796,0.796,0,0.796,0,—,n/a,No,Yes,—
-6 · Energy prices vs CPI inflation,Canada,energy_ppi_ca:levels | cpi_ca:YoY,0.666,0.666,0.666,0,0.666,0,—,n/a,No,Yes,—
-7 · Interest-rate differential vs exchange rate,Cross-border,ir_differential:Δ | exchange_rate:Δ,0.181,0.181,0.349,-1,0.238,5,exchange_rate,No,No,n/a,auto +0.35@-1 vs theory +0.24@+5
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,spread_10y2y_ca:levels | gdp_growth_ca:avg,0.31,0.31,-0.377,-9,0.31,0,gdp_growth_ca,n/a,No,n/a,auto -0.38@-9 vs theory +0.31@+0
+6 · Energy prices vs CPI inflation,US,energy_ppi:levels | cpi:YoY,0.709,0.709,0.709,0,0.709,0,—,n/a,No,Yes,—
+6 · Energy prices vs CPI inflation,Canada,energy_ppi_ca:levels | cpi_ca:YoY,0.667,0.667,0.667,0,0.667,0,—,n/a,No,n/a,—
+7 · Interest-rate differential vs exchange rate,Cross-border,ir_differential:Δ | exchange_rate:Δ,0.181,0.181,0.349,-1,0.24,5,exchange_rate,No,No,n/a,auto +0.35@-1 vs theory +0.24@+5
 8 · VIX vs GDP growth,US,vix:levels | gdp_growth:levels,-0.319,-0.319,-0.319,0,-0.319,0,—,n/a,No,Yes,—
-8 · VIX vs GDP growth,Canada,vix:levels | gdp_growth_ca:levels,-0.245,-0.245,-0.245,0,-0.245,0,—,n/a,No,Yes,—
+8 · VIX vs GDP growth,Canada,vix:levels | gdp_growth_ca:levels,-0.243,-0.243,-0.243,0,-0.243,0,—,n/a,No,n/a,—

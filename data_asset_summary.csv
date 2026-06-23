@@ -1,19 +1,19 @@
 series,column,source,first_date,last_date,frequency,n_obs,ADF_order,ADF_p_level
-core_cpi,Prices :: Core Consumer Prices,Trading Economics/FRED (US),1963-09-30,2026-06-30,Q,252,I(1+),0.9971
+core_cpi,Prices :: Core Consumer Prices,Trading Economics/FRED (US),1957-03-31,2026-06-30,Q,278,I(1+),0.998
 cpi,Prices :: Consumer Price Index CPI,Trading Economics/FRED (US),1950-03-31,2026-06-30,Q,306,I(1+),0.9987
 cpi_ca,Prices :: Consumer Price Index CPI,Trading Economics/StatCan (Canada),1950-03-31,2026-06-30,Q,306,I(1+),0.9937
-energy_ppi,Prices :: Energy Inflation,Trading Economics — Energy Inflation (US),1996-09-30,2026-06-30,Q,120,I(1),0.0768
-energy_ppi_ca,Prices :: Energy Inflation,Trading Economics — Energy Inflation (Canada),1962-03-31,2026-06-30,Q,258,I(1),0.1328
-exchange_rate,Canada (BoC) :: USD/CAD FX,Bank of Canada — USD/CAD,2017-03-31,2026-06-30,Q,38,I(1),0.4131
+energy_ppi,FRED :: CPIENGSL (YoY %),Trading Economics (US); FRED fallback — CPIENGSL energy-CPI YoY,1958-03-31,2026-06-30,Q,274,I(0),0.0104
+energy_ppi_ca,Prices :: Energy Inflation,Trading Economics — Energy Inflation (Canada),1962-03-31,2026-06-30,Q,258,I(1),0.1129
+exchange_rate,Canada (BoC) :: USD/CAD FX,Bank of Canada — USD/CAD,2017-03-31,2026-06-30,Q,38,I(1),0.4154
 gdp_growth,FRED :: A191RL1Q225SBEA,"FRED — Real GDP growth, SAAR (A191RL1Q225SBEA, US, 1947+)",1947-06-30,2026-03-31,Q,316,I(0),0.0
-gdp_growth_ca,GDP Growth Rate :: Canada,Trading Economics (Canada),1961-06-30,2026-03-31,Q,260,I(0),0.0
-ir_differential,derived:ir_differential,Derived: US Eff. Fed Funds − BoC overnight,2009-06-30,2026-06-30,Q,69,I(1+),0.478
+gdp_growth_ca,FRED :: NGDPRSAXDCCAQ (QoQ %),Trading Economics (Canada); FRED fallback — NGDPRSAXDCCAQ real-GDP QoQ %,1961-06-30,2026-03-31,Q,260,I(0),0.0
+ir_differential,derived:ir_differential,Derived: US Eff. Fed Funds − BoC overnight,2009-06-30,2026-06-30,Q,69,I(1+),0.4778
 output_gap,derived:output_gap,Derived: BEA real GDP / CBO potential (US),1949-03-31,2026-06-30,Q,310,I(0),0.0
 output_gap_ca,Potential GDP & Output Gap :: Output gap - Current MPR,Bank of Canada — MPR output gap % (Canada),1981-03-31,2025-12-31,Q,180,I(0),0.0001
 policy_rate,US Financial Conditions :: Eff. Fed Funds,FRED — Eff. Fed Funds (US),2000-09-30,2026-06-30,Q,104,I(0),0.0189
-policy_rate_ca,Interest Rate :: Canada,Bank of Canada — policy rate (Canada),1990-03-31,2026-06-30,Q,146,I(1),0.2359
+policy_rate_ca,Interest Rate :: Canada,Bank of Canada — policy rate (Canada),2023-09-30,2026-06-30,Q,12,I(1+),0.9651
 ppi,Prices :: Producer Prices,Trading Economics/FRED (US),2009-12-31,2026-06-30,Q,67,I(1+),0.9982
-prime_rate,Consumer :: Bank Lending Rate,Trading Economics — Bank Lending Rate (US),1950-03-31,2026-06-30,Q,306,I(1),0.0834
+prime_rate,Consumer :: Bank Lending Rate,Trading Economics — Bank Lending Rate (US),1950-03-31,2026-06-30,Q,306,I(1),0.0947
 spread_10y2y,FRED :: T10Y2Y,"FRED — 10Y−2Y Treasury slope (T10Y2Y, US, 1976+)",1976-06-30,2026-06-30,Q,201,I(0),0.0011
 spread_10y2y_ca,StatCan :: v122543 - v122538,"StatCan — GoC benchmark 10Y−2Y (v122543−v122538, Canada, 1982+)",1982-06-30,2026-06-30,Q,177,I(0),0.0004
 spread_10y3m,US Financial Conditions :: 10Y-3M Spread,FRED — Treasury (US),2000-03-31,2026-06-30,Q,106,I(0),0.0423

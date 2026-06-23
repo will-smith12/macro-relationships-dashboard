@@ -11,10 +11,10 @@ relationship,country,metric_name,metric_value
 1 · Okun's Law — ΔUnemployment vs GDP growth,US,sign_flip,0.0
 1 · Okun's Law — ΔUnemployment vs GDP growth,US,n_breaks,0.0
 1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,n_obs,240.0
-1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,contemporaneous_r,-0.8149
-1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,auto_peak_r,-0.8149
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,contemporaneous_r,-0.8142
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,auto_peak_r,-0.8142
 1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,auto_peak_lag,0.0
-1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,theory_peak_r,-0.8149
+1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,theory_peak_r,-0.8142
 1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,theory_peak_lag,0.0
 1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,sig_band_95,0.1265
 1 · Okun's Law — ΔUnemployment vs GDP growth,Canada,raw_partial_corr,
@@ -28,8 +28,8 @@ relationship,country,metric_name,metric_value
 2 · Phillips Curve — Unemployment gap vs inflation accel.,US,theory_peak_r,-0.2034
 2 · Phillips Curve — Unemployment gap vs inflation accel.,US,theory_peak_lag,-1.0
 2 · Phillips Curve — Unemployment gap vs inflation accel.,US,sig_band_95,0.113
-2 · Phillips Curve — Unemployment gap vs inflation accel.,US,raw_partial_corr,
-2 · Phillips Curve — Unemployment gap vs inflation accel.,US,partial_corr,
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,raw_partial_corr,-0.1857
+2 · Phillips Curve — Unemployment gap vs inflation accel.,US,partial_corr,-0.1332
 2 · Phillips Curve — Unemployment gap vs inflation accel.,US,sign_flip,0.0
 2 · Phillips Curve — Unemployment gap vs inflation accel.,US,n_breaks,0.0
 2 · Phillips Curve — Unemployment gap vs inflation accel.,Canada,n_obs,242.0
@@ -73,20 +73,20 @@ relationship,country,metric_name,metric_value
 4 · CPI inflation vs short-term policy rate,US,theory_peak_lag,6.0
 4 · CPI inflation vs short-term policy rate,US,sig_band_95,0.1922
 4 · CPI inflation vs short-term policy rate,US,raw_partial_corr,0.2912
-4 · CPI inflation vs short-term policy rate,US,partial_corr,0.2894
+4 · CPI inflation vs short-term policy rate,US,partial_corr,0.3113
 4 · CPI inflation vs short-term policy rate,US,sign_flip,1.0
 4 · CPI inflation vs short-term policy rate,US,n_breaks,1.0
-4 · CPI inflation vs short-term policy rate,Canada,n_obs,146.0
-4 · CPI inflation vs short-term policy rate,Canada,contemporaneous_r,0.3564
-4 · CPI inflation vs short-term policy rate,Canada,auto_peak_r,0.3832
-4 · CPI inflation vs short-term policy rate,Canada,auto_peak_lag,2.0
-4 · CPI inflation vs short-term policy rate,Canada,theory_peak_r,0.3832
-4 · CPI inflation vs short-term policy rate,Canada,theory_peak_lag,2.0
-4 · CPI inflation vs short-term policy rate,Canada,sig_band_95,0.1622
-4 · CPI inflation vs short-term policy rate,Canada,raw_partial_corr,0.3564
-4 · CPI inflation vs short-term policy rate,Canada,partial_corr,0.3787
+4 · CPI inflation vs short-term policy rate,Canada,n_obs,12.0
+4 · CPI inflation vs short-term policy rate,Canada,contemporaneous_r,0.5668
+4 · CPI inflation vs short-term policy rate,Canada,auto_peak_r,0.9896
+4 · CPI inflation vs short-term policy rate,Canada,auto_peak_lag,-8.0
+4 · CPI inflation vs short-term policy rate,Canada,theory_peak_r,0.9273
+4 · CPI inflation vs short-term policy rate,Canada,theory_peak_lag,5.0
+4 · CPI inflation vs short-term policy rate,Canada,sig_band_95,0.5658
+4 · CPI inflation vs short-term policy rate,Canada,raw_partial_corr,0.5668
+4 · CPI inflation vs short-term policy rate,Canada,partial_corr,0.5688
 4 · CPI inflation vs short-term policy rate,Canada,sign_flip,0.0
-4 · CPI inflation vs short-term policy rate,Canada,n_breaks,1.0
+4 · CPI inflation vs short-term policy rate,Canada,n_breaks,0.0
 5 · Yield-curve slope (10Y-2Y) vs GDP growth,US,n_obs,196.0
 5 · Yield-curve slope (10Y-2Y) vs GDP growth,US,contemporaneous_r,0.1425
 5 · Yield-curve slope (10Y-2Y) vs GDP growth,US,auto_peak_r,-0.4216
@@ -99,43 +99,43 @@ relationship,country,metric_name,metric_value
 5 · Yield-curve slope (10Y-2Y) vs GDP growth,US,sign_flip,0.0
 5 · Yield-curve slope (10Y-2Y) vs GDP growth,US,n_breaks,1.0
 5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,n_obs,172.0
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,contemporaneous_r,0.3041
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,auto_peak_r,-0.3807
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,contemporaneous_r,0.3103
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,auto_peak_r,-0.377
 5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,auto_peak_lag,-9.0
-5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,theory_peak_r,0.3041
+5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,theory_peak_r,0.3103
 5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,theory_peak_lag,0.0
 5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,sig_band_95,0.1494
 5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,raw_partial_corr,
 5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,partial_corr,
 5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,sign_flip,0.0
 5 · Yield-curve slope (10Y-2Y) vs GDP growth,Canada,n_breaks,0.0
-6 · Energy prices vs CPI inflation,US,n_obs,120.0
-6 · Energy prices vs CPI inflation,US,contemporaneous_r,0.7958
-6 · Energy prices vs CPI inflation,US,auto_peak_r,0.7958
+6 · Energy prices vs CPI inflation,US,n_obs,274.0
+6 · Energy prices vs CPI inflation,US,contemporaneous_r,0.709
+6 · Energy prices vs CPI inflation,US,auto_peak_r,0.709
 6 · Energy prices vs CPI inflation,US,auto_peak_lag,0.0
-6 · Energy prices vs CPI inflation,US,theory_peak_r,0.7958
+6 · Energy prices vs CPI inflation,US,theory_peak_r,0.709
 6 · Energy prices vs CPI inflation,US,theory_peak_lag,0.0
-6 · Energy prices vs CPI inflation,US,sig_band_95,0.1789
-6 · Energy prices vs CPI inflation,US,raw_partial_corr,0.7922
-6 · Energy prices vs CPI inflation,US,partial_corr,0.792
+6 · Energy prices vs CPI inflation,US,sig_band_95,0.1184
+6 · Energy prices vs CPI inflation,US,raw_partial_corr,0.8097
+6 · Energy prices vs CPI inflation,US,partial_corr,0.8125
 6 · Energy prices vs CPI inflation,US,sign_flip,0.0
-6 · Energy prices vs CPI inflation,US,n_breaks,0.0
+6 · Energy prices vs CPI inflation,US,n_breaks,2.0
 6 · Energy prices vs CPI inflation,Canada,n_obs,258.0
-6 · Energy prices vs CPI inflation,Canada,contemporaneous_r,0.6665
-6 · Energy prices vs CPI inflation,Canada,auto_peak_r,0.6665
+6 · Energy prices vs CPI inflation,Canada,contemporaneous_r,0.667
+6 · Energy prices vs CPI inflation,Canada,auto_peak_r,0.667
 6 · Energy prices vs CPI inflation,Canada,auto_peak_lag,0.0
-6 · Energy prices vs CPI inflation,Canada,theory_peak_r,0.6665
+6 · Energy prices vs CPI inflation,Canada,theory_peak_r,0.667
 6 · Energy prices vs CPI inflation,Canada,theory_peak_lag,0.0
 6 · Energy prices vs CPI inflation,Canada,sig_band_95,0.122
-6 · Energy prices vs CPI inflation,Canada,raw_partial_corr,0.6533
-6 · Energy prices vs CPI inflation,Canada,partial_corr,0.6501
+6 · Energy prices vs CPI inflation,Canada,raw_partial_corr,
+6 · Energy prices vs CPI inflation,Canada,partial_corr,
 6 · Energy prices vs CPI inflation,Canada,sign_flip,0.0
-6 · Energy prices vs CPI inflation,Canada,n_breaks,1.0
+6 · Energy prices vs CPI inflation,Canada,n_breaks,2.0
 7 · Interest-rate differential vs exchange rate,Cross-border,n_obs,37.0
-7 · Interest-rate differential vs exchange rate,Cross-border,contemporaneous_r,0.1812
+7 · Interest-rate differential vs exchange rate,Cross-border,contemporaneous_r,0.181
 7 · Interest-rate differential vs exchange rate,Cross-border,auto_peak_r,0.3488
 7 · Interest-rate differential vs exchange rate,Cross-border,auto_peak_lag,-1.0
-7 · Interest-rate differential vs exchange rate,Cross-border,theory_peak_r,0.2383
+7 · Interest-rate differential vs exchange rate,Cross-border,theory_peak_r,0.2402
 7 · Interest-rate differential vs exchange rate,Cross-border,theory_peak_lag,5.0
 7 · Interest-rate differential vs exchange rate,Cross-border,sig_band_95,0.3222
 7 · Interest-rate differential vs exchange rate,Cross-border,raw_partial_corr,
@@ -154,13 +154,13 @@ relationship,country,metric_name,metric_value
 8 · VIX vs GDP growth,US,sign_flip,0.0
 8 · VIX vs GDP growth,US,n_breaks,0.0
 8 · VIX vs GDP growth,Canada,n_obs,105.0
-8 · VIX vs GDP growth,Canada,contemporaneous_r,-0.2451
-8 · VIX vs GDP growth,Canada,auto_peak_r,-0.2451
+8 · VIX vs GDP growth,Canada,contemporaneous_r,-0.2431
+8 · VIX vs GDP growth,Canada,auto_peak_r,-0.2431
 8 · VIX vs GDP growth,Canada,auto_peak_lag,0.0
-8 · VIX vs GDP growth,Canada,theory_peak_r,-0.2451
+8 · VIX vs GDP growth,Canada,theory_peak_r,-0.2431
 8 · VIX vs GDP growth,Canada,theory_peak_lag,0.0
 8 · VIX vs GDP growth,Canada,sig_band_95,0.1913
-8 · VIX vs GDP growth,Canada,raw_partial_corr,-0.2451
-8 · VIX vs GDP growth,Canada,partial_corr,-0.1711
+8 · VIX vs GDP growth,Canada,raw_partial_corr,
+8 · VIX vs GDP growth,Canada,partial_corr,
 8 · VIX vs GDP growth,Canada,sign_flip,0.0
 8 · VIX vs GDP growth,Canada,n_breaks,0.0
